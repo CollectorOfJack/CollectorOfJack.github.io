@@ -1,0 +1,111 @@
+# Site settings
+title: Collector Of Jack - A Jack Daniel's Tennessee Whiskey Collector' Blog
+email: "collectorofjack@christoc.com"
+description: "A blog for collecting Jack Daniel's bottles and memorabilia"
+url: https://collectorofjack.com
+baseurl: 
+facebook_username: "collectorofjack"
+twitter_username: "collectorofjack"
+instagram_username: "collectorofjack"
+github_username:
+deviantart_username: 
+flickr_username: 
+discus_shortname: "collectorofjack"
+share: false
+google_analytics: G-SR5PB9ZBBL # UA-69145-48
+logo: "images/2022CircleLogov2.png"
+
+
+data_dir: _data
+
+# Owner/author information
+owner:
+  name:   ChrisHammond
+  avatar: ChrisHammond_sq_200.jpg
+  favicon: images/favicon.ico
+  info: Chris has been collecting Jack Daniel's for 23 years and uses this site to document his collection. 
+
+# Authors
+authors:
+   ChrisHammond:
+    name: Chris Hammond
+    display_name: Chris Hammond
+    gravatar: bff097b7cc348bebce39ee1c7694d125
+    email: collectorofjack@christoc.com
+    web: https://www.chrishammond.com
+    twitter: 
+    description: "Chris has been collecting Jack Daniel's for 23 years and uses this site to document his collection."
+
+
+
+# Internal nav
+nav:
+  - BLOG: "/"
+  - HUNT LIST: "/huntlist"
+  - ABOUT: "/JackDanielsCollector"
+  - CONTACT: "/contact"
+  
+
+# All translation keys
+translations:
+ # 404.html
+  permalink: "/404.html"
+
+# Server
+destination:      	 ./_site
+port:             	 4000
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 10
+paginate_path: "/page:num/"
+permalink: "/:title/"
+categories_path: "/category/"
+tags_path: "/tag/"
+# Plugins
+plugins:
+ - jekyll-paginate
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md",vendor]
+
+
+# SiteMap
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+        - "/galleries/*/index.html"
+        - "/galleries/*"
+    include_posts:
+        - "/"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
+
+
+
+#jekyll_picture_tag
+
+picture:
+  source: "images/fullsized"
+  output: "images/generated"
+  suppress_warnings: true
+  ignore_missing_images: false
+
+
+# gallery page generation
+defaults:
+  - scope:
+      type: galleryimage  # select all galleryimage pages
+    values:
+      layout: picture
+
+
+#exclude original images from _site
+
+exclude:
+  - /images/fullsized/*
+  

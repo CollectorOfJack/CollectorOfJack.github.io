@@ -1,0 +1,82 @@
+---
+layout: page
+title: "Collector Of Jack"
+description: "A Jack Daniel's Tennessee Whiskey Collector's Blog"
+type: website
+keywords: "jack, daniel's, collector, blog, jd, whiskey, tennessee, jack daniel's tennessee whiskey"
+active: blog
+image:
+  feature: FireBottleMark-1.jpg
+redirect_from: 
+  - "Events"
+  - "events"
+  - "Blog"
+  - "blog"
+  - "/thanks/"
+---
+<section class="section--postsWrapper">
+  <div class="">
+  <div class="blockGroup">
+    <ul class="blockGroup-list">
+
+    {% for post in paginator.posts %}
+
+    {% assign post = site.posts.first %}
+    {% assign content = post.content %}
+
+    <li class="block">
+      <div class="postArticle-wrapper">
+
+      <div class="post-preview"
+        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+
+        <a href="{{ post.url | prepend: site.baseurl }}">
+        {% if post.image.feature %}
+        {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}
+        {% endif %}
+        <p class="post-title"
+          style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+          {{ post.title }}
+        </p>
+        </a>
+        {% if post.subtitle %}
+        <p class="post-subtitle"
+        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+        {{ post.subtitle }}</p>
+        {% endif %}
+
+        <p class="post-meta"
+        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+        Posted on {{ post.date | date: "%B %-d, %Y" }}</p>
+      </div>
+
+      </div>
+    </li>
+    {% endfor %}
+    <p>&nbsp;</p>
+    </ul>
+  </div>
+  </div>
+</section>
+
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;">
+  {% if paginator.previous_page %}
+  <li class="pager-button btn btn-outline-primary previous">
+  <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+
+  <span class="button-height"> Page {{paginator.page}} of {{paginator.total_pages}}</span>
+
+  {% if paginator.next_page %}
+  <li class="pager-button btn btn-outline-primary next">
+  <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
+
+<br>
