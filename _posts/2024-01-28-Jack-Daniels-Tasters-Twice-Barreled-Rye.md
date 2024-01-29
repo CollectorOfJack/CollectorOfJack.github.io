@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jack Daniel's Distillery Series Twice Barreled Rye"
+title: "Jack Daniel's Distillery Series Twice Barreled Tennessee Straight Rye Whiskey"
 date: '2024-01-28T20:30:00+00:00'
 permalink: TwiceBarreledStraightRyeDistillerySeries
 image:
