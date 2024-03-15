@@ -14,15 +14,15 @@ redirect_from:
 #  - "HuntList"
 ---
 
-This site is where I document my collection, but I am always looking to grow that collection. This page is intended to be a list of Jack Daniel's bottles and memorabilia that I am searching for as well as things I might have available for trades.
+This site is where I document my Jack Daniel's collection. I am always looking to grow that collection! This page is intended to be a list of Jack Daniel's bottles and memorabilia that I am actively searching for, as well as a list of things I might have available for trading.
 
 This is not an all inclusive list, I am definitely looking for more than this, so if you've got something you're interested in parting with, let me know. 
 
 ### Will you sell any bottles?
-I am not super interested in selling the items I have for trade, the goal is to acquire more for my collection, not decrease the size of my collection with selling at this time.
+I am not super interested in selling the items I have for trade, the goal is to acquire more for my collection, not decrease the size of my collection with selling at this time. There are also lots of potential legal issues with selling liquor that I simply don't want to have to worry about.
 
 ### Where will you trade?
-I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet typically within a 5 hour driving radius if needed, but don't hesitate to reach out. I travel for work some times and might be able to meet you elsewhere.
+I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet typically within a 5 hour driving radius if needed. If you're outside that 5 hours radius, that's okay, don't hesitate to reach out. I travel for work some times and might be able to meet you elsewhere.
 
 ## Items for I'm Looking For
 * Jack Daniel's Alabama Bicentennial
