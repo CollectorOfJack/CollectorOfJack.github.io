@@ -21,9 +21,9 @@ data_dir: _data
 # Owner/author information
 owner:
   name:   ChrisHammond
-  avatar: ChrisHammond_sq_200.jpg
+  avatar: 2022_ChrisHammond_300x300.jpg
   favicon: images/favicon.ico
-  info: Chris has been collecting Jack Daniel's for 23 years and uses this site to document his collection. 
+  info: Chris has been collecting Jack Daniel's for 26 years and uses this site to document his collection. 
 
 # Authors
 authors:
@@ -34,7 +34,7 @@ authors:
     email: collectorofjack@christoc.com
     web: https://www.chrishammond.com
     twitter: 
-    description: "Chris has been collecting Jack Daniel's for 23 years and uses this site to document his collection."
+    description: "Chris has been collecting Jack Daniel's for 26 years and uses this site to document his collection."
 
 
 
