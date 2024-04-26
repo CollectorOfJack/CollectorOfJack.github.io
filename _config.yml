@@ -1,7 +1,7 @@
 # Site settings
 title: Collector Of Jack - A Jack Daniel's Tennessee Whiskey Collector' Blog
 email: "collectorofjack@christoc.com"
-description: "A blog for collecting Jack Daniel's bottles and memorabilia"
+description: "A blog about collecting Jack Daniel's bottles and memorabilia from Chris Hammond."
 url: https://collectorofjack.com
 baseurl: 
 facebook_username: "collectorofjack"
@@ -52,9 +52,8 @@ translations:
   permalink: "/404.html"
 
 # Server
-destination:      	 ./_site
-port:             	 4000
-
+destination: ./_site
+port: 4000
 
 # Build settings
 markdown: kramdown
@@ -108,4 +107,4 @@ defaults:
 
 exclude:
   - /images/fullsized/*
-  
+ 
