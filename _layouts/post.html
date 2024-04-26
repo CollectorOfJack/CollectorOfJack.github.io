@@ -7,88 +7,83 @@ layout: default
  
   <!-- Post Content -->
   <div class="container">
+    <div class="row">
+      <div class="mainheading">
+        <!-- Post Title -->
+      <h1 class="posttitle" itemprop="headline">{{ page.title }}</h1>
+      {% if page.subtitle %}
+        <h2 class="subheading">{{ page.subtitle }}</h2>
+        {% endif %}
+        <span class="meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+        <span class="time-tag-categ" style="font-size:.7em;background-color: rgba(128, 128, 128, 0.45);">
+        {% assign minutes = content | number_of_words | divided_by: 180 %}
+        <i class="fa fa-clock-o"></i>&nbsp;{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
+        {{ minutes }} minute read
 
-  <div class="row">
-    <div class="mainheading">
-
-      <!-- Post Title -->
-    <h1 class="posttitle" itemprop="headline">{{ page.title }}</h1>
-    {% if page.subtitle %}
-      <h2 class="subheading">{{ page.subtitle }}</h2>
+        </span>
+    
+      <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+      {% if site.adsense == "enabled" %}
+        {% include adsense-under-header.html %}
       {% endif %}
-      <span class="meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+      <!-- End Adsense -->
 
-      <span class="time-tag-categ" style="font-size:.7em;background-color: rgba(128, 128, 128, 0.45);">
-
-      {% assign minutes = content | number_of_words | divided_by: 180 %}
-      <i class="fa fa-clock-o"></i>&nbsp;{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
-      {{ minutes }} minute read
-
-      </span>
-  
-    <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
-    {% if site.adsense == "enabled" %}
-      {% include adsense-under-header.html %}
-    {% endif %}
-    <!-- End Adsense -->
-
-    <!-- Post Featured Image -->
-    {% if page.image.feature %}
-      {% picture {{ page.image.feature }} class="featured-image img-fluid lazyimg" --alt {{ page.title}}  %}
-    {% endif %}
-    <!-- End Featured Image -->
-
-  </div>
-  
-  
-  </div>
-
-  <div class="row">
-    <div class="col col-md-9">
-    {{ content }}
-    <br>
-    <br>
-    <br>
-    <br>
-
-    <ul class="d-flex justify-content-between pager">
-      {% if page.previous.url %}
-      <li class="pager-button btn btn-outline-primary">
-      <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip"
-        data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
-      </li>
+      <!-- Post Featured Image -->
+      {% if page.image.feature %}
+        {% picture {{ page.image.feature }} class="featured-image img-fluid lazyimg" --alt {{ page.title}}  %}
       {% endif %}
-      {% if page.next.url %}
-      <li class="pager-button btn btn-outline-primary">
-      <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip"
-        data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
-      </li>
-      {% endif %}
-    </ul>
-
+      <!-- End Featured Image -->
 
     </div>
-  {% if post.gallery %}
-    
-    <div class="col-md-3">
-    
-    {% for gallery in post.gallery %}
-    {% assign gallery_id = gallery[0] %}
-    {% include subgallery.html id=gallery_id %}
+        
+    </div>
+
+    <div class="row">
+      <div class="col col-md-9">
+      {{ content }}
+      <br>
+      <br>
+      <br>
+      <br>
+
+      <ul class="d-flex justify-content-between pager">
+        {% if page.previous.url %}
+        <li class="pager-button btn btn-outline-primary">
+        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip"
+          data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+        </li>
+        {% endif %}
+        {% if page.next.url %}
+        <li class="pager-button btn btn-outline-primary">
+        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip"
+          data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+        </li>
+        {% endif %}
+      </ul>
+
+
+      </div>
+    {% if post.gallery %}
       
-    {% endfor %}
+      <div class="col-md-3">
+      
+      {% for gallery in post.gallery %}
+      {% assign gallery_id = gallery[0] %}
+      {% include subgallery.html id=gallery_id %}
+        
+      {% endfor %}
+      </div>
+    {% endif %}
+    
     </div>
-  {% endif %}
-  
-  </div>
-  <div class="row">
-    <div class="container">
-    {% include signoff.html %}
-    <hr class="small">
-    {% if site.share %}{% include share.html %}{% endif %}
+    <div class="row">
+      <div class="container">
+      {% include signoff.html %}
+      <hr class="small">
+      {% if site.share %}{% include share.html %}{% endif %}
 
+      </div>
     </div>
-  </div>
   </div>
 </article>
 
