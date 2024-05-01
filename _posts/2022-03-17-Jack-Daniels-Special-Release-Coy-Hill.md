@@ -20,6 +20,7 @@ gallery:
   - image_path: 56/CoyHill-4.jpg
     image-caption: Jack Daniels Special Release Coy Hill High Proof
     image-copyright: CollectorOfJack.com
+categories: [ Coy Hill, Special Release, High Proof ]
  
 ---
 For 2021 the Special Release from Jack Daniel's is known as the Coy Hill High Proof. It can come from one of two barrel houses up on Coy Hill near Lynchburg, #08 or #13.

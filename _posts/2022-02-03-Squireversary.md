@@ -14,6 +14,7 @@ gallery:
   - image_path: 54/SquireLogo-1.jpg
     image-caption: Jack Daniel's Tennessee Squire Logo
     image-copyright: CollectorOfJack.com
+categories: [ Tennessee Squires, Squire ]
  
 ---
 Today is my 2 year anniversary of getting my plot! I was super pumped to be nominated to be a Tennessee Squire by a fraternity brother of mine back in January 2020, and even more excited to find out that I had been accepted!

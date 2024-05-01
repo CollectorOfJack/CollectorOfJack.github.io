@@ -11,6 +11,7 @@ gallery:
   - image_path: 53/10YearsOldTennesseeWhiskey-1.jpg
     image-caption: Jack Daniels 10-Years Old Tennessee Whiskey
     image-copyright: Image Courtesy of Jack Daniel's Social Media
+categories: [ 10 Years, 10 Years Old, Aged ]
  
 ---
 Earlier this summer we blogged about the Coy Hill High Proof coming out this fall, well we've got another new release from the Jack Daniel's Distillery coming in early September! 

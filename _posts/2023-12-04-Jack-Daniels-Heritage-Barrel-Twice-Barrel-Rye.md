@@ -30,7 +30,7 @@ gallery:
     image-copyright: CollectorOfJack.com
 categories: [ Heritage Barrel, Heritage, Twice Barreled, Rye, Special Release, 700ml ]
 ---
-The 2023 Special Release from Jack Daniel's brings us another heritage barrel selection, and another twice barreled offering ([like 2022](https://collectorofjack.com/TwiceBarreledAmericanMalt)) at the same time. 
+The 2023 Special Release from Jack Daniel's brings us another heritage barrel selection, and another twice barreled offering ([like 2022](/TwiceBarreledAmericanMalt)) at the same time. 
 
 This year's edition is a Rye, first barreled in new oak barrels, then followed up with a second maturing session in some extra toasty heritage barrels. 
 

@@ -17,6 +17,7 @@ gallery:
   - image_path: 51/JackDanielsCoyHillHighProof-3.jpg
     image-caption: Jack Daniel's Single Barrel Coy Hill High Proof
     image-copyright: © CollectorOfJack.com
+categories: [ Coy Hill, Special Release, High Proof ]
   
 ---
 

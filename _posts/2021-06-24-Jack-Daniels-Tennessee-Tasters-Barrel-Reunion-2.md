@@ -20,7 +20,7 @@ gallery:
   - image_path: 48/BarrelReunion2-4.jpg
     image-caption: Tennessee Tasters' Barrel Reunion 2 Finished in Oatmeal Sout Barrels
     image-copyright: © CollectorOfJack.com
-
+categories: [ TN Tasters, Tennessee Tasters, Distillers Series, 375ml, Reunion, Tasters Series, Oatmeal Stout ]
 ---
 
 In the fall of 2019 Jack Daniel's released the fifth bottle in their Tennessee Tasters' series, Barrel Reunion #2, Straight Tennessee Whiskey Finished in Oatmeal Stout Barrels.

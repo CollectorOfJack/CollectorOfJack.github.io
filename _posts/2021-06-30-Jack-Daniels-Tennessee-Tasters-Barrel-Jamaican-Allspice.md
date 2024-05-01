@@ -20,7 +20,7 @@ gallery:
   - image_path: 49/JamaicanAllSpice-4.jpg
     image-caption: Tennessee Tasters' Jamaican Allspice Finished with toasted Jamaican Allspice Wood left side
     image-copyright: © CollectorOfJack.com
-
+categories: [ TN Tasters, Tennessee Tasters, Distillers Series, 375ml, Reunion, Tasters Series ]
 ---
 
 In the spring of 2020 Jack Daniel's released the sixth bottle in their Tennessee Tasters' series, Jamaican Allspice, Straight Tennessee Whiskey Finished with Toasted Jamaican Allspice Wood.
