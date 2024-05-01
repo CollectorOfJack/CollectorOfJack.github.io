@@ -11,7 +11,7 @@ gallery:
   - image_path: 61/smallbatchcoyhill-1.jpg
     image-caption: Jack Daniel's Small Batch Coy Hill 2022
     image-copyright: CollectorOfJack.com
-
+categories: [ Coy Hill, Special Release, High Proof, 375ml ]
 ---
 Hot off the presses and hot to the tongue, Jack Daniel's has announced that this Friday starting at 8am at the White Rabbit Bottle Shop you can get the new Small Batch Coy Hill 375ml bottle! 
 

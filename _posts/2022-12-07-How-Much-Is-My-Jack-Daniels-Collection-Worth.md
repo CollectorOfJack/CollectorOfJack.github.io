@@ -13,6 +13,7 @@ gallery:
   - image_path: 64/Collection-1.jpg
     image-caption: Jack Daniel's Collection
     image-copyright: CollectorOfJack.com
+categories: [ Collection ]
 ---
 We get asked this question a lot.  "How much is my Jack Daniels collection worth?"  The answer is, it depends.  There are a lot of factors that go into determining the value of a collection.  We will try to cover some things, but likely not all, that go into evaluating a liquor collection.
 

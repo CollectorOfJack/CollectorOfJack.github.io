@@ -6,8 +6,7 @@ permalink: JackDanielsFacebookGroup
 image:
   feature: 58/Group-1.jpg
 description: "Taken over by spammers, the good guys have won and gained control over a large Jack Daniel's Facebook Group"
-
- 
+categories: [ Other ] 
 ---
 For the past 6 or 9 months, there has been a Jack Daniel's Facebook Group [Jack Daniels Tennessee Whiskey](https://www.facebook.com/groups/tennesseewhiskey) that has been controlled at first by someone in Vietnam, and then someone in another part of Asia, that has simply put, been over run by scammers and frauds.
 
