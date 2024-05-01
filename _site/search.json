@@ -702,7 +702,7 @@
     "tags"   : "",
     "url"    : "/category",
     "date"   : "",
-    "content"   : "<h1>Collector Of Jack - A Jack Daniel's Tennessee Whiskey Blog - Categories</h1>\n\n<div class=\"row listrecent\">\n  <div class=\"section-title col-md-12 mt-4\">\n    Choose from the category list below to find all posts associated with the category.\n  </div>\n</div>\n\n<div class=\"row listrecent\">\n  <div class=\"section-title col-md-12 mt-4\">\n  \n  \n    <a href=\"/category/150th\" id=\"150th\" class=\"btn-primary btn-category\">150th</a>\n  \n    <a href=\"/category/1l\" id=\"1L\" class=\"btn-primary btn-category\">1L</a>\n  \n    <a href=\"/category/2011\" id=\"2011\" class=\"btn-primary btn-category\">2011</a>\n  \n    <a href=\"/category/2012\" id=\"2012\" class=\"btn-primary btn-category\">2012</a>\n  \n    <a href=\"/category/2013\" id=\"2013\" class=\"btn-primary btn-category\">2013</a>\n  \n    <a href=\"/category/2014\" id=\"2014\" class=\"btn-primary btn-category\">2014</a>\n  \n    <a href=\"/category/2022\" id=\"2022\" class=\"btn-primary btn-category\">2022</a>\n  \n    <a href=\"/category/2023\" id=\"2023\" class=\"btn-primary btn-category\">2023</a>\n  \n    <a href=\"/category/375ml\" id=\"375ml\" class=\"btn-primary btn-category\">375ml</a>\n  \n    <a href=\"/category/700ml\" id=\"700ml\" class=\"btn-primary btn-category\">700ml</a>\n  \n    <a href=\"/category/750ml\" id=\"750ml\" class=\"btn-primary btn-category\">750ml</a>\n  \n    <a href=\"/category/about\" id=\"About\" class=\"btn-primary btn-category\">About</a>\n  \n    <a href=\"/category/angel-s\" id=\"Angel's\" class=\"btn-primary btn-category\">Angel's</a>\n  \n    <a href=\"/category/barrel-proof\" id=\"Barrel-Proof\" class=\"btn-primary btn-category\">Barrel Proof</a>\n  \n    <a href=\"/category/barrel-proof-rye\" id=\"Barrel-Proof-Rye\" class=\"btn-primary btn-category\">Barrel Proof Rye</a>\n  \n    <a href=\"/category/box\" id=\"Box\" class=\"btn-primary btn-category\">Box</a>\n  \n    <a href=\"/category/chatgpt\" id=\"ChatGPT\" class=\"btn-primary btn-category\">ChatGPT</a>\n  \n    <a href=\"/category/distiller-series\" id=\"Distiller-Series\" class=\"btn-primary btn-category\">Distiller Series</a>\n  \n    <a href=\"/category/distillers-series\" id=\"Distillers-Series\" class=\"btn-primary btn-category\">Distillers Series</a>\n  \n    <a href=\"/category/gentleman-jack\" id=\"Gentleman-Jack\" class=\"btn-primary btn-category\">Gentleman Jack</a>\n  \n    <a href=\"/category/heritage\" id=\"Heritage\" class=\"btn-primary btn-category\">Heritage</a>\n  \n    <a href=\"/category/heritage-barrel\" id=\"Heritage-Barrel\" class=\"btn-primary btn-category\">Heritage Barrel</a>\n  \n    <a href=\"/category/hickory\" id=\"Hickory\" class=\"btn-primary btn-category\">Hickory</a>\n  \n    <a href=\"/category/hickory-smoked\" id=\"Hickory-Smoked\" class=\"btn-primary btn-category\">Hickory Smoked</a>\n  \n    <a href=\"/category/high-proof\" id=\"High-Proof\" class=\"btn-primary btn-category\">High Proof</a>\n  \n    <a href=\"/category/history\" id=\"History\" class=\"btn-primary btn-category\">History</a>\n  \n    <a href=\"/category/holiday-select\" id=\"Holiday-Select\" class=\"btn-primary btn-category\">Holiday Select</a>\n  \n    <a href=\"/category/limited-edition\" id=\"Limited-Edition\" class=\"btn-primary btn-category\">Limited Edition</a>\n  \n    <a href=\"/category/mclaren\" id=\"McLaren\" class=\"btn-primary btn-category\">McLaren</a>\n  \n    <a href=\"/category/rested-rye\" id=\"Rested-Rye\" class=\"btn-primary btn-category\">Rested Rye</a>\n  \n    <a href=\"/category/reunion\" id=\"Reunion\" class=\"btn-primary btn-category\">Reunion</a>\n  \n    <a href=\"/category/rye\" id=\"Rye\" class=\"btn-primary btn-category\">Rye</a>\n  \n    <a href=\"/category/single-barrel\" id=\"Single-Barrel\" class=\"btn-primary btn-category\">Single Barrel</a>\n  \n    <a href=\"/category/single-malt\" id=\"Single-Malt\" class=\"btn-primary btn-category\">Single Malt</a>\n  \n    <a href=\"/category/special-release\" id=\"Special-Release\" class=\"btn-primary btn-category\">Special Release</a>\n  \n    <a href=\"/category/tn-tasters\" id=\"TN-Tasters\" class=\"btn-primary btn-category\">TN Tasters</a>\n  \n    <a href=\"/category/tasters-series\" id=\"Tasters-Series\" class=\"btn-primary btn-category\">Tasters Series</a>\n  \n    <a href=\"/category/tennessee-rye\" id=\"Tennessee-Rye\" class=\"btn-primary btn-category\">Tennessee Rye</a>\n  \n    <a href=\"/category/tennessee-tasters\" id=\"Tennessee-Tasters\" class=\"btn-primary btn-category\">Tennessee Tasters</a>\n  \n    <a href=\"/category/twice-barreled\" id=\"Twice-Barreled\" class=\"btn-primary btn-category\">Twice Barreled</a>\n  \n    <a href=\"/category/unaged-rye\" id=\"Unaged-Rye\" class=\"btn-primary btn-category\">Unaged Rye</a>\n  \n  </div>\n</div>\n"
+    "content"   : "<h1>Collector Of Jack - A Jack Daniel's Tennessee Whiskey Blog - Categories</h1>\n\n<div class=\"row listrecent\">\n  <div class=\"section-title col-md-12 mt-4\">\n    Choose from the category list below to find all posts associated with the category.\n  </div>\n</div>\n\n<div class=\"row listrecent\">\n  <div class=\"section-title col-md-12 mt-4\">\n  \n  \n    <a href=\"/category/100proof\" id=\"100Proof\" class=\"btn-primary btn-category\">100Proof</a>\n  \n    <a href=\"/category/150th\" id=\"150th\" class=\"btn-primary btn-category\">150th</a>\n  \n    <a href=\"/category/1996\" id=\"1996\" class=\"btn-primary btn-category\">1996</a>\n  \n    <a href=\"/category/1l\" id=\"1L\" class=\"btn-primary btn-category\">1L</a>\n  \n    <a href=\"/category/2011\" id=\"2011\" class=\"btn-primary btn-category\">2011</a>\n  \n    <a href=\"/category/2012\" id=\"2012\" class=\"btn-primary btn-category\">2012</a>\n  \n    <a href=\"/category/2013\" id=\"2013\" class=\"btn-primary btn-category\">2013</a>\n  \n    <a href=\"/category/2014\" id=\"2014\" class=\"btn-primary btn-category\">2014</a>\n  \n    <a href=\"/category/2019\" id=\"2019\" class=\"btn-primary btn-category\">2019</a>\n  \n    <a href=\"/category/2020\" id=\"2020\" class=\"btn-primary btn-category\">2020</a>\n  \n    <a href=\"/category/2022\" id=\"2022\" class=\"btn-primary btn-category\">2022</a>\n  \n    <a href=\"/category/2023\" id=\"2023\" class=\"btn-primary btn-category\">2023</a>\n  \n    <a href=\"/category/375ml\" id=\"375ml\" class=\"btn-primary btn-category\">375ml</a>\n  \n    <a href=\"/category/700ml\" id=\"700ml\" class=\"btn-primary btn-category\">700ml</a>\n  \n    <a href=\"/category/750ml\" id=\"750ml\" class=\"btn-primary btn-category\">750ml</a>\n  \n    <a href=\"/category/about\" id=\"About\" class=\"btn-primary btn-category\">About</a>\n  \n    <a href=\"/category/angel-s\" id=\"Angel's\" class=\"btn-primary btn-category\">Angel's</a>\n  \n    <a href=\"/category/apple\" id=\"Apple\" class=\"btn-primary btn-category\">Apple</a>\n  \n    <a href=\"/category/barrel-proof\" id=\"Barrel-Proof\" class=\"btn-primary btn-category\">Barrel Proof</a>\n  \n    <a href=\"/category/barrel-proof-rye\" id=\"Barrel-Proof-Rye\" class=\"btn-primary btn-category\">Barrel Proof Rye</a>\n  \n    <a href=\"/category/barrel-tree\" id=\"Barrel-Tree\" class=\"btn-primary btn-category\">Barrel Tree</a>\n  \n    <a href=\"/category/before-after\" id=\"Before-&amp;-After\" class=\"btn-primary btn-category\">Before &amp; After</a>\n  \n    <a href=\"/category/bicentennial\" id=\"Bicentennial\" class=\"btn-primary btn-category\">Bicentennial</a>\n  \n    <a href=\"/category/birthday\" id=\"Birthday\" class=\"btn-primary btn-category\">Birthday</a>\n  \n    <a href=\"/category/blackened\" id=\"Blackened\" class=\"btn-primary btn-category\">Blackened</a>\n  \n    <a href=\"/category/bonded\" id=\"Bonded\" class=\"btn-primary btn-category\">Bonded</a>\n  \n    <a href=\"/category/box\" id=\"Box\" class=\"btn-primary btn-category\">Box</a>\n  \n    <a href=\"/category/calendar\" id=\"Calendar\" class=\"btn-primary btn-category\">Calendar</a>\n  \n    <a href=\"/category/chatgpt\" id=\"ChatGPT\" class=\"btn-primary btn-category\">ChatGPT</a>\n  \n    <a href=\"/category/cinnamon\" id=\"Cinnamon\" class=\"btn-primary btn-category\">Cinnamon</a>\n  \n    <a href=\"/category/distiller-series\" id=\"Distiller-Series\" class=\"btn-primary btn-category\">Distiller Series</a>\n  \n    <a href=\"/category/distillers-series\" id=\"Distillers-Series\" class=\"btn-primary btn-category\">Distillers Series</a>\n  \n    <a href=\"/category/distillery\" id=\"Distillery\" class=\"btn-primary btn-category\">Distillery</a>\n  \n    <a href=\"/category/duty-free\" id=\"Duty-Free\" class=\"btn-primary btn-category\">Duty Free</a>\n  \n    <a href=\"/category/fire\" id=\"Fire\" class=\"btn-primary btn-category\">Fire</a>\n  \n    <a href=\"/category/flavor\" id=\"Flavor\" class=\"btn-primary btn-category\">Flavor</a>\n  \n    <a href=\"/category/florida\" id=\"Florida\" class=\"btn-primary btn-category\">Florida</a>\n  \n    <a href=\"/category/friends\" id=\"Friends\" class=\"btn-primary btn-category\">Friends</a>\n  \n    <a href=\"/category/gentleman-jack\" id=\"Gentleman-Jack\" class=\"btn-primary btn-category\">Gentleman Jack</a>\n  \n    <a href=\"/category/gift-set\" id=\"Gift-Set\" class=\"btn-primary btn-category\">Gift Set</a>\n  \n    <a href=\"/category/heritage\" id=\"Heritage\" class=\"btn-primary btn-category\">Heritage</a>\n  \n    <a href=\"/category/heritage-barrel\" id=\"Heritage-Barrel\" class=\"btn-primary btn-category\">Heritage Barrel</a>\n  \n    <a href=\"/category/hickory\" id=\"Hickory\" class=\"btn-primary btn-category\">Hickory</a>\n  \n    <a href=\"/category/hickory-smoked\" id=\"Hickory-Smoked\" class=\"btn-primary btn-category\">Hickory Smoked</a>\n  \n    <a href=\"/category/high-proof\" id=\"High-Proof\" class=\"btn-primary btn-category\">High Proof</a>\n  \n    <a href=\"/category/history\" id=\"History\" class=\"btn-primary btn-category\">History</a>\n  \n    <a href=\"/category/holiday\" id=\"Holiday\" class=\"btn-primary btn-category\">Holiday</a>\n  \n    <a href=\"/category/holiday-select\" id=\"Holiday-Select\" class=\"btn-primary btn-category\">Holiday Select</a>\n  \n    <a href=\"/category/jeff-arnett\" id=\"Jeff-Arnett\" class=\"btn-primary btn-category\">Jeff Arnett</a>\n  \n    <a href=\"/category/jim-beam\" id=\"Jim-Beam\" class=\"btn-primary btn-category\">Jim Beam</a>\n  \n    <a href=\"/category/legacy\" id=\"Legacy\" class=\"btn-primary btn-category\">Legacy</a>\n  \n    <a href=\"/category/limited-edition\" id=\"Limited-Edition\" class=\"btn-primary btn-category\">Limited Edition</a>\n  \n    <a href=\"/category/lynchburg\" id=\"Lynchburg\" class=\"btn-primary btn-category\">Lynchburg</a>\n  \n    <a href=\"/category/master-distiller\" id=\"Master-Distiller\" class=\"btn-primary btn-category\">Master Distiller</a>\n  \n    <a href=\"/category/mclaren\" id=\"McLaren\" class=\"btn-primary btn-category\">McLaren</a>\n  \n    <a href=\"/category/metallica\" id=\"Metallica\" class=\"btn-primary btn-category\">Metallica</a>\n  \n    <a href=\"/category/mini-bottles\" id=\"Mini-Bottles\" class=\"btn-primary btn-category\">Mini Bottles</a>\n  \n    <a href=\"/category/music\" id=\"Music\" class=\"btn-primary btn-category\">Music</a>\n  \n    <a href=\"/category/nearest-green\" id=\"Nearest-Green\" class=\"btn-primary btn-category\">Nearest Green</a>\n  \n    <a href=\"/category/other\" id=\"Other\" class=\"btn-primary btn-category\">Other</a>\n  \n    <a href=\"/category/red-dog-saloon\" id=\"Red-Dog-Saloon\" class=\"btn-primary btn-category\">Red Dog Saloon</a>\n  \n    <a href=\"/category/red-sox\" id=\"Red-Sox\" class=\"btn-primary btn-category\">Red Sox</a>\n  \n    <a href=\"/category/rested-rye\" id=\"Rested-Rye\" class=\"btn-primary btn-category\">Rested Rye</a>\n  \n    <a href=\"/category/reunion\" id=\"Reunion\" class=\"btn-primary btn-category\">Reunion</a>\n  \n    <a href=\"/category/riverboat-captain\" id=\"Riverboat-Captain\" class=\"btn-primary btn-category\">Riverboat Captain</a>\n  \n    <a href=\"/category/rye\" id=\"Rye\" class=\"btn-primary btn-category\">Rye</a>\n  \n    <a href=\"/category/saloon\" id=\"Saloon\" class=\"btn-primary btn-category\">Saloon</a>\n  \n    <a href=\"/category/scenes\" id=\"Scenes\" class=\"btn-primary btn-category\">Scenes</a>\n  \n    <a href=\"/category/shot-glass\" id=\"Shot-Glass\" class=\"btn-primary btn-category\">Shot Glass</a>\n  \n    <a href=\"/category/single-barrel\" id=\"Single-Barrel\" class=\"btn-primary btn-category\">Single Barrel</a>\n  \n    <a href=\"/category/single-malt\" id=\"Single-Malt\" class=\"btn-primary btn-category\">Single Malt</a>\n  \n    <a href=\"/category/special-release\" id=\"Special-Release\" class=\"btn-primary btn-category\">Special Release</a>\n  \n    <a href=\"/category/sunshine-state-squires\" id=\"Sunshine-State-Squires\" class=\"btn-primary btn-category\">Sunshine State Squires</a>\n  \n    <a href=\"/category/tn-tasters\" id=\"TN-Tasters\" class=\"btn-primary btn-category\">TN Tasters</a>\n  \n    <a href=\"/category/tasters-series\" id=\"Tasters-Series\" class=\"btn-primary btn-category\">Tasters Series</a>\n  \n    <a href=\"/category/tasting\" id=\"Tasting\" class=\"btn-primary btn-category\">Tasting</a>\n  \n    <a href=\"/category/tennessee\" id=\"Tennessee\" class=\"btn-primary btn-category\">Tennessee</a>\n  \n    <a href=\"/category/tennessee-rye\" id=\"Tennessee-Rye\" class=\"btn-primary btn-category\">Tennessee Rye</a>\n  \n    <a href=\"/category/tennessee-tasters\" id=\"Tennessee-Tasters\" class=\"btn-primary btn-category\">Tennessee Tasters</a>\n  \n    <a href=\"/category/tennesseee\" id=\"Tennesseee\" class=\"btn-primary btn-category\">Tennesseee</a>\n  \n    <a href=\"/category/travel\" id=\"Travel\" class=\"btn-primary btn-category\">Travel</a>\n  \n    <a href=\"/category/twice-barreled\" id=\"Twice-Barreled\" class=\"btn-primary btn-category\">Twice Barreled</a>\n  \n    <a href=\"/category/unaged-rye\" id=\"Unaged-Rye\" class=\"btn-primary btn-category\">Unaged Rye</a>\n  \n    <a href=\"/category/uncle-nearest\" id=\"Uncle-Nearest\" class=\"btn-primary btn-category\">Uncle Nearest</a>\n  \n    <a href=\"/category/winter\" id=\"Winter\" class=\"btn-primary btn-category\">Winter</a>\n  \n    <a href=\"/category/world-series\" id=\"World-Series\" class=\"btn-primary btn-category\">World Series</a>\n  \n  </div>\n</div>\n"
    
    } ,
   
@@ -975,6 +975,17 @@
   
    {
    
+    "title"  : "Legacy",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/legacy/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
     "title"  : "Single Barrel",
     "category" : "",
     "tags"   : "",
@@ -1034,6 +1045,50 @@
     "category" : "",
     "tags"   : "",
     "url"    : "/category/2014/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Winter",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/winter/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Red Dog Saloon",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/red-dog-saloon/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Saloon",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/saloon/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Lynchburg",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/lynchburg/",
     "date"   : "",
     "content"   : null
    
@@ -1118,6 +1173,479 @@
   
    {
    
+    "title"  : "Distillery",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/distillery/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Duty Free",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/duty-free/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "100Proof",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/100proof/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Bonded",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/bonded/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Music",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/music/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Heritage",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/heritage/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "2019",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/2019/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Apple",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/apple/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Flavor",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/flavor/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Holiday",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/holiday/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Calendar",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/calendar/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Mini Bottles",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/mini-bottles/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Before &amp; After",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/before-after/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Friends",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/friends/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Tasting",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/tasting/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Florida",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/florida/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Sunshine State Squires",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/sunshine-state-squires/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Barrel Proof",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/barrel-proof/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Barrel Proof Rye",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/barrel-proof-rye/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Bicentennial",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/bicentennial/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "1996",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/1996/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Tennessee",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/tennessee/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Master Distiller",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/master-distiller/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Jeff Arnett",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/jeff-arnett/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Fire",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/fire/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Cinnamon",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/cinnamon/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Riverboat Captain",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/riverboat-captain/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Birthday",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/birthday/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Gift Set",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/gift-set/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Shot Glass",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/shot-glass/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "2020",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/2020/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Other",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/other/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Uncle Nearest",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/uncle-nearest/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Nearest Green",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/nearest-green/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Barrel Tree",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/barrel-tree/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Metallica",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/metallica/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Blackened",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/blackened/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Jim Beam",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/jim-beam/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Red Sox",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/red-sox/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "World Series",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/world-series/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Scenes",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/scenes/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Travel",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/travel/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Tennesseee",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/tennesseee/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
     "title"  : "History",
     "category" : "",
     "tags"   : "",
@@ -1133,17 +1661,6 @@
     "category" : "",
     "tags"   : "",
     "url"    : "/category/chatgpt/",
-    "date"   : "",
-    "content"   : null
-   
-   } ,
-  
-   {
-   
-    "title"  : "Heritage",
-    "category" : "",
-    "tags"   : "",
-    "url"    : "/category/heritage/",
     "date"   : "",
     "content"   : null
    
@@ -1210,28 +1727,6 @@
     "category" : "",
     "tags"   : "",
     "url"    : "/category/2023/",
-    "date"   : "",
-    "content"   : null
-   
-   } ,
-  
-   {
-   
-    "title"  : "Barrel Proof Rye",
-    "category" : "",
-    "tags"   : "",
-    "url"    : "/category/barrel-proof-rye/",
-    "date"   : "",
-    "content"   : null
-   
-   } ,
-  
-   {
-   
-    "title"  : "Barrel Proof",
-    "category" : "",
-    "tags"   : "",
-    "url"    : "/category/barrel-proof/",
     "date"   : "",
     "content"   : null
    

@@ -20,6 +20,7 @@ gallery:
     - image_path: 21/JackDaniels150thDistillery-4.jpg
       image-caption: Jack Daniel's Distillery 150th Anniversary Release
       image-copyright: © CollectorOfJack.com
+categories: [ Distillery, 750ml, 150th, Lynchburg ]
 ---
 In 2016 Jack Daniel's celebrated the 150th anniversary of the Jack Daniel's Distillery in Lynchburg, TN. They commemorated this with a special edition bottle in a black and gold label.
 The front of the bottle reads:

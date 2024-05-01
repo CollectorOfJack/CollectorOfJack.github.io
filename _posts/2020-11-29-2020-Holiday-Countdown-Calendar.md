@@ -29,6 +29,7 @@ gallery:
   - image_path: 40/HolidayCountdown2020-7.jpg
     image-caption: Jack Daniel's 2020 Holiday Countdown Calendar
     image-copyright: © CollectorOfJack.com
+categories: [ Holiday, Calendar, Mini Bottles ]
 ---
 
 [Last year, Jack Daniel's brought their Holiday Countdown Calendar]({% post_url 2019-12-19-2019AdventCalendar %}) to the states, this year they bring it again and supposedly make it easier to find!

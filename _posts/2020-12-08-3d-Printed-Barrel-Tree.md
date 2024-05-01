@@ -29,7 +29,7 @@ gallery:
   - image_path: 42/BarrelTree-7.jpg
     image-caption: Testing tree configurations some pre-stain
     image-copyright: © CollectorOfJack.com
-  
+categories: [ Holiday, Barrel Tree ]
 ---
 
 I am simply not sure if I'll make it to Lynchburg this year or not to see the Barrel Tree. I had really hoped to, but with everything going on, it simply doesn't look like that trip will happen. 

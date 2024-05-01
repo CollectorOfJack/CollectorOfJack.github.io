@@ -14,6 +14,7 @@ gallery:
   - image_path: 34/JeffArnett-2.jpg
     image-caption: The 7th (8th?) Master Distiller for Jack Daniel's, Jeff Arnett
     image-copyright: © CollectorOfJack.com
+categories: [ Master Distiller, Jeff Arnett ]
 ---
 
 September is the accepted Birth Month of Jack Daniel's, so every September there is a month long celebration with photos and stories that are posted online. This month however is a little different, it was announced yesterday that Master Distiller Jeff Arnett will be stepping down at the end of September 2020, and leaving Jack Daniel's. No further details have been provided, is he retiring, going somewhere else?

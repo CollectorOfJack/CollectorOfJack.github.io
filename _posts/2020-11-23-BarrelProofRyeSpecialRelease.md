@@ -14,6 +14,7 @@ gallery:
   - image_path: 39/BarrelProofRyeSpecialRelease-2.jpg
     image-caption: 2020's Special Release
     image-copyright: © CollectorOfJack.com
+categories: [ Special Release, Barrel Proof, Barrel Proof Rye, Single Barrel, Rye, "2020" ]
 ---
 
 For the past two years, Jack Daniel's Special Release has been the Heritage barrel bottles (covered [here](/HeritageBarrel2019) and [here](/HeritageBarrel)).

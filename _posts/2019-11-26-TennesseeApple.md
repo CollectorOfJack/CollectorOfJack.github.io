@@ -20,8 +20,8 @@ gallery:
   - image_path: 26/JackDanielsTennesseeApple-4.jpg
     image-caption: Jack Daniel's Tennessee Apple flavored liquor
     image-copyright: © CollectorOfJack.com
+categories: [ Apple, 750ml, Flavor ]
 ---
-
 With the release of Jack Honey and Fire over the past 10 years, it was time for Jack Daniel's to catch the apple train and release their own Tennessee Apple Liqueur. I was able to get some here in Missouri earlier this fall from lukasliquorstl.com (no longer active).
 
 The 750ml bottle comes in the usual Jack Daniel's shape with a green gold and white label. The front of the bottle reads:

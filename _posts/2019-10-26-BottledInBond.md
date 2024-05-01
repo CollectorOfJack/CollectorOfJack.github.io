@@ -29,8 +29,9 @@ gallery:
   - image_path: 23/BottledInBond-7.jpg
     image-caption: Jack Daniel's Bottled In Bond release available in international travel marketplaces
     image-copyright: © CollectorOfJack.com
----
+categories: [ Duty Free, 750ml, 100Proof, Bonded ]
 
+---
 Another Traveler's Exclusive released by Jack Daniel's in the last couple of years is the 100 Proof Bottled in Bond. I recently acquired one with the help of an employee who traveled to Europe in September. Only one was acquired, so I haven't had a change to taste it, but hopefully I can get another bottle some time in the future.
 
 

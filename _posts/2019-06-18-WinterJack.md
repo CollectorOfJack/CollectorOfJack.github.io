@@ -20,6 +20,7 @@ gallery:
   - image_path: 12/WinterJack-4.jpg
     image-caption: Jack Daniel's Winter Jack, Tennessee Cider
     image-copyright: © CollectorOfJack.com
+categories: [ Winter, 750ml ]
 ---
 In the last blog post I covered the [Jack Daniel's Tennessee Cider, Winter Jack, released in 2013](/WinterJack2013). Today's blog covers the same product, but this time with a new label. The front has the same text, Jack Daniel's Winter Jack, Original Recipe Tennessee Cider. Along with:   
 

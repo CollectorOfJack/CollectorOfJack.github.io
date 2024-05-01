@@ -43,6 +43,7 @@ gallery:
   - image_path: 29/2-7-2020-11.jpg
     image-caption: Whiskey tasting photos
     image-copyright: © CollectorOfJack.com
+categories: [ Friends, Tasting ]
 ---
 
 I've been threatening for months that I was going to have a whiskey tasting event, this past Friday I finally did it. This post contains an overview of how I planned, how the event went and what lessons learned for future events.

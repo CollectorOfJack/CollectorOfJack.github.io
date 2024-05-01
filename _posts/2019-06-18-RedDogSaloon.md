@@ -20,6 +20,7 @@ gallery:
   - image_path: 13/RedDogSaloon-4.jpg
     image-caption: Jack Daniel's ode to the Red Dog Saloon release
     image-copyright: © CollectorOfJack.com
+categories: [ Red Dog Saloon, 750ml, Saloon, Lynchburg ]
 ---
   
 in 1892 Jack Daniel opened the Red Dog Saloon on the Lynchburg town square. While nothing remains of it but legend, the distillery decided to release a 125th anniversary bottle in 2017 to celebrate the occasion.    

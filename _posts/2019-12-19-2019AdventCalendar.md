@@ -23,6 +23,7 @@ gallery:
   - image_path: 27/HolidayCalendar2019-5.jpg
     image-caption: Jack Daniel's 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States
     image-copyright: © CollectorOfJack.com
+categories: [ Holiday, Calendar, Mini Bottles ]
 ---
 
 For 2019 Jack Daniel's has brought their holiday (advent) calendar across the pond to the United States! They've also made it available elsewhere around the globe this year as well, where I believe primarily over the past couple of years it was only available in the UK (I could be wrong on that fact).

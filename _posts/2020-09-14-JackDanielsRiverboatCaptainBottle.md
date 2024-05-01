@@ -65,6 +65,7 @@ gallery:
   - image_path: 36/RiverboatCaptain-19.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
     image-copyright: © CollectorOfJack.com
+categories: [ Riverboat Captain ]
 ---
 
 In September 2020, I received an email via my website asking if I might be interested in a bottle for sale. 

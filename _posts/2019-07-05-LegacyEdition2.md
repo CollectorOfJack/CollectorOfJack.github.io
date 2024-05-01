@@ -35,8 +35,8 @@ gallery:
   - image_path: 20/JDLegacyEdition2-9.jpg
     image-caption: Jack Daniel's Legacy Edition Series Second Edition release, the red and black label
     image-copyright: © CollectorOfJack.com
+categories: [ Legacy, 750ml ]
 ---
-
 In May of 2019 Jack Daniel's released the second in their Legacy Edition line. TotalWine.com has the bottled described as
 
 > Tennessee- The second release in the limited edition Legacy Series is reminiscent of an early 1900s era design. Its anchor and rope crest and black background speak to the quiet confidence and character of the Tennessee Whiskey that rests within.

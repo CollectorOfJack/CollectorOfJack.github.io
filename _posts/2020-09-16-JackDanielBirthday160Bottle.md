@@ -38,7 +38,7 @@ gallery:
   - image_path: 37/CollectorOfJack-20.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-
+categories: [ Master Distiller, Birthday ]
 ---
 
 In 2010, the Jack Daniel's distillery released a beautiful black bottle for Jack Daniel's 160th birthday. No one is actually sure what day in the month of September is his actual birthday, so they celebrate all month long in Lynchburg Tennessee. The bottle came with a black box, both adorned in white silver and red accents.

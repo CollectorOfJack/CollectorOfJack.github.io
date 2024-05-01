@@ -50,8 +50,8 @@ gallery:
   - image_path: 28/BeforeAndAfter-14.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
+categories: [ Before & After, 375ml, Lynchburg ]
 ---
-
 In the fall of 2019 rumors started swirling online of a new release available at the White Rabbit Bottleshop in Lynchburg, of a Before and After set. Two bottles of unmatured Old No. 7, one BEFORE Charcoal Mellowing and one AFTER Charcoal Mellowing, along with a small bottle of Hard Sugar Maple Charcoal in between the two bottles. The BEFORE bottle on the left, the AFTER on the right.
 
 It ends up the package was exclusive to Tennessee, and could be found at a variety of locations around the state. I lined up a set with a local in Lynchburg, and planned to get it in the mail, trading for a Scenes of Lynchburg series bottle, but got cold feet before shipping and ended up committing to the other party that I would trade in person next time I make it to Lynchburg.

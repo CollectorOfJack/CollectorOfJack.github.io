@@ -50,7 +50,7 @@ gallery:
   - image_path: 30/DaytonaBikeWeek2020-14.jpg
     image-caption: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
     image-copyright: © CollectorOfJack.com
-
+categories: [ Single Barrel, Florida, Sunshine State Squires ]
 ---
 
 Last fall I discovered that there are Facebook groups dedicated to Jack Daniel's. I started following <a href="https://www.facebook.com/groups/1715814138658931/" target="_blank">The Jack Cave, with Sue Scheel Clark</a>. One a post there one day she mentioned the <a href="https://www.facebook.com/groups/300956420510408/" target="_blank">Sunshine State Squires and Collectors Facebook Group</a> out of Florida, and that they were putting together some special edition bottles, and had previously done a few bottles as well. The first bottle that I learned about is one I hope to write about in the next week or two, as I don't have it yet, but today I received my first bottle from the group.

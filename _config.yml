@@ -22,8 +22,9 @@ data_dir: _data
 owner:
   name: Chris Hammond
   avatar: 2022_ChrisHammond_300x300.jpg
+  web: https://www.chrishammond.com/
   favicon: images/favicon.ico
-  info: Chris has been collecting Jack Daniel's for 26 years and uses this site to document his collection. 
+  info: 'Chris has been collecting Jack Daniel''s for 26 years and uses this site to document his collection. <a href="/JackDanielsCollector">Read more about his story</a>'
 
 # Authors
 authors:

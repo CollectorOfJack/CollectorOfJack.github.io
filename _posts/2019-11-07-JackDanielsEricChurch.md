@@ -38,6 +38,7 @@ gallery:
   - image_path: 24/EricChurch-10.jpg
     image-caption: Jack Daniel's Eric Church Double Down Tour Single Barrel Release from 2019
     image-copyright: © CollectorOfJack.com
+categories: [ 750ml, Single Barrel, Music ]
 
 ---
 *This post is for the 2019 version of the Eric Church bottle!*

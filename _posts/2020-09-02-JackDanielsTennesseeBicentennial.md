@@ -29,6 +29,7 @@ gallery:
   - image_path: 33/JackDanielsBicentennial-7.jpg
     image-caption: 1796-1996 A special release honoring the state of Tennessee's Bicentennial in 1996
     image-copyright: © CollectorOfJack.com
+categories: [ 750ml, Bicentennial, "1996", Tennessee ]
 ---
 In 1995 Jack Daniel's released a 750ml bottle to celebrate the State of Tennessee's Bicentennial for the year 1996. This replica of the 1896 Centennial bottle that Jack Daniel produced in limited quantities was available in in the US, and in international markets in a 700ml size.
 
