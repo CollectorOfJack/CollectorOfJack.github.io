@@ -12,10 +12,18 @@ description: A listing of categories used on CollectorOfJack.com
 permalink: /category
 ---
 <h1>{{ site.title }} - Categories</h1>
+
 <div class="row listrecent">
-{% for category in site.categories | sort %}
-<div class="section-title col-md-12 mt-4">
-<a href="/category/{{category[0] | replace: " ","-" }}" id="{{ category[0] | replace: " ","-" }}">{{ category[0] }}</a>
+  <div class="section-title col-md-12 mt-4">
+    Choose from the category list below to find all posts associated with the category.
+  </div>
 </div>
-{% endfor %}
+
+<div class="row listrecent">
+  <div class="section-title col-md-12 mt-4">
+  {% assign sortedCategories = site.categories | sort %}
+  {% for category in sortedCategories %}
+    <a href="{{site.baseurl}}/category/{{ category[0] | url_escape | strip | slugify }}" id="{{ category[0] | replace: " ","-" }}" class="btn-primary btn-category">{{ category[0] }}</a>
+  {% endfor %}
+  </div>
 </div>
