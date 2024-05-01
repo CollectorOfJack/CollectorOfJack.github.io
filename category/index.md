@@ -10,6 +10,8 @@ image:
   feature: 
 description: A listing of categories used on CollectorOfJack.com
 permalink: /category
+redirect_from:
+  - /category/
 ---
 <h1>{{ site.title }} - Categories</h1>
 
