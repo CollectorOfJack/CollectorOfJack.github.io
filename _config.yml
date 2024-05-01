@@ -1,5 +1,5 @@
 # Site settings
-title: Collector Of Jack - A Jack Daniel's Tennessee Whiskey Collector' Blog
+title: "Collector Of Jack - A Jack Daniel's Tennessee Whiskey Blog"
 email: "collectorofjack@christoc.com"
 description: "A blog about collecting Jack Daniel's bottles and memorabilia from Chris Hammond."
 url: https://collectorofjack.com
@@ -64,9 +64,16 @@ paginate_path: "/page:num/"
 permalink: "/:title/"
 categories_path: "/category/"
 tags_path: "/tag/"
+
 # Plugins
 plugins:
+ - jekyll_picture_tag
  - jekyll-paginate
+ - jekyll-sitemap
+ - jekyll-feed
+ - jekyll-archives
+
+
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md",vendor]
 
 
@@ -85,6 +92,14 @@ sitemap:
     priority_name: "priority"
 
 
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
 
 #jekyll_picture_tag
 
@@ -101,10 +116,14 @@ defaults:
       type: galleryimage  # select all galleryimage pages
     values:
       layout: picture
-
+  - scope:
+      path: ""  # An empty string here means all files
+      type: "posts"
+    values:
+      author: "ChrisHammond"
 
 #exclude original images from _site
 
 exclude:
   - /images/fullsized/*
- 
+

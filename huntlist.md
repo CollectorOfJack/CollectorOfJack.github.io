@@ -12,6 +12,7 @@ redirect_from:
   - "WantedItems"
   - "ComingSoon"
 #  - "HuntList"
+categories: [ hunt ]
 ---
 
 This site is where I document my Jack Daniel's collection. I am always looking to grow that collection! This page is intended to be a list of Jack Daniel's bottles and memorabilia that I am actively searching for, as well as a list of things I might have available for trading.
@@ -30,7 +31,9 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 * 1915 Gold Medal Series Box
 * [Jack Daniel's 10 Years Old Tennessee Whiskey Batch 1](/JackDaniels10Year)
 * Jack Daniel's 10 Year Batch 2
-* Jack Daniel's 12 Year 
+* Jack Daniel's 10 Year Batch 3
+* Jack Daniel's 12 Year Batch 1
+* Jack Daniel's 12 Year Batch 2
 * [Jack Daniel's Special Release Coy Hill High Proof](/JackDanielsSpecialReleaseCoyHillHighProof)
 * [Jack Daniel's Small Batch Coy Hill](/SmallBatchCoyHill2022)
 * Sinatra Select Century

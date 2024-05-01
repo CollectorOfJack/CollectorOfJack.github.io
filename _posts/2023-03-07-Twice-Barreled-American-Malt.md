@@ -25,6 +25,7 @@ gallery:
   - image_path: 66/JackDanielsTwiceBarreled-5.jpg
     image-caption: Jack Daniels 2022 Special Release Twice Barreled American Single Malt
     image-copyright: CollectorOfJack.com
+categories: [ Heritage Barrel, Heritage, Twice Barreled, Single Malt, Special Release, 700ml, "2022" ]
 
 ---
 It's been a while since I've blogged about a real bottle, that doesn't mean I haven't been collecting. I simply got it in my head that I needed the perfect backdrop for my photos.

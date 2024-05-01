@@ -35,6 +35,7 @@ gallery:
   - image_path: 8/HolidaySelect2012-9.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2012
     image-copyright: © CollectorOfJack.com
+categories: [ Special Release, Single Barrel, 750ml, Holiday Select, "2012" ]
 ---
 
 In our [last blog post we covered the first in the Holiday Select series](/HolidaySelect2011), in this one, we cover the second, the Holiday Select 2012 Limited Edition bottle from Jack Daniel's. 

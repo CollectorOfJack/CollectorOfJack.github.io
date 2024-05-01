@@ -37,6 +37,7 @@ gallery:
   - image_path: 67/McLaren-9.jpg
     image-caption: Jack Daniel's / McLaren Racing Formula 1 2023 Bottle Side
     image-copyright: CollectorOfJack.com
+categories: [ McLaren, "2023", Box, 1L ]
 ---
 
 ## Celebrating Five Years of CollectorOfJack.com

@@ -28,6 +28,7 @@ gallery:
   - image_path: 69/TwiceBarreledRye-6.jpg
     image-caption: Jack Daniel's Twice Barreled Heritage Barrel Rye
     image-copyright: CollectorOfJack.com
+categories: [ Heritage Barrel, Heritage, Twice Barreled, Rye, Special Release, 700ml ]
 ---
 The 2023 Special Release from Jack Daniel's brings us another heritage barrel selection, and another twice barreled offering ([like 2022](https://collectorofjack.com/TwiceBarreledAmericanMalt)) at the same time. 
 

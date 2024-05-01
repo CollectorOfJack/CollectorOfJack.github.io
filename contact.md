@@ -8,16 +8,13 @@ type: website
 
 image:
   feature: contact-1.jpg
-description: Our origin story for collecting Jack Daniel's.
+description: Want to get in touch with Chris Hammond? 
 permalink: /contact
 ---
+Do you have a Jack Daniel's collection that you're looking to find a buyer for? I might be interested, especially if you are in driving distance from St. Louis, Missouri.
+
+You can reach me via the contact form on [ChrisHammond.com](https://chrishammond.com/Contact).
 
 
-<p>Do you have a Jack Daniel's collection that you're looking to find a buyer for? I might be interested, especially if you are in driving distance from St. Louis, Missouri.</p>
-
-<p>You can reach me via the contact form on <a href="https://chrishammond.com/Contact">ChrisHammond.com</a>.</p>
-
-
-<p>You can also reach out to us on <a href="https://twitter.com/collectorofjack/">Twitter</a> 
-or <a href="https://facebook.com/collectorofjack/">Facebook</a>.</p>
+You can also reach out to us on [Twitter](https://twitter.com/collectorofjack/) or [Facebook](https://facebook.com/collectorofjack).
 

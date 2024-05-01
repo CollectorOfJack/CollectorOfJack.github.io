@@ -1,0 +1,51 @@
+---
+layout: page
+---
+
+<!-- Begin List Posts
+================================================== -->
+<section  class="section--postsWrapper">
+<div class="section-title">
+    <h1>Archive of posts with <span>{{ page.type }} '{{ page.title }}'</span></h1>
+</div>
+<div class="blockGroup">
+    <ul class="blockGroup-list">
+    {% for post in site.categories[page.title] %}
+
+    {% assign post = site.posts.first %}
+    {% assign content = post.content %}
+
+    <li class="block">
+      <div class="postArticle-wrapper">
+
+      <div class="post-preview"
+        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+
+        <a href="{{ post.url | prepend: site.baseurl }}">
+        {% if post.image.feature %}
+        {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}
+        {% endif %}
+        <p class="post-title"
+          style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+          {{ post.title }}
+        </p>
+        </a>
+        {% if post.subtitle %}
+        <p class="post-subtitle"
+        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+        {{ post.subtitle }}</p>
+        {% endif %}
+
+        <p class="post-meta"
+        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+        Posted on {{ post.date | date: "%B %-d, %Y" }}</p>
+      </div>
+
+      </div>
+    </li>
+
+    {% endfor %}
+    </ul>
+</div>
+
+</section>

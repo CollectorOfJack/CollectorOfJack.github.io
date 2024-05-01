@@ -26,6 +26,8 @@ gallery:
   - image_path: 2/Day1-9.jpg
     image-caption: Jack Daniel's Gentleman Jack Limited Edition Time Piece Bottle
     image-copyright: © CollectorOfJack.com
+
+categories: [ Limited Edition, Gentleman Jack, 1L ]
 ---
 One of the things I want to do here on this blog is document the various Jack Daniel's collectables, primarily bottles, that I've managed to acquire over time. This is the first post in that series.
 

@@ -36,6 +36,7 @@ gallery:
   - image_path: 7/HolidaySelect2011-9.jpg
     image-caption: Jack Daniel's Holiday Select 2011 Release
     image-copyright: © CollectorOfJack.com
+categories: [ Special Release, Single Barrel, 750ml, Holiday Select, "2011" ]
 ---
 In 2011 Jack Daniel's released the first (of 4) in their series of Holiday Select bottles of Jack Daniel's. The limited edition bottles were essentially Jack Daniel's single barrel bottles, but this collection consisted of whiskey from the barrels used in the Holiday Barrel Tree built near Lynchburg Tennessee's town square. I was fortunate enough to collect all 4 in the series, 2011, 2012, 2013 and 2014. Stay tuned for posts about each of them as we get into this 2018 holiday season.
 

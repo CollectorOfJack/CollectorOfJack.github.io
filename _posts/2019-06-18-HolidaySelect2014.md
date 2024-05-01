@@ -56,6 +56,8 @@ gallery:
   - image_path: 10/HolidaySelect2014-8.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
+
+categories: [ Special Release, Single Barrel, 750ml, Holiday Select, "2014" ]
 ---
 
 In our [last blog post we covered the third in the Holiday Select series](/HolidaySelect2013), in this one, we cover the fourth and final (as of 2018) release, the Holiday Select 2014 Limited Edition bottle from Jack Daniel's. 
