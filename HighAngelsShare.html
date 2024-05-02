@@ -64,21 +64,21 @@
 		<!-- Custom CSS -->
 		<link
 			rel="stylesheet"
-			href="/css/WYSIWYG.css?v=1714599276"
+			href="/css/WYSIWYG.css?v=1714624086"
 			media="screen"
 		/>
-		<link rel="stylesheet" href="/css/main.css?v=1714599276" />
-		<link rel="stylesheet" href="/css/galleries.css?v=1714599276" />
-		<link rel="stylesheet" href="/css/magnificpopup.css?v=1714599276" />
+		<link rel="stylesheet" href="/css/main.css?v=1714624086" />
+		<link rel="stylesheet" href="/css/galleries.css?v=1714624086" />
+		<link rel="stylesheet" href="/css/magnificpopup.css?v=1714624086" />
 
 		<link
 			rel="stylesheet"
-			href="/css/tags-wrap.css?v=1714599276"
+			href="/css/tags-wrap.css?v=1714624086"
 			media="screen"
 		/>
 		<link
 			rel="stylesheet"
-			href="/css/journal.css?v=1714599276"
+			href="/css/journal.css?v=1714624086"
 			media="screen"
 		/>
 		<!-- Custom Fonts -->
@@ -641,6 +641,7 @@
 							<div
 								class="post-author text-center"
 								itemtype="http://schema.org/Person"
+								itemprop="author"
 							>
 								<img
 									src="/images/2022_ChrisHammond_300x300.jpg"
@@ -650,13 +651,11 @@
 								/>
 								<h4>
 									By
-									<span itemprop="name" class="fn"
-										><a
-											href="https://www.chrishammond.com/"
-											title="About Chris Hammond"
-											itemprop="sameAs"
-											>Chris Hammond</a
-										></span
+									<a
+										href="https://www.chrishammond.com/"
+										title="About Chris Hammond"
+										itemprop="sameAs"
+										><span itemprop="name" class="fn">Chris Hammond</span></a
 									>
 								</h4>
 								<div
@@ -666,6 +665,7 @@
 										display: inline-block;
 										font-size: 0.75em;
 									"
+									itemprop="description"
 								>
 									Chris has been collecting Jack Daniel's for 26 years and uses
 									this site to document his collection.
