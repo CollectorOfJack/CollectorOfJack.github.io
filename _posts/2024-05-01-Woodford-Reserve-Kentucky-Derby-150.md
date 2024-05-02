@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Jack Daniel's Distillery Series Twice Barreled Tennessee Straight Rye Whiskey"
-date: '2024-01-28T20:30:00+00:00'
-permalink: TwiceBarreledStraightRyeDistillerySeries
+title: "Woodford Reserve's Kentucky Derby 150th Kentucky Bourbon"
+date: '2024-05-01T23:30:00+00:00'
+permalink: WoodfordReserveKentuckyDerby150
 image:
   feature: 71/WoodfordReserveKentuckyDerby150-2.jpg
-description: "The Jack Daniel's Distillery Series, formerly Tennessee Tasters has a new release for 2024, a Twice Barreled Rye."
-keywords: "Jack Daniel’s Bottle, Tennessee Tasters, Distillery Series, Rye, Twice Barreled, Twice Barreled Rye"
+description: "Woodford Reserve's Kentucky Derby series of bottles is a special annual release that celebrates one of America's most storied horse races, the Kentucky Derby. Each year, Woodford Reserve, a major sponsor of the Derby, issues a limited-edition bottle featuring artwork that pays tribute to the famous race. "
+keywords: "Woodford Reserve, Bourbon, Kentucky Derby, 150th, 2024"
 author: ChrisHammond
 gallery:
   KentuckyDerby150:
