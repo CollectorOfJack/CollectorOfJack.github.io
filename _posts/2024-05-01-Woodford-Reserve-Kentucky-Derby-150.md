@@ -5,7 +5,7 @@ date: '2024-05-01T23:30:00+00:00'
 permalink: WoodfordReserveKentuckyDerby150
 image:
   feature: 71/WoodfordReserveKentuckyDerby150-2.jpg
-description: "Woodford Reserve's Kentucky Derby series of bottles is a special annual release that celebrates one of America's most storied horse races, the Kentucky Derby. Each year, Woodford Reserve, a major sponsor of the Derby, issues a limited-edition bottle featuring artwork that pays tribute to the famous race. "
+description: "Woodford Reserve's Kentucky Derby series of bottles is a special annual release that celebrates one of America's most storied horse races, the Kentucky Derby. "
 keywords: "Woodford Reserve, Bourbon, Kentucky Derby, 150th, 2024"
 author: ChrisHammond
 gallery:
