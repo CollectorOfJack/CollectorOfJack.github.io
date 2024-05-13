@@ -22,6 +22,15 @@ gallery:
   - image_path: 72/stillfound-3-2.jpg
     image-caption: Sedalia Democrat Article May 13th, 1924 Front Page second half
     image-copyright: CollectorOfJack.com
+  - image_path: 72/stillfound-4.jpg
+    image-caption: Jefferson City Post Tribute October 21, 1924 Page 1
+    image-copyright: CollectorOfJack.com
+  - image_path: 72/stillfound-5.jpg
+    image-caption: St. Louis Globe Democrat May 19, 1924 Page 8
+    image-copyright: CollectorOfJack.com
+  - image_path: 72/stillfound-6.jpg
+    image-caption: Sedalia Democrat October 21, 1924 Page 1
+    image-copyright: CollectorOfJack.com
 categories: [ Family History, Sedalia, Whiskey Still, Raid, Seized ]
 ---
 As we get older, we get more nostalgic. As both my parents have aged, my brother and I have spent time going through things they have kept/collected throughout the years. In doing so, you come across all sorts of interesting things, I feel like the older you get, the more interesting some of those things become.
@@ -31,6 +40,8 @@ One thing I came across a few years ago, and flagged for future research, was a 
 > AGENTS FIND BIG STILL
 
 I saw this and wondered why would my father have this paper, it was from 21 years before his birth. The 1920s were deep in the prohibition era, and if you spend any time researching that time period you'll find almost daily mentions in the papers about violations of prohibition.
+
+Being that this article was published 100 years ago today, I figured it was a good time to put a blog post together about it.
 
 When Dad passed last year, I spent some time in Sedalia for his funeral and also for my uncle and great aunt's funerals. In doing so, I was able to spend some time walking around a couple of cemeteries and looking at the various names. One of those names was Butterbaugh. The article mentions the Still was found in a raid of the E. H. Butterbaugh farm, north of Sedalia. The Hammond and Butterbaugh families have a lot of space consumed at the Hopewell Cemetary north of Sedalia.
 
@@ -69,9 +80,8 @@ I believe Benjamin Ditton passed and Susan remarried in August 1890 to David But
 
 E. W.'s mother was Elizabeth Edwards (1876-1891). Now here's the twist. E.W.'s father William, after Elizabeth's passing, married Edith M Belle Ditton (1876-1911), who I believe to be Susan E. Hammond and Benjamin Ditton's daughter. So, E.W.'s grandfather was married to his step mom's mother (step grandmother). 
 
-
 ### Butterbaugh Prohibition Issues
-In doing research for this article, I came across multiple short blurbs in newspapers about the Butterbaugh family having run ins with the law during prohibition. I wish I had a connection to a recipe or something from back then, would be cool to start a Butterbaugh Whiskey business based on family history! 
+In doing research for this article, I came across multiple short blurbs in newspapers about the Butterbaugh family having run ins with the law during prohibition. I wish I had a connection to a recipe or something from back then, would be cool to start a Butterbaugh Whiskey business based on family history! I've included a number of different incidents and paper mentions in the gallery here.
 
 ### Hammond Family History
 Stay tuned for another Hammond family history post next month as I get into the topic of Mattie Corrine Hammond! I'll post that over on [HorsesAndCars.com](https://www.horsesandcars.com) as it doesn't have a whiskey tie into it (that I've found).
