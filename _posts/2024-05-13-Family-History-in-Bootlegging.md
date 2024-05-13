@@ -11,7 +11,7 @@ author: ChrisHammond
 gallery:
   ButterbaughWhiskey:
   - image_path: 72/stillfound-1.jpg
-    image-caption: Sedalia Capital May 13th, 1924 Front Page
+    image-caption: Sedalia Capital May 13th, 1924 Front Page. This image was put together with multiple scans of an obviously deteriorating newspaper
     image-copyright: CollectorOfJack.com
   - image_path: 72/stillfound-2.jpg
     image-caption: Still drawing from Sedalia Capital Front Page
