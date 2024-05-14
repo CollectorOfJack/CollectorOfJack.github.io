@@ -51,7 +51,8 @@ Here's the text of the article from the Sedalia Democrat from May 13, 1924 (imag
 
 ##  IMMENSE STILL SEIZED IN RAID LATE MONDAY
 
-> **Found Concealed Beneath Barn on Farm of E. W. Butterbaugh.
+> **Found Concealed Beneath Barn on Farm of E. W. Butterbaugh.**
+
 > What is declared to be the largest still ever sized in Pettis county was found late Monday afternoon by Sheriff W. H. Fewell, Deputy Sheriff Landon Welch and two federal officers working under Chief General Prohibition Agent W. D. Moss, of Kansas City. In an underground room on the farm of E. W. Butterbaugh, eight miles northeast of Sedalia. The officers were acting under a search warrant issued by United States Commissioner W. E. Miller.
 
 > Butterbaugh was taken in custody, brought to Sedalia and appeared before Commissioner Miller, where he furnished bond of $1000 signed by J. W. Roach, for his appearance at a preliminary hearing before Commissioner Miller, at 2 o'clock Saturday afternoon, May 17.
