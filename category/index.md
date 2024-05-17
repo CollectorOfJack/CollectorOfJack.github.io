@@ -25,7 +25,7 @@ redirect_from:
   <div class="section-title col-md-12 mt-4">
   {% assign sortedCategories = site.categories | sort %}
   {% for category in sortedCategories %}
-    <a href="{{site.baseurl}}/category/{{ category[0] | url_escape | strip | slugify }}" id="{{ category[0] | replace: " ","-" }}" class="btn-primary btn-category">{{ category[0] }}</a>
+    <a href="{{site.baseurl}}/category/{{ category[0] | url_escape | strip | slugify }}/" id="{{ category[0] | replace: " ","-" }}" class="btn-primary btn-category">{{ category[0] }}</a>
   {% endfor %}
   </div>
 </div>
