@@ -21,14 +21,11 @@ Both of these series have been released in simple 375ml bottles.
 ## Tennessee Tasters' Series
 1. [Tennessee Tasters' High Angel's Share Barrels (2018)](/HighAngelsShare)
 2. [Tennessee Tasters' Hickory Smoked (2018)](/HickorySmoked)
-3. [Tennessee Tasters' Series Barrel Reunion 1](/BarrelReunion1)
-4. [Tennessee Tasters' Barrel Proof Rye](/TennesseeTastersBarrelProofRye)
-5. [Tennessee Tasters' Series Barrel Reunion 2](/BarrelReunion2)
+3. [Tennessee Tasters' Series Barrel Reunion 1 (2019)](/BarrelReunion1)
+4. [Tennessee Tasters' Barrel Proof Rye (2019)](/TennesseeTastersBarrelProofRye)
+5. [Tennessee Tasters' Series Barrel Reunion 2 (2020)](/BarrelReunion2)
 6. [Tennessee Tasters' Series Jamaican Allspice](/JamaicanAllSpice)
 7. [Tennessee Tasters' 14E19 'Twin' Blend Whiskey](/TwinBlend)
-
-
-## Distillery Series
 8. [Distillery Series Maple Barrel Rye](October2022TennesseeTasters)
 9. [Distillery Series Toasted Oak Barrel Rye](October2022TennesseeTasters)
 10. Distillery Series Pecan Wood
