@@ -2,6 +2,7 @@
 layout: post
 title: Tennessee Tasters' Barrel Proof Rye
 date: '2020-08-30T22:32:40+00:00'
+last_modified_at: '2024-06-24T14:44:00+00:00'
 permalink: TennesseeTastersBarrelProofRye
 image: 31/TennesseeTasters4-1.jpg
 description: The Tennessee Tasters' Barrel Proof Rye Bottle
@@ -21,7 +22,7 @@ gallery:
     image-copyright: © CollectorOfJack.com
 categories: [ Tasters Series, Tennessee Tasters, TN Tasters, Barrel Proof, Rye, Barrel Proof Rye ]
 ---
-In July of 2019 Jack Daniel's released the fourth bottle in their Tennessee Tasters' series, Barrel Proof Rye, Straight Tennessee Rye Whiskey.
+In July of 2019 Jack Daniel's released the fourth bottle in their [Tennessee Tasters' series](/series/tasters-distillery), Barrel Proof Rye, Straight Tennessee Rye Whiskey.
 
 ## The label reads:
 > After tasting our Tennessee Rye Whiskey in its purst form - straight from the barrel - we longed to share it with our firneds. Maturing at the highest reached of barrel house #1-05 delivers a deep copper hue and a nose that opens with an aroma full of smoke and raisin, while each sip lingerswith moolasses, sawn oak, and bold rye spice. 

@@ -2,6 +2,7 @@
 layout: post
 title: Jack Daniel's Tennessee Tasters' Series Barrel Reunion 2
 date: '2021-06-24T22:20:00+00:00'
+last_modified_at: '2024-06-24T14:44:00+00:00'
 permalink: BarrelReunion2
 image: 48/BarrelReunion2-1.jpg
 description: Tennessee Tasters' Barrel Reunion 2 Finished in Oatmeal Sout Barrels
@@ -22,7 +23,7 @@ gallery:
 categories: [ TN Tasters, Tennessee Tasters, Distillers Series, 375ml, Reunion, Tasters Series, Oatmeal Stout ]
 ---
 
-In the fall of 2019 Jack Daniel's released the fifth bottle in their Tennessee Tasters' series, Barrel Reunion #2, Straight Tennessee Whiskey Finished in Oatmeal Stout Barrels.
+In the fall of 2019 Jack Daniel's released the fifth bottle in their [Tennessee Tasters' series]](/series/tasters-distillery), Barrel Reunion #2, Straight Tennessee Whiskey Finished in Oatmeal Stout Barrels.
 
 ## The label reads:
 > Think of this as Jack Daniel's version of the Boilermaker; a Middle Tennessee craft brewery finished their oatmeal stout using our barrels. We explored further, bringing the empty barrels back to finish our Tennessee whiskey. The result is unique in chracter: Its nose, class Jack -- notes of vanilla and toasted oak. The stout provides a creamy texture, hints of oat, coffee and chocolate covered cherries. 

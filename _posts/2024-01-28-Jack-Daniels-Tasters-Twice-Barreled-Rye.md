@@ -2,6 +2,7 @@
 layout: post
 title: "Jack Daniel's Distillery Series Twice Barreled Tennessee Straight Rye Whiskey"
 date: '2024-01-28T20:30:00+00:00'
+last_modified_at: '2024-06-24T14:44:00+00:00'
 permalink: TwiceBarreledStraightRyeDistillerySeries
 image: 70/TNTasters13Label.jpg
 description: "The Jack Daniel's Distillery Series, formerly Tennessee Tasters has a new release for 2024, a Twice Barreled Rye."
@@ -14,7 +15,7 @@ gallery:
     image-copyright: CollectorOfJack.com
 categories: [ Distiller Series, Tasters Series, 375ml ]
 ---
-The 13th release in the Jack Daniel's Distillery Series, formerly Tennessee Tasters has been announced, a Twice Barreled Rye. 
+The 13th release in the Jack Daniel's [Distillery Series](/series/tasters-distillery), formerly Tennessee Tasters' has been announced, a Twice Barreled Rye. 
 
 Information about this release is hard to find so far, but it is being reported that it will be available in April 2024, and as with all other bottles in the series, only available in Tennessee.
 

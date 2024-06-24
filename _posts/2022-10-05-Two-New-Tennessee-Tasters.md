@@ -2,6 +2,7 @@
 layout: post
 title: "Two new Tennessee Tasters bottles from Jack Daniel's"
 date: '2022-10-05T09:30:00+00:00'
+last_modified_at: '2024-06-24T14:44:00+00:00'
 permalink: October2022TennesseeTasters
 image: 62/october2022tennesseetasters-1.jpg
 description: "Two new Tennessee Tasters bottles from Jack Daniel's"
@@ -19,7 +20,7 @@ gallery:
     image-copyright: Liquor Planet
 categories: [ Tasters Series, Tennessee Tasters, TN Tasters, Toasted Barrel, Rye, Maple ]
 ---
-Hot off the presses Jack Daniel's has just announced two new bottles in the Tennessee Taster's series, and is now calling them Jack Daniel's Distillery Series.
+Hot off the presses Jack Daniel's has just announced two new bottles in the Tennessee Taster's series, and is now calling them [Jack Daniel's Distillery Series](/series/tasters-distillery).
 
 * Jack Daniel's Distillery Series Toasted Barrel Finished Rye
 * Jack Daniel's Distillery Series Toasted Maple Barrel

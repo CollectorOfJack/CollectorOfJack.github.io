@@ -25,7 +25,7 @@ Both of these series have been released in simple 375ml bottles.
 4. [Tennessee Tasters' Barrel Proof Rye](/TennesseeTastersBarrelProofRye)
 5. [Tennessee Tasters' Series Barrel Reunion 2](/BarrelReunion2)
 6. [Tennessee Tasters' Series Jamaican Allspice](/JamaicanAllSpice)
-7. [Tennessee Tasters' 14E19 'Twin' Blend | Whiskey](/TwinBlend)
+7. [Tennessee Tasters' 14E19 'Twin' Blend Whiskey](/TwinBlend)
 
 
 ## Distillery Series

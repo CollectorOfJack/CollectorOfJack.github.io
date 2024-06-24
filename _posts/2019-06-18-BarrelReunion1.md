@@ -2,6 +2,7 @@
 layout: post
 title: "Tennessee Tasters' Barrel Reunion #1"
 date: '2019-06-18T17:33:56+00:00'
+last_modified_at: '2024-06-24T14:44:00+00:00'
 permalink: BarrelReunion1
 image: 19/CollectorOfJack-7.jpg
 description: A collector's guide to the Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle.
@@ -18,7 +19,7 @@ gallery:
     image-copyright: © CollectorOfJack.com
 categories: [ TN Tasters, Tennessee Tasters, Distillers Series, 375ml, Reunion, Tasters Series ]
 ---
-In March of 2019 Jack Daniel's released the third bottle in their Tennessee Tasters' series, Barrel Reunion #1, Straight Tennessee Whiskey Finished in Red Wine Barrels. 
+In March of 2019 Jack Daniel's released the third bottle in their [Tennessee Tasters' series](/series/tasters-distillery), Barrel Reunion #1, Straight Tennessee Whiskey Finished in Red Wine Barrels. 
 
 > Notes: Rested at least 228 days in win barrel.  
 > As a whiskey maker and a barrel maker, we see the barrel not simply as a container but as an ingredient. This unique whiskey began with a hand-crafted barrel that matured Jack Danie's. Once emptied it aged fine Tennessee red wine. Then, finally it returned home to finish a small batch of our Tennessee Whiskey. What emerges from this second barreling are notes of caramel and oak with whispers of cherry and blackberry. We think you'll be intrigued by this new finish and celebrate with us the reunion of our barrel and whiskey.

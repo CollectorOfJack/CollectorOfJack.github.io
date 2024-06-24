@@ -2,6 +2,7 @@
 layout: post
 title: Jack Daniels Tennessee Tasters' 14E19 'Twin' Blend | Whiskey
 date: '2021-08-09T00:10:00+00:00'
+last_modified_at: '2024-06-24T14:44:00+00:00'
 permalink: TwinBlend
 image: 52/TwinBlend-1.jpg
 description: Jack Daniel's Tennessee Tasters' 14E19 "Twin" Blend | Whiskey
@@ -21,7 +22,7 @@ gallery:
     image-copyright: © CollectorOfJack.com
 categories: [ TN Tasters, Tennessee Tasters, Distillers Series, 375ml, Reunion, Tasters Series ]
 ---
-The latest release in the Tennessee Tasters' series is the 14E19 "Twin" Blend Whiskey. This particular release is from Fall 2020, and contains Straight Tennessee Whiskey blended with Straight Tennessee Rye Whiskey.
+The latest release in the [Tennessee Tasters' series](/series/tasters-distillery) is the 14E19 "Twin" Blend Whiskey. This particular release is from Fall 2020, and contains Straight Tennessee Whiskey blended with Straight Tennessee Rye Whiskey.
 
 ## The front label reads:
 > Jack Daniel's Tennessee Tasters' Selection
