@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's Tennessee Squire Anniversary
 date: '2022-02-03T00:10:00+00:00'
 permalink: 2yearSquireversary
-image:
-  feature: 54/SquireLogo-1.jpg
+image: 54/SquireLogo-1.jpg
 description: My second anniversary as a Tennessee Squire
 gallery:
   2yearSquireversary:

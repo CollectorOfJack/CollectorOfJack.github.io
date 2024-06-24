@@ -3,8 +3,7 @@ layout: post
 title: "Jack Daniel's Single Barrel Barrel Proof Rye"
 date: '2023-11-22T21:30:00+00:00'
 permalink: BarrelProofRye
-image:
-  feature: 68/2023SingleBarrelBarrelProofRye-1.jpg
+image: 68/2023SingleBarrelBarrelProofRye-1.jpg
 description: "In 2023 Jack Daniel's started bottling and releasing their Single Barrel Barrel Proof Rye, to go along with their Single Barrel Barrel Proof Tennessee Whiskey. This will be regular release going forward."
 keywords: "Jack Daniel’s Bottle, Jack Daniel’s Single Barrel, Barrel Proof, Rye, Barrel Proof Rye"
 author: ChrisHammond

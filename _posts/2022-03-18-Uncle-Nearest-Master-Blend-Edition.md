@@ -3,8 +3,7 @@ layout: post
 title: Uncle Nearest Master Blend Edition
 date: '2022-03-18T00:14:00+00:00'
 permalink: UncleNearestMasterBlendEdition
-image:
-  feature: 57/UncleNearestMasterBlend-1.jpg
+image: 57/UncleNearestMasterBlend-1.jpg
 description: Uncle Nearest Master Blend Edition available only at the distillery
 gallery:
   UncleNearestMasterBlend:

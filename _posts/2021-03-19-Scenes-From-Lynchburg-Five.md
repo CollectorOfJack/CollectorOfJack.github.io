@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's Scenes From Lynchburg Number Five
 date: '2021-03-19T08:20:00+00:00'
 permalink: ScenesFromLynchburgFive
-image:
-  feature: 46/ScenesOfLynchburg5-1.jpg
+image: 46/ScenesOfLynchburg5-1.jpg
 description: Jack Daniel's Scenes From Lynchburg Number Five
 gallery:
   ScenesFromLynchburgFive:

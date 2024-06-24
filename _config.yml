@@ -33,11 +33,13 @@ authors:
    ChrisHammond:
     name: Chris Hammond
     display_name: Chris Hammond
+    first_name: Chris
+    last_name: Hammond
     gravatar: bff097b7cc348bebce39ee1c7694d125
     email: collectorofjack@christoc.com
     web: https://www.chrishammond.com
-    twitter: 
-    description: "Chris has been collecting Jack Daniel's for 26 years and uses this site to document his collection."
+    twitter: https://twitter.com/collectorofjack
+    description: "<a href=\"https://www.chrishammond.com\">Chris</a> has been collecting Jack Daniel's for 26 years and uses this site to document his collection. <a href=\"/JackDanielsCollector\">Read more about his story</a>"
 
 
 

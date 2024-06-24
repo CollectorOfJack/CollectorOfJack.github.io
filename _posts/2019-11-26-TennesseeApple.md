@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's Tennessee Apple
 date: '2019-11-26T15:12:18+00:00'
 permalink: TennesseeApple
-image:
-  feature: 26/JackDanielsTennesseeApple-1.jpg
+image: 26/JackDanielsTennesseeApple-1.jpg
 description: A collector's guide to the Jack Daniel's Tennessee Apple flavored liquor
 gallery:
   TennesseeApple:

@@ -5,8 +5,7 @@ subtitle: A List of Things We're Looking For
 description: A list of bottles and Jack Daniel's items that we are looking for, along with items we have available for trade.
 keywords: "Jack, Daniel, Hunt, List, Collection"
 type: website
-image:
-  feature: Distillery1-1.jpg
+image: Distillery1-1.jpg
 permalink: huntlist
 redirect_from: 
   - "WantedItems"

@@ -5,8 +5,7 @@ date: '2022-12-20T21:30:00+00:00'
 permalink: HowMuchIsMyJackDanielsCollectionWorth
 type: article
 keywords: "Jack Daniel's, Collection, Value, Estimate, Tracker, Worth"
-image:
-  feature: 64/Collection-1.jpg
+image: 64/Collection-1.jpg
 description: "Putting a value on your bottles"
 gallery:
   HowMuchIsMyJackDanielsCollectionWorth:

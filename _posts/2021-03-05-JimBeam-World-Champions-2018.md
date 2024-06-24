@@ -3,8 +3,7 @@ layout: post
 title: Jim Beam Red Sox 2018 World Champions Bottle (World Series)
 date: '2021-03-05T10:00:00+00:00'
 permalink: 2018RedSoxWorldChampion
-image:
-  feature: 45/JimBeamWorldSeries-1.jpg
+image: 45/JimBeamWorldSeries-1.jpg
 description: 2018 Red Sox World Champions Jim Beam Bourbon
 gallery:
   2018RedSoxWorldChampion:

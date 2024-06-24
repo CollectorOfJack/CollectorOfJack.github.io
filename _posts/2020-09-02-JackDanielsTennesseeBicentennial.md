@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's Tennessee Bicentennial 
 date: '2020-09-02T23:40:40+00:00'
 permalink: JackDanielsTennesseeBicentennial
-image:
-  feature: 33/JackDanielsBicentennial-1.jpg
+image: 33/JackDanielsBicentennial-1.jpg
 description: 1796-1996 A special release honoring the state of Tennessee's Bicentennial in 1996
 gallery:
   JackDanielsTennesseeBicentennial:

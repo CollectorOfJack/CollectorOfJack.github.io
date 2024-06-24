@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's Single Barrel Rye
 date: '2019-06-18T17:26:34+00:00'
 permalink: JackDanielsSingleBarrelRye
-image:
-  feature: 16/JackDanielsSingleBarrelRye-1.jpg
+image: 16/JackDanielsSingleBarrelRye-1.jpg
 description: A collector's guide to the Jack Daniel's Single Barrel Rye bottle 
 gallery:
   JackDanielsSingleBarrelRye:

@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's Barrel Proof Rye Special Release
 date: '2020-11-23T10:00:00+00:00'
 permalink: BarrelProofRyeSpecialRelease
-image:
-  feature: 39/BarrelProofRyeSpecialRelease-1.jpg
+image: 39/BarrelProofRyeSpecialRelease-1.jpg
 description: 2020's Special Release
 gallery:
   BarrelProofRyeSpecialRelease:

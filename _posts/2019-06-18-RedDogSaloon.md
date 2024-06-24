@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's 125th Anniversary Red Dog Saloon
 date: '2019-06-18T17:16:06+00:00'
 permalink: RedDogSaloon
-image:
-  feature: 13/RedDogSaloon-1.jpg
+image: 13/RedDogSaloon-1.jpg
 description: A collector's guide to the Jack Daniel's ode to the Red Dog Saloon release
 gallery:
   RedDogSaloon:

@@ -3,8 +3,7 @@ layout: post
 title: "Family ties to bootlegging during prohibition"
 date: '2024-05-13T14:00:00+00:00'
 permalink: familyhistorybootlegging
-image:
-  feature: 72/stillfound-1.jpg
+image: 72/stillfound-1.jpg
 description: "Discover the intriguing family history of Chris Hammond as he delves into his ancestral ties to the prohibition-era bootlegging on his blog. Uncover the story of the Butterbaugh farm raid in 1924, the largest still seizure in Pettis County, and explore the Hammond family’s complex genealogy. Join Chris on a nostalgic journey through time, piecing together a legacy intertwined with whiskey and the law. "
 keywords: "Sedalia, Missouri, Prohibition, Butterbaugh, Whiskey, Corn Whiskey, Still"
 author: ChrisHammond

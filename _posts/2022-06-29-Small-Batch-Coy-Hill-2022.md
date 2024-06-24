@@ -3,8 +3,7 @@ layout: post
 title: "Jack Daniel's Small Batch Coy Hill"
 date: '2022-06-29T10:00:00+00:00'
 permalink: SmallBatchCoyHill2022
-image:
-  feature: 61/smallbatchcoyhill-1.jpg
+image: 61/smallbatchcoyhill-1.jpg
 description: "Coy Hill take 2"
 gallery:
   SmallBatchCoyHill2022:

@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's Master Distiller Jeff Arnett
 date: '2020-09-03T10:00:00+00:00'
 permalink: MasterDistillerJeffArnett
-image:
-  feature: 34/JeffArnett-1.jpg
+image: 34/JeffArnett-1.jpg
 description: The 7th (8th?) Master Distiller for Jack Daniel's, Jeff Arnett
 gallery:
   MasterDistillerJeffArnett:

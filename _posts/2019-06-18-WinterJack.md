@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's Winter Jack
 date: '2019-06-18T17:16:36+00:00'
 permalink: WinterJack
-image:
-  feature: 12/WinterJack-1.jpg
+image: 12/WinterJack-1.jpg
 description: A collector's guide to the Jack Daniel's Winter Jack, Tennessee Cider
 gallery:
   WinterJack:

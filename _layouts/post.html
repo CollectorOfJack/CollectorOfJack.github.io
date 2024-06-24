@@ -29,8 +29,8 @@ layout: default
       <!-- End Adsense -->
 
       <!-- Post Featured Image -->
-      {% if page.image.feature %}
-        {% picture {{ page.image.feature }} class="featured-image img-fluid lazyimg" --alt {{ page.title}}  %}
+      {% if page.image %}
+        {% picture {{ page.image }} class="featured-image img-fluid lazyimg" itemprop="image" --alt {{ page.title}}  %}
       {% endif %}
       <!-- End Featured Image -->
 

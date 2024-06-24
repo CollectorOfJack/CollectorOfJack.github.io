@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's Legacy Edition 2
 date: '2019-07-05T14:17:35+00:00'
 permalink: LegacyEdition2
-image:
-  feature: 20/JDLegacyEdition2-1.jpg
+image: 20/JDLegacyEdition2-1.jpg
 description: A collector's guide to the Jack Daniel's Legacy Edition Series Second Edition release, the red and black label
 gallery:
   LegacyEdition2:

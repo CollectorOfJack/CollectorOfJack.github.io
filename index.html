@@ -5,8 +5,7 @@ description: "A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hamm
 type: website
 keywords: "jack, daniel's, collector, blog, jd, whiskey, tennessee, jack daniel's tennessee whiskey"
 active: blog
-image:
-  feature: FireBottleMark-1.jpg
+image: FireBottleMark-1.jpg
 redirect_from: 
   - "Events"
   - "events"
@@ -32,8 +31,8 @@ redirect_from:
         style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
         <a href="{{ post.url | prepend: site.baseurl }}">
-        {% if post.image.feature %}
-        {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}
+        {% if post.image %}
+        {% picture blogcrop {{ post.image }} --alt {{ post.title }} %}
         {% endif %}
         <p class="post-title"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">

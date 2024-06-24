@@ -3,8 +3,7 @@ layout: post
 title: "Jack-Daniels-Bonded-Tennessee-Whiskey"
 date: '2022-05-25T20:00:00+00:00'
 permalink: JackDanielsBondedTennesseeWhiskey
-image:
-  feature: 59/Bonded-1.jpg
+image: 59/Bonded-1.jpg
 description: "The first of two new offerings from Jack Daniel's"
 gallery:
   JackDanielsBondedTennesseeWhiskey:

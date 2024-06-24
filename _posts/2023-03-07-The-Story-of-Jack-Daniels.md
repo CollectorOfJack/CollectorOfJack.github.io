@@ -5,8 +5,7 @@ date: '2023-03-06T23:30:00+00:00'
 permalink: JackDanielsLifeStory
 type: article
 keywords: "Jack Daniel's, Life Story, ChatGPT"
-image:
-  feature: 65/JackDanielsStory-1.jpg
+image: 65/JackDanielsStory-1.jpg
 description: "The life story of Jack Daniel's according to ChatGPT"
 gallery:
   JackDanielsLifeStory:

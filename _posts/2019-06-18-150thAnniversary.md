@@ -3,9 +3,7 @@ layout: post
 title: "Jack Daniel's 150th Anniversary Tennessee Whiskey Bottle + Box "
 date: '2019-06-18T17:32:40+00:00'
 permalink: 150thAnniversary
-image:
-  feature: 18/Jack150Box.jpg
-  header: 18/Jack150Box.jpg
+image: 18/Jack150Box.jpg
 description: A collector's guide to the Jack Daniel's 150th Anniversary Tennessee Whiskey Bottle and the Black Box that it comes packaged in.
 gallery:
   150thAnniversary:

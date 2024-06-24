@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's Riverboat Captain's Bottle
 date: '2020-09-13T22:00:00+00:00'
 permalink: JackDanielsRiverboatCaptainBottle
-image:
-  feature: 36/RiverboatCaptain-1.jpg
+image: 36/RiverboatCaptain-1.jpg
 description: Jack Daniel's Riverboat Captain's Bottle from 1987
 gallery:
   JackDanielsRiverboatCaptainBottle:

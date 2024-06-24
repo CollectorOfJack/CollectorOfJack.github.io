@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniels 10-Years Tennessee Whiskey
 date: '2022-03-08T00:14:00+00:00'
 permalink: JackDaniels10Year
-image:
-  feature: 55/10Year-1.jpg
+image: 55/10Year-1.jpg
 description: Jack Daniels 10-Years Old Tennessee Whiskey
 gallery:
   JackDaniels10Year:

@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's Fire and 2 Shotglass Gift Set
 date: '2020-11-16T22:00:00+00:00'
 permalink: JackDanielsFireShotglassGiftSet
-image:
-  feature: 38/JackDanielsFireShotGlassSet-1.jpg
+image: 38/JackDanielsFireShotGlassSet-1.jpg
 description: Jack Daniel's Fire and 2 Shot Glasses
 gallery:
   JackDanielsFireShotglassGiftSet:

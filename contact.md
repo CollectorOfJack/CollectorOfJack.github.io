@@ -6,8 +6,7 @@ description: If you want to talk to us, you can reach out on Twitter or Facebook
 keywords: "jack, daniel's, daniels, contact, page"
 type: website
 
-image:
-  feature: contact-1.jpg
+image: contact-1.jpg
 description: Want to get in touch with Chris Hammond? 
 permalink: /contact
 ---

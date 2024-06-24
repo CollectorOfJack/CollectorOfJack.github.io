@@ -3,8 +3,7 @@ layout: post
 title: Blackened American Whiskey Batch 106 S&M2
 date: '2021-02-14T20:00:00+00:00'
 permalink: BlackenedBatch106
-image:
-  feature: 44/BlackenedBatch106-1.jpg
+image: 44/BlackenedBatch106-1.jpg
 description: Metallica S&M2 Whiskey
 gallery:
   BlackenedBatch106:

@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniels Special Release Coy Hill High Proof
 date: '2022-03-17T00:14:00+00:00'
 permalink: JackDanielsSpecialReleaseCoyHillHighProof
-image:
-  feature: 56/CoyHill-1.jpg
+image: 56/CoyHill-1.jpg
 description: Jack Daniels Special Release Coy Hill High Proof
 gallery:
   JackDanielsCoyHill:

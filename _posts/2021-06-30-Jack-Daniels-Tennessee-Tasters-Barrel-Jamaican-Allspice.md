@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's Tennessee Tasters' Series Jamaican Allspice
 date: '2021-06-30T22:20:00+00:00'
 permalink: JamaicanAllSpice
-image:
-  feature: 49/JamaicanAllSpice-1.jpg
+image: 49/JamaicanAllSpice-1.jpg
 description: Tennessee Tasters' Jamaican Allspice Finished with toasted Jamaican Allspice Wood
 gallery:
   JamaicanAllSpice:

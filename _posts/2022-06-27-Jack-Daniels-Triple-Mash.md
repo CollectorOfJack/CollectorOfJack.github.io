@@ -3,8 +3,7 @@ layout: post
 title: "Jack Daniels Triple Mash"
 date: '2022-06-27T23:00:00+00:00'
 permalink: JackDanielsTripleMash
-image:
-  feature: 60/TripleMash-1.jpg
+image: 60/TripleMash-1.jpg
 description: "The first of two new offerings from Jack Daniel's"
 gallery:
   JackDanielsTripleMash:

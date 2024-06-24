@@ -3,8 +3,7 @@ layout: post
 title: "Jack Daniel Distillery 150th Anniversary"
 date: '2019-07-17T04:03:07+00:00'
 permalink: Distillery150thAnniversary
-image:
-  feature: 21/JackDaniels150thDistillery-1.jpg
+image: 21/JackDaniels150thDistillery-1.jpg
 description: A collector's guide to the Jack Daniel's Distillery 150th Anniversary Release
 gallery:
   Distillery150thAnniversary:

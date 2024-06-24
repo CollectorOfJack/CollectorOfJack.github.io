@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's Rested Tennessee Rye
 date: '2019-06-18T17:24:44+00:00'
 permalink: JackDanielsRestedTennesseeRye
-image:
-  feature: 15/JackDanielsRestedRye-1.jpg
+image: 15/JackDanielsRestedRye-1.jpg
 description: A collector's guide to the Jack Daniel's Rested Tennessee Rye, the second foray into Rye for Jack Daniels
 gallery:
   JackDanielsRestedTennesseeRye:

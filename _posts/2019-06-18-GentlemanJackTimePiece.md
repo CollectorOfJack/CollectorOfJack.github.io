@@ -3,8 +3,7 @@ layout: post
 title: Gentleman Jack Limited Edition Time Piece Bottle
 date: '2019-06-18T14:58:04+00:00'
 permalink: GentlemanJackTimePiece
-image:
-  feature: 2/Day1-4.jpg
+image: 2/Day1-4.jpg
 description: A collector's guide to the Jack Daniel's Gentleman Jack Limited Edition Time Piece Bottle
 gallery:
   GentlemanJackTimePiece:

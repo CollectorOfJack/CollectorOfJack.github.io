@@ -3,8 +3,7 @@ layout: post
 title: DIY 3d Printed Barrel Tree
 date: '2020-12-08T20:00:00+00:00'
 permalink: 3DPrintedBarrelTree
-image:
-  feature: 42/BarrelTree-1.jpg
+image: 42/BarrelTree-1.jpg
 description: Jack Daniel's DIY Project
 gallery:
   3DPrintedBarrelTree:

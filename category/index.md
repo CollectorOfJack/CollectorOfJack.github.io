@@ -6,8 +6,7 @@ description: A listing of all categories or blog content
 keywords: "jack, daniel's, daniels, categories"
 type: website
 
-image:
-  feature: 
+image: 
 description: A listing of categories used on CollectorOfJack.com
 permalink: /category
 redirect_from:

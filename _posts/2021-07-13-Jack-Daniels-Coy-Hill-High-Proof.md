@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniels Coy Hill High Proof
 date: '2021-07-14T00:20:00+00:00'
 permalink: JackDanielsCoyHillHighProof
-image:
-  feature: 51/JackDanielsCoyHillHighProof-1.jpg
+image: 51/JackDanielsCoyHillHighProof-1.jpg
 description: Jack Daniel's Single Barrel Coy Hill High Proof
 gallery:
   JackDanielsCoyHillHighProof:

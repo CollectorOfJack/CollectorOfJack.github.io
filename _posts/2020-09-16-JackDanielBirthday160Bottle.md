@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's 160th Birthday Bottle 1850-2010
 date: '2020-09-16T10:00:00+00:00'
 permalink: JackDanielBirthday160Bottle
-image:
-  feature: 37/CollectorOfJack-15.jpg
+image: 37/CollectorOfJack-15.jpg
 description: Mr. Jack's 160th Birthday 1850 to 2010
 gallery:
   JackDanielBirthday160Bottle:

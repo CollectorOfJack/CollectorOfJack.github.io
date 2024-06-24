@@ -3,8 +3,7 @@ layout: post
 title: "Jack Daniel's Twice Barreled American Single Malt 2022 Special Release"
 date: '2023-03-07T23:30:00+00:00'
 permalink: TwiceBarreledAmericanMalt
-image:
-  feature: 66/JackDanielsTwiceBarreled-1.jpg
+image: 66/JackDanielsTwiceBarreled-1.jpg
 description: "Explore the unique character of the Jack Daniel's Twice Barreled American Single Malt 2022 Special Release. This post delves into its distinct flavor profile, enhanced by double barreling and Oloroso Sherry Cask finishing, showcasing the innovation and craftsmanship of Jack Daniel's whiskey-making. Join us for an in-depth look at this exquisite collector's item"
 keywords: Jack Daniels, American Single Malt, Twice Barreled, 2022 Special Release, Heritage
 author: ChrisHammond

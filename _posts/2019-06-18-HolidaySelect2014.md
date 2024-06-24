@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's Holiday Select 2014
 date: '2019-06-18T17:01:39+00:00'
 permalink: HolidaySelect2014
-image:
-  feature: 10/HolidaySelect2014-1.jpg
+image: 10/HolidaySelect2014-1.jpg
 description: A collector's guide to the Jack Daniel's Holiday Select Release from 2014
 gallery:
   HolidaySelect2014:

@@ -3,8 +3,7 @@ layout: post
 title: "Tennessee Tasters' Barrel Reunion #1"
 date: '2019-06-18T17:33:56+00:00'
 permalink: BarrelReunion1
-image:
-  feature: 19/CollectorOfJack-7.jpg
+image: 19/CollectorOfJack-7.jpg
 description: A collector's guide to the Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle.
 gallery:
   BarrelReunion1:

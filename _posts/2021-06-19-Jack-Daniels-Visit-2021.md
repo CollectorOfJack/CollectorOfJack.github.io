@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's Visit June 2021
 date: '2021-06-19T16:20:00+00:00'
 permalink: JackDanielsDistilleryVisit2021
-image:
-  feature: 47/Trip20216-16-2021-4.jpg
+image: 47/Trip20216-16-2021-4.jpg
 description: My trip to Jack Daniel's Distillery in June 2021
 gallery:
   JackDanielsDistilleryVisit2021g1:

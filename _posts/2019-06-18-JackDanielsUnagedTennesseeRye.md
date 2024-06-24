@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's Unaged Tennessee Rye
 date: '2019-06-18T17:23:44+00:00'
 permalink: JackDanielsUnagedTennesseeRye
-image:
-  feature: 14/JackDanielsRye1-1.jpg
+image: 14/JackDanielsRye1-1.jpg
 description: A collector's guide to the Jack Daniel's Unaged Tennessee Rye, the first foray into Rye for Jack Daniels
 gallery:
   JackDanielsUnagedTennesseeRye:

@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's Bottled in Bond
 date: '2019-10-26T13:47:16+00:00'
 permalink: BottledInBond
-image:
-  feature: 23/BottledInBond-1.jpg
+image: 23/BottledInBond-1.jpg
 description: A collector's guide to the Jack Daniel's Bottled In Bond release available in international travel marketplaces
 gallery:
   BottledInBond:

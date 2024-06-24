@@ -3,8 +3,7 @@ layout: post
 title: "Jack Daniel's Facebook Group"
 date: '2022-03-24T00:00:00+00:00'
 permalink: JackDanielsFacebookGroup
-image:
-  feature: 58/Group-1.jpg
+image: 58/Group-1.jpg
 description: "Taken over by spammers, the good guys have won and gained control over a large Jack Daniel's Facebook Group"
 categories: [ Other ] 
 ---

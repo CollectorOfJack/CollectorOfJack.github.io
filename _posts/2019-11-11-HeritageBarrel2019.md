@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's Heritage Barrel 2019
 date: '2019-11-11T03:51:06+00:00'
 permalink: HeritageBarrel2019
-image:
-  feature: 25/JackDanielsHeritageBarrel2019-1.jpg
+image: 25/JackDanielsHeritageBarrel2019-1.jpg
 description: A collector's guide to the Jack Daniel's Heritage Barrel 2019 Release
 gallery:
   HeritageBarrel2019:

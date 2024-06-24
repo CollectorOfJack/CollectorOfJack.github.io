@@ -3,8 +3,7 @@ layout: post
 title: Jack Daniel's Tennessee Rye
 date: '2019-06-18T17:28:55+00:00'
 permalink: JackDanielsTennesseeRye
-image:
-  feature: 17/JackDanielsRye1L-1.jpg
+image: 17/JackDanielsRye1L-1.jpg
 description: A collector's guide to the Jack Daniel's Tennessee Rye
 gallery:
   JackDanielsTennesseeRye:

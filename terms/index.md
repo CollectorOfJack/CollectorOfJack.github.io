@@ -3,8 +3,7 @@ layout: page
 title: "Terms"
 description: "Privacy Policy and Terms of Service"
 active: Terms
-image:
-  feature: "about-bg-1.jpg"
+image: "about-bg-1.jpg"
 redirect_from: 
   - "Terms"
   - "Privacy"
