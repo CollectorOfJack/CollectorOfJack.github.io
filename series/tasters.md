@@ -19,19 +19,19 @@ THe Tasters' series ended with the #7 release, 14E19 'Twin' Blend | Whiskey, and
 Both of these series have been released in simple 375ml bottles. 
 
 ## Tennessee Tasters' Series
-# [Tennessee Tasters' High Angel's Share Barrels (2018)](/HighAngelsShare)
-# [Tennessee Tasters' Hickory Smoked (2018)](/HickorySmoked)
-# [Tennessee Tasters' Series Barrel Reunion 1](/BarrelReunion1)
-# [Tennessee Tasters' Barrel Proof Rye](/TennesseeTastersBarrelProofRye)
-# [Tennessee Tasters' Series Barrel Reunion 2](/BarrelReunion2)
-# [Tennessee Tasters' Series Jamaican Allspice](/JamaicanAllSpice)
-# [Tennessee Tasters' 14E19 'Twin' Blend | Whiskey](/TwinBlend)
+1. [Tennessee Tasters' High Angel's Share Barrels (2018)](/HighAngelsShare)
+2. [Tennessee Tasters' Hickory Smoked (2018)](/HickorySmoked)
+3. [Tennessee Tasters' Series Barrel Reunion 1](/BarrelReunion1)
+4. [Tennessee Tasters' Barrel Proof Rye](/TennesseeTastersBarrelProofRye)
+5. [Tennessee Tasters' Series Barrel Reunion 2](/BarrelReunion2)
+6. [Tennessee Tasters' Series Jamaican Allspice](/JamaicanAllSpice)
+7. [Tennessee Tasters' 14E19 'Twin' Blend | Whiskey](/TwinBlend)
 
 
 ## Distillery Series
-# [Distillery Series Maple Barrel Rye](October2022TennesseeTasters)
-# [Distillery Series Toasted Oak Barrel Rye](October2022TennesseeTasters)
-# Distillery Series Pecan Wood
-# Distillery Series Anejo Tequila Barrels
-# Distillery Series Oloroso Sherry Casks
-# [Distillery Series Twice Barreled Tennessee Straight Rye Whiskey](/TwiceBarreledStraightRyeDistillerySeries)
+8. [Distillery Series Maple Barrel Rye](October2022TennesseeTasters)
+9. [Distillery Series Toasted Oak Barrel Rye](October2022TennesseeTasters)
+10. Distillery Series Pecan Wood
+11. Distillery Series Anejo Tequila Barrels
+12. Distillery Series Oloroso Sherry Casks
+13. [Distillery Series Twice Barreled Tennessee Straight Rye Whiskey](/TwiceBarreledStraightRyeDistillerySeries)
