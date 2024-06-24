@@ -16,6 +16,8 @@ The series includes small-batch versions of experimental whiskeys, often availab
 
 THe Tasters' series ended with the #7 release, 14E19 'Twin' Blend | Whiskey, and was then replaced with the Distillery Series which currently has 4 releases with a 6th originally scheduled for April 2024.
 
+Both of these series have been released in simple 375ml bottles. 
+
 ## Tennessee Tasters' Series
 # [Tennessee Tasters' High Angel's Share Barrels (2018)](/HighAngelsShare)
 # [Tennessee Tasters' Hickory Smoked (2018)](/HickorySmoked)
