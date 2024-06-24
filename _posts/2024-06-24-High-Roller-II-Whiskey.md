@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "2024 High Roller II Whiskey"
-date: '2024-06-24T15:00:00+00:00'
+title: "2024 High Roller Straight Bourbon Whiskey"
+date: '2024-06-24T13:00:00+00:00'
 permalink: highrollerstraightbourbonwhiskey
 image: 74/HighRollerII-1.jpg
 description: "A blog post about the 2024 release of the High Roller Straight Bourbon Whiskey"

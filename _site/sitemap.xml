@@ -293,6 +293,10 @@
 <lastmod>2024-06-24T07:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/highrollerstraightbourbonwhiskey</loc>
+<lastmod>2024-06-24T08:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/contact</loc>
 </url>
 <url>
@@ -627,6 +631,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/seized/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/high-roller/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/truck/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
