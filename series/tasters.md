@@ -14,7 +14,7 @@ The Jack Daniel's Tennessee Tasters' Series is a special line of limited-edition
 
 The series includes small-batch versions of experimental whiskeys, often available only at the distillery in Lynchburg, Tennessee, or in select markets. Examples from the series include whiskeys with high angel’s share barrels, experimental rye recipes, and unique finishing methods like hickory staves or maple barrels. Each bottle typically features details about the whiskey’s creation process, along with the signature of the taster who selected it, making them highly collectible for fans of the brand.
 
-THe Tasters' series ended with the #7 release, 14E19 'Twin' Blend Whiskey, and was then replaced with the Distillery Series which currently has 4 releases with a 6th originally scheduled for April 2024.
+The Tasters' series ended with the #7 release, 14E19 'Twin' Blend Whiskey, and was then replaced with the Distillery Series which currently has 4 releases with a 6th originally scheduled for April 2024.
 
 Both of these series have been released in simple 375ml bottles. 
 
