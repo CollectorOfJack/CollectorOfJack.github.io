@@ -55,7 +55,7 @@ You might be able to find the bottle online, though prices will very wildly. Any
 
 
 ## How Much Is Jack Daniel's Tennessee Bicentennial Worth?
-The value of the Jack Daniel's Tennessee Bicentennial online ranges from $600 to nearly $1000.
+The value of the Jack Daniel's Tennessee Bicentennial online ranges from $600 to nearly $1200.
  
 ### Collector Of Jack's Value Assessment
 If you can find one of these bottles for less than $600 you need one of these in your collection! I might have an extra, feel free to reach out.

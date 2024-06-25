@@ -24,7 +24,7 @@ gallery:
     image-caption: Jack Daniel's Tennessee Tasters' Series Hickory Smoked release
     image-copyright: © CollectorOfJack.com
 
-categories: [ Distiller Series, TN Tasters, Tennessee Tasters, Tasters Series, 375ml, Hickory Smoked, Hickory ]
+categories: [ Distillery Series, TN Tasters, Tennessee Tasters, Tasters Series, 375ml, Hickory Smoked, Hickory ]
 ---
 
 In my previous blog post I talked about the [Tennessee Tasters'](/series/tasters-distillery) High Angel's Share Barrels, in this post I cover the second release in the series, Hickory Smoked. The bottle is labelled as "Tennessee Whiskey Finish with Charred Hickory Staves". 
