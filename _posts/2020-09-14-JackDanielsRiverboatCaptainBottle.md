@@ -2,69 +2,71 @@
 layout: post
 title: Jack Daniel's Riverboat Captain's Bottle
 date: '2020-09-13T22:00:00+00:00'
+last_modified_at: '2024-06-25T14:44:00+00:00'
 permalink: JackDanielsRiverboatCaptainBottle
 image: 36/RiverboatCaptain-1.jpg
-description: Jack Daniel's Riverboat Captain's Bottle from 1987
+description: "Jack Daniel's Riverboat Captain's Bottle from 1987"
+keywords: "jack daniel's, riverboat captain, riverboat, captain, bottle, 1.75L, box, collectible, value, price"
 gallery:
   JackDanielsRiverboatCaptainBottle:
   - image_path: 36/RiverboatCaptain-1.jpg
-    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
+    image-caption: Jack Daniel's Riverboat Captain's Bottle front of box 
     image-copyright: © CollectorOfJack.com
   - image_path: 36/RiverboatCaptain-2.jpg
-    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
+    image-caption: Jack Daniel's Riverboat Captain's Bottle side of box
     image-copyright: © CollectorOfJack.com
   - image_path: 36/RiverboatCaptain-3.jpg
-    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
+    image-caption: Jack Daniel's Riverboat Captain's Bottle rear of box
     image-copyright: © CollectorOfJack.com
   - image_path: 36/RiverboatCaptain-4.jpg
-    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
+    image-caption: Jack Daniel's Riverboat Captain's Bottle side of box
     image-copyright: © CollectorOfJack.com
   - image_path: 36/RiverboatCaptain-5.jpg
-    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
+    image-caption: Jack Daniel's Riverboat Captain's Bottle front of bottle focused on hang tag
     image-copyright: © CollectorOfJack.com
   - image_path: 36/RiverboatCaptain-6.jpg
-    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
+    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 front of bottle
     image-copyright: © CollectorOfJack.com
   - image_path: 36/RiverboatCaptain-7.jpg
-    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
+    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 rear of bottle
     image-copyright: © CollectorOfJack.com
   - image_path: 36/RiverboatCaptain-8.jpg
-    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
+    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 neck and seal
     image-copyright: © CollectorOfJack.com
   - image_path: 36/RiverboatCaptain-9.jpg
-    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
+    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 neck and seal
     image-copyright: © CollectorOfJack.com
   - image_path: 36/RiverboatCaptain-10.jpg
-    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
+    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 from an angle 
     image-copyright: © CollectorOfJack.com
   - image_path: 36/RiverboatCaptain-11.jpg
-    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
+    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 front 
     image-copyright: © CollectorOfJack.com
   - image_path: 36/RiverboatCaptain-12.jpg
-    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
+    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 angled from top 
     image-copyright: © CollectorOfJack.com
   - image_path: 36/RiverboatCaptain-13.jpg
-    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
+    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 top of topper
     image-copyright: © CollectorOfJack.com
   - image_path: 36/RiverboatCaptain-14.jpg
-    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
+    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 first page of hang tag
     image-copyright: © CollectorOfJack.com
   - image_path: 36/RiverboatCaptain-15.jpg
-    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
+    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 second and third page of hang tag
     image-copyright: © CollectorOfJack.com
   - image_path: 36/RiverboatCaptain-16.jpg
-    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
+    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 rear of hang tag
     image-copyright: © CollectorOfJack.com
   - image_path: 36/RiverboatCaptain-17.jpg
-    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
+    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 registration form 
     image-copyright: © CollectorOfJack.com
   - image_path: 36/RiverboatCaptain-18.jpg
-    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
+    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987  last page of hang tag
     image-copyright: © CollectorOfJack.com
   - image_path: 36/RiverboatCaptain-19.jpg
-    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987
+    image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 rear of hang tag 
     image-copyright: © CollectorOfJack.com
-categories: [ Riverboat Captain ]
+categories: [ Riverboat Captain, Box, 1.75L ]
 ---
 
 In September 2020, I received an email via my website asking if I might be interested in a bottle for sale. 
@@ -73,11 +75,11 @@ In September 2020, I received an email via my website asking if I might be inter
 
 > Any help would be appreciated. 
 
-This was actually the second time that someone had reached out to me in the past couple of weeks asking me about items that they were trying to sell from a family member. Both peaked my interest, but this particular email worked out because the seller was in Des Moines, about 340 miles from St. Louis. The other inquiry was from near Knoxville, close to 500 miles from St. Louis. 
+This was actually the second time that someone had reached out to me in the past couple of weeks asking me about items that they were trying to sell from a family member. Both peaked my interest, but this particular email worked out because the seller was in Des Moines, about 340 miles from St. Louis. The other inquiry was from near Knoxville, which is about 500 miles from where I live. 
 
 I replied back to the inquiry and let them know I would be interested in the Riverboat Captain's Bottle, after a few emails back and forth we settled on a price and the seller even offered to meet me near Kansas City. Not quite on the most direct route to Des Moines, but still close enough for a day's round trip drive. 
 
-I got up early this morning, changed the tires on the car, and headed off. Why did I need to change the tires? I decided to drive the FR-S, and had the "good" tires on it, with a few hundred mile drive, I didn't feel like putting those miles on the tires with a few autocross events left in 2020, so I threw the stock wheels and cheap tires back on the car and took off west. 
+I got up early this morning, changed the tires on the car, and headed off. Why did I need to change the tires? I decided to drive the FR-S, and had the "good" tires on it, with a few hundred mile drive, I didn't feel like putting those miles on the tires with a few [autocross events](https://www.autocrossblog.com/) left in 2020, so I threw the stock wheels and cheap tires back on the car and took off west. 
 
 ## Riverboat Captain's Bottle Box
 The Riverboat Captain's Bottle comes with a large box, with a riverboat picture on three sides, and text and a photo of the bottle on the rear. This particular box has a price tag on it, $29.99, imagine that. Back in 1987, this bottle could have been purchased for $30. Today it goes for north of $600 online.
