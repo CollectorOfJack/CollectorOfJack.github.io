@@ -66,21 +66,21 @@
 		<!-- Custom CSS -->
 		<link
 			rel="stylesheet"
-			href="/css/WYSIWYG.css?v=1719261437"
+			href="/css/WYSIWYG.css?v=1719292558"
 			media="screen"
 		/>
-		<link rel="stylesheet" href="/css/main.css?v=1719261437" />
-		<link rel="stylesheet" href="/css/galleries.css?v=1719261437" />
-		<link rel="stylesheet" href="/css/magnificpopup.css?v=1719261437" />
+		<link rel="stylesheet" href="/css/main.css?v=1719292558" />
+		<link rel="stylesheet" href="/css/galleries.css?v=1719292558" />
+		<link rel="stylesheet" href="/css/magnificpopup.css?v=1719292558" />
 
 		<link
 			rel="stylesheet"
-			href="/css/tags-wrap.css?v=1719261437"
+			href="/css/tags-wrap.css?v=1719292558"
 			media="screen"
 		/>
 		<link
 			rel="stylesheet"
-			href="/css/journal.css?v=1719261437"
+			href="/css/journal.css?v=1719292558"
 			media="screen"
 		/>
 		<!-- Custom Fonts -->
@@ -250,7 +250,7 @@
 			<!-- /.container -->
 		</nav>
 		<div class="site-content">
-			<article itemscope itemtype="http://schema.org/BlogPosting">
+			<article itemscope itemtype="https://schema.org/BlogPosting">
 				<!-- Post Content -->
 				<div class="container">
 					<div class="row">
@@ -260,7 +260,21 @@
 								Jack Daniel's life story, according to ChatGPT
 							</h1>
 
-							<span class="meta">Posted on March 6, 2023</span>
+							<div style="float: right">
+								<small>
+									<span class="post-date" style="text-align: right"
+										>Posted:
+										<time
+											class="post-date"
+											datetime="2023-03-06T23:30:00+00:00"
+											itemprop="datePublished"
+											>Mar 6, 2023 23:30</time
+										>
+										<br />
+									</span>
+								</small>
+							</div>
+
 							<span
 								class="time-tag-categ"
 								style="
@@ -296,7 +310,7 @@
 					</div>
 
 					<div class="row">
-						<div class="col col-md-9">
+						<div class="col col-md-9" itemprop="articleBody">
 							<p>
 								Over the past few months I’ve been playing with ChatGPT. I
 								figured I should give it a shot at writing the life story of
@@ -550,7 +564,7 @@
 							<div
 								class="post-author text-center"
 								itemscope
-								itemtype="http://schema.org/Person"
+								itemtype="https://schema.org/Person"
 								itemprop="author"
 							>
 								<img

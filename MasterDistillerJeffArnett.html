@@ -66,21 +66,21 @@
 		<!-- Custom CSS -->
 		<link
 			rel="stylesheet"
-			href="/css/WYSIWYG.css?v=1719261437"
+			href="/css/WYSIWYG.css?v=1719292558"
 			media="screen"
 		/>
-		<link rel="stylesheet" href="/css/main.css?v=1719261437" />
-		<link rel="stylesheet" href="/css/galleries.css?v=1719261437" />
-		<link rel="stylesheet" href="/css/magnificpopup.css?v=1719261437" />
+		<link rel="stylesheet" href="/css/main.css?v=1719292558" />
+		<link rel="stylesheet" href="/css/galleries.css?v=1719292558" />
+		<link rel="stylesheet" href="/css/magnificpopup.css?v=1719292558" />
 
 		<link
 			rel="stylesheet"
-			href="/css/tags-wrap.css?v=1719261437"
+			href="/css/tags-wrap.css?v=1719292558"
 			media="screen"
 		/>
 		<link
 			rel="stylesheet"
-			href="/css/journal.css?v=1719261437"
+			href="/css/journal.css?v=1719292558"
 			media="screen"
 		/>
 		<!-- Custom Fonts -->
@@ -250,7 +250,7 @@
 			<!-- /.container -->
 		</nav>
 		<div class="site-content">
-			<article itemscope itemtype="http://schema.org/BlogPosting">
+			<article itemscope itemtype="https://schema.org/BlogPosting">
 				<!-- Post Content -->
 				<div class="container">
 					<div class="row">
@@ -260,7 +260,21 @@
 								Jack Daniel's Master Distiller Jeff Arnett
 							</h1>
 
-							<span class="meta">Posted on September 3, 2020</span>
+							<div style="float: right">
+								<small>
+									<span class="post-date" style="text-align: right"
+										>Posted:
+										<time
+											class="post-date"
+											datetime="2020-09-03T10:00:00+00:00"
+											itemprop="datePublished"
+											>Sep 3, 2020 10:00</time
+										>
+										<br />
+									</span>
+								</small>
+							</div>
+
 							<span
 								class="time-tag-categ"
 								style="
@@ -297,7 +311,7 @@
 					</div>
 
 					<div class="row">
-						<div class="col col-md-9">
+						<div class="col col-md-9" itemprop="articleBody">
 							<p>
 								September is the accepted Birth Month of Jack Daniel’s, so every
 								September there is a month long celebration with photos and
@@ -582,7 +596,7 @@
 							<div
 								class="post-author text-center"
 								itemscope
-								itemtype="http://schema.org/Person"
+								itemtype="https://schema.org/Person"
 								itemprop="author"
 							>
 								<img
