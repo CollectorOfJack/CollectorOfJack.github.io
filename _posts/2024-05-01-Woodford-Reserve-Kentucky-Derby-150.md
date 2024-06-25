@@ -2,6 +2,7 @@
 layout: post
 title: "Woodford Reserve's Kentucky Derby 150th Kentucky Bourbon"
 date: '2024-05-01T23:30:00+00:00'
+last_modified_at: '2024-06-25T12:51:00+00:00'
 permalink: WoodfordReserveKentuckyDerby150
 image: 71/WoodfordReserveKentuckyDerby150-2.jpg
 description: "Woodford Reserve's Kentucky Derby series of bottles is a special annual release that celebrates one of America's most storied horse races, the Kentucky Derby. "
@@ -43,3 +44,9 @@ Collectors of bourbon and horse racing enthusiasts often look forward to the rel
 **Proof:** 90.4  
 **Size:** 1L  
 **Price:** $59  
+
+## How Much Is Woodford Reserve's Kentucky Derby 150th Kentucky Bourbon Worth?
+The bottle may hold some value to Kentucky Derby fans, but due to the large distribution of these across the country the value is right around retail, or even below. I paid $60 for it and can find it online for $45.
+ 
+### Collector Of Jack's Value Assessment
+If you collect the Kentucky Derby bottles, definitely pick one up to add to your collection. This being the 150th may also add some value in the future.

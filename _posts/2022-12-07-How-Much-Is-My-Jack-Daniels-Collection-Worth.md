@@ -2,17 +2,18 @@
 layout: post
 title: "How Much Is My Jack Daniels Collection Worth?"
 date: '2022-12-20T21:30:00+00:00'
+last_modified_at: '2024-06-25T10:44:00+00:00'
 permalink: HowMuchIsMyJackDanielsCollectionWorth
 type: article
 keywords: "Jack Daniel's, Collection, Value, Estimate, Tracker, Worth"
 image: 64/Collection-1.jpg
-description: "Putting a value on your bottles"
+description: "Putting a value on your bottles in your Jack Daniel's collection, we'll help you to start to do that."
 gallery:
   HowMuchIsMyJackDanielsCollectionWorth:
   - image_path: 64/Collection-1.jpg
     image-caption: Jack Daniel's Collection
     image-copyright: CollectorOfJack.com
-categories: [ Collection ]
+categories: [ Collection, Value, Appraisal ]
 ---
 We get asked this question a lot.  "How much is my Jack Daniels collection worth?"  The answer is, it depends.  There are a lot of factors that go into determining the value of a collection.  We will try to cover some things, but likely not all, that go into evaluating a liquor collection.
 
@@ -38,7 +39,7 @@ We get asked this question a lot.  "How much is my Jack Daniels collection worth
 
 **Do the corks look good?** Are they in good shape? Have you regularly rotated the bottles so that the corks don't dry out? If they dry out, they can fall apart and fall into the bottle.  This can decrease the value of the bottle and the contents.
 
-A**re the seals intact?** If the seals have been tampered with, the value of the bottle can be greatly reduced.
+**Are the seals intact?** If the seals have been tampered with, the value of the bottle can be greatly reduced.
 
 **Is there a tax stamp?** Older bottles oftentimes have tax stamps, they can actually allow you to get a date for the bottle. Newer bottles don't have tax stamps, so you have to look at other things to try to determine age.
 
@@ -53,14 +54,16 @@ A**re the seals intact?** If the seals have been tampered with, the value of the
 
 ## Rarity
 
-**How many bottles were produced?** That will completely vary based on the release, each release is definitely different, and sometimes, for example the Eric Church bottles there were actually multiple releases.
+**How many bottles were produced?** That will completely vary based on the release, each release is definitely different, and sometimes, for example the Eric Church bottles there were actually multiple releases over the years.
 
 
 ## Where can I sell my collection?
 
 That one can be a tricky question to answer, there are a lot of factors to consider.
+
 **Where do you live?** 
 Do you know what the laws are around selling alcohol in your state?  
+Are you able to ship them? Legally? Shipping of alcohol via USPS, Fedex and UPS is pretty restricted based on laws.  
 Do you want to sell them all at once or one at a time?  
 Do you want to sell them to a private collector or a retailer? 
 If you are in our around St. Louis (6 hour radius) and interested in selling, [be sure to reach out to me](/contact). I might be interested.
