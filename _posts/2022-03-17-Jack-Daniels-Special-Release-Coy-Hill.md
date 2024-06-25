@@ -4,7 +4,8 @@ title: Jack Daniels Special Release Coy Hill High Proof
 date: '2022-03-17T00:14:00+00:00'
 permalink: JackDanielsSpecialReleaseCoyHillHighProof
 image: 56/CoyHill-1.jpg
-description: Jack Daniels Special Release Coy Hill High Proof
+description: "Jack Daniels Special Release Coy Hill High Proof, an extremely high proof whiskey released in 2021"
+keywords: "Coy Hill, Special Release, High Proof, Jack Daniel"
 gallery:
   JackDanielsCoyHill:
   - image_path: 56/CoyHill-1.jpg
@@ -30,15 +31,14 @@ The bottle comes in the familiar single barrel shape, with red labels with gold 
 
 It is a beautiful bottle, and if you can get your hands on one, I highly recommend you do. I am currently still on the hunt for another bottle or two so that I can open one up and have a drink!
 
-
-The neck reads:
+## The neck reads:
 > Special Release  
 > Bottling Date: 9.24.2021  
 > Master Distiller Chris Fletcher (signature)  
 > Barrel No.: 21-8252  
 > Barrel Entry: 8.17.12  
 
-The front label reads:
+## The front label reads:
 
 > Jack Daniel's  
 > Uniquely Crafted Handmade Barrels  
@@ -49,8 +49,7 @@ The front label reads:
 > Aged up in the "Buzzard's Roost" of our barrel houses on Coy Hill and bottled uncut at higher proofs.  
 > Barrel House #08 #13  
 
-
-The rear/side label reads:
+## The rear/side label reads:
 
 > The special release series highlights our innovation in whiskey making here at Jack Daniel Distillery. Hand-selected from the highest parts of our barrel houses and bottles from single barrels, we extend this one-of-kind craftsmanship to you.
 
@@ -60,3 +59,9 @@ If you get a chance to pick up this bottle, it is highly recommended that you do
 **Proof:** 141.8  
 **Size:** 750ml  
 **Price:** $79.99  
+
+## How Much Is Jack Daniel's Special Release Coy Hill  Worth?
+You'll be hard pressed to find this bottle for less than $500, with most going for around $800 if you can find it at all. 
+
+### Collector Of Jack's Value Assessment
+Coy Hill is one of the hardest to find bottles, if you can get one, you should scoop it up! I may have an extra bottle if you've got anything interesting to trade!

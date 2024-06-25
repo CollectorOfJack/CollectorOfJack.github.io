@@ -60,3 +60,4 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 * [Eric Church Single Barrel 2020](https://collectorofjack.com/EricChurchSingleBarrel2020)
 * [Jack Daniel's Barrel Proof Rye Special Release 2020](https://collectorofjack.com/2020SpecialRelease)
 * [Jack Daniel's Twice Barreled Special Release 2022](https://collectorofjack.com/TwiceBarreledMaltPrerelease)
+* [Jack Daniel's Special Release Coy Hill High Proof](/JackDanielsSpecialReleaseCoyHillHighProof)
