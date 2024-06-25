@@ -3,7 +3,7 @@ layout: default
 ---
 {% assign post = page %}
 
-<article itemscope itemtype="http://schema.org/BlogPosting">
+<article itemscope itemtype="https://schema.org/BlogPosting">
  
   <!-- Post Content -->
   <div class="container">
@@ -14,7 +14,18 @@ layout: default
       {% if page.subtitle %}
         <h2 class="subheading">{{ page.subtitle }}</h2>
         {% endif %}
-        <span class="meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+        <div style="float:right">
+          <small>
+              <span class="post-date" style="text-align:right">Posted: 
+                  <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y %H:%M" }}</time>
+                  <br/>
+              {% if page.last_modified_at %}
+              (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y %H:%M" }}</time>)
+              {% endif %}
+              </span>           
+          </small>
+      </div>  
+
         <span class="time-tag-categ" style="font-size:.7em;background-color: rgba(128, 128, 128, 0.75); padding:3px;">
         {% assign minutes = content | number_of_words | divided_by: 180 %}
         <i class="fa fa-clock-o"></i>&nbsp;{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
