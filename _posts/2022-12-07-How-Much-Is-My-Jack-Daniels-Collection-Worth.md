@@ -65,6 +65,7 @@ That one can be a tricky question to answer, there are a lot of factors to consi
 Do you know what the laws are around selling alcohol in your state?  
 Are you able to ship them? Legally? Shipping of alcohol via USPS, Fedex and UPS is pretty restricted based on laws.  
 Do you want to sell them all at once or one at a time?  
-Do you want to sell them to a private collector or a retailer? 
-If you are in our around St. Louis (6 hour radius) and interested in selling, [be sure to reach out to me](/contact). I might be interested.
+Do you want to sell them to a private collector or a retailer?  
+
+If you are in our around St. Louis (5-6 hour radius) and interested in selling, [be sure to reach out to me](/contact). I might be interested.
 
