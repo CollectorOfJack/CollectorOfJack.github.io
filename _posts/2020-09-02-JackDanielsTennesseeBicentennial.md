@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Jack Daniel's Tennessee Bicentennial 
+title: Jack Daniel's Tennessee Bicentennial whiskey bottle
 date: '2020-09-02T23:40:40+00:00'
 last_modified_at: '2024-06-25T12:51:00+00:00'
 permalink: JackDanielsTennesseeBicentennial
 image: 33/JackDanielsBicentennial-1.jpg
-description: 1796-1996 A special release honoring the state of Tennessee's Bicentennial in 1996
+description: "1796-1996 A special release bottle from Jack Daniel's honoring the state of Tennessee's Bicentennial in 1996"
 keywords: "750ml, Bicentennial, 1996, Tennessee, Jack Daniel's" 
 gallery:
   JackDanielsTennesseeBicentennial:
@@ -52,7 +52,6 @@ You might be able to find the bottle online, though prices will very wildly. Any
 **Proof:** 96  
 **Size:** 750ml  
 **Price:** $Unknown
-
 
 
 ## How Much Is Jack Daniel's Tennessee Bicentennial Worth?
