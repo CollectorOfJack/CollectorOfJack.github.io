@@ -28,16 +28,15 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 * Jack Daniel's Alabama Bicentennial
 * Jack Daniel's Silver Cornet Decanter
 * 1915 Gold Medal Series Box
-* [Jack Daniel's 10 Years Old Tennessee Whiskey Batch 1](/JackDaniels10Year)
-* Jack Daniel's 10 Year Batch 2
-* Jack Daniel's 10 Year Batch 3
-* Jack Daniel's 12 Year Batch 1
-* Jack Daniel's 12 Year Batch 2
 * [Jack Daniel's Special Release Coy Hill High Proof](/JackDanielsSpecialReleaseCoyHillHighProof)
 * [Jack Daniel's Small Batch Coy Hill](/SmallBatchCoyHill2022)
 * Sinatra Select Century
 * [2023 Special Release Twice Barreled Tennessee Rye](/TwiceBarreledRye)
 * Jack Daniel's American Single Malt (Duty Free or Miltary Purchase)
+* Jack Daniel's Distillery Series #10 (Pecan)
+* Jack Daniel's 10 Year Batch 3
+* Jack Daniel's 12 Year Batch 1
+* Jack Daniel's 12 Year Batch 2
 
 ## Items Available For Trade
 * [Gentleman Jack Limited Edition Time Piece Bottle](https://collectorofjack.com/GentlemanJackTimePiece)
@@ -61,3 +60,5 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 * [Jack Daniel's Barrel Proof Rye Special Release 2020](https://collectorofjack.com/2020SpecialRelease)
 * [Jack Daniel's Twice Barreled Special Release 2022](https://collectorofjack.com/TwiceBarreledMaltPrerelease)
 * [Jack Daniel's Special Release Coy Hill High Proof](/JackDanielsSpecialReleaseCoyHillHighProof)
+* [Jack Daniel's 10 Years Old Tennessee Whiskey Batch 1](/JackDaniels10Year)
+* Jack Daniel's 10 Year Batch 2
