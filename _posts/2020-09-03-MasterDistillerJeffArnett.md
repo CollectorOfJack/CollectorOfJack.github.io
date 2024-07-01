@@ -14,6 +14,7 @@ gallery:
     image-caption: The 7th (8th?) Master Distiller for Jack Daniel's, Jeff Arnett
     image-copyright: © CollectorOfJack.com
 categories: [ Master Distiller, Jeff Arnett ]
+keywords: "jack daniels, jeff arnett, master distiller, signature"
 last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 
