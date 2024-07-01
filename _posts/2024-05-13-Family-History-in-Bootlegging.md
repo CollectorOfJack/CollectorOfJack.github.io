@@ -31,6 +31,7 @@ gallery:
     image-caption: Sedalia Democrat October 21, 1924 Page 1
     image-copyright: CollectorOfJack.com
 categories: [ Family History, Sedalia, Whiskey Still, Raid, Seized ]
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 As we get older, we get more nostalgic. As both my parents have aged, my brother and I have spent time going through things they have kept/collected throughout the years. In doing so, you come across all sorts of interesting things, I feel like the older you get, the more interesting some of those things become.
 

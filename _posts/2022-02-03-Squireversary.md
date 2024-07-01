@@ -15,6 +15,7 @@ gallery:
     image-copyright: CollectorOfJack.com
 categories: [ Tennessee Squires, Squire ]
  
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 Today is my 2 year anniversary of getting my plot! I was super pumped to be nominated to be a Tennessee Squire by a fraternity brother of mine back in January 2020, and even more excited to find out that I had been accepted!
 

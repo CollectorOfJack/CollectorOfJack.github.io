@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Jack Daniel's Unaged Tennessee Rye
 date: '2019-06-18T17:23:44+00:00'
@@ -23,6 +23,7 @@ gallery:
     image-caption: Jack Daniel's Legacy Edition Series First Edition release, the green label
     image-copyright: © CollectorOfJack.com
 categories: [ Rye, Unaged Rye, 750ml ]
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
   
 December 2012 saw the release of a whiskey with a new grain recipe, the first time in over 100 years. This bottle was the first in what has become 3 releases of their Rye product. Stay tuned for future blog posts about the Rested Rye and Jack Daniel's Tennessee Rye. Jack Daniel's Tennessee Rye is Master Distiller Jeff Arnett's attempt at a new mash bill, this one consisting of 70 percent rye, 18 percent corn and 12 percent malted barley.   

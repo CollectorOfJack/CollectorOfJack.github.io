@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Jack Daniel's Single Barrel Heritage Barrel (2018)
 date: '2019-06-18T15:18:24+00:00'
@@ -24,6 +24,7 @@ gallery:
     image-copyright: © CollectorOfJack.com
 
 categories: [ 750ml, Heritage Barrel, Special Release, Box ]
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 
 In late September 2018 Jack Daniel's announced a new Special Release Tennessee Whiskey, Single Barrel Heritage Barrel.

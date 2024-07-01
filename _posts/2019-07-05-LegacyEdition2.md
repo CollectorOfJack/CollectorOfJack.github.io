@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Jack Daniel's Legacy Edition 2
 date: '2019-07-05T14:17:35+00:00'
@@ -35,6 +35,7 @@ gallery:
     image-caption: Jack Daniel's Legacy Edition Series Second Edition release, the red and black label
     image-copyright: © CollectorOfJack.com
 categories: [ Legacy, 750ml ]
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 In May of 2019 Jack Daniel's released the second in their Legacy Edition line. TotalWine.com has the bottled described as
 

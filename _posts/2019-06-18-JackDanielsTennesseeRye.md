@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Jack Daniel's Tennessee Rye
 date: '2019-06-18T17:28:55+00:00'
@@ -39,6 +39,7 @@ gallery:
     image-copyright: © CollectorOfJack.com
 
 categories: [ Rye, Tennessee Rye, 750ml ]
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 In September of 2017 Jack Daniel's released their standard bottle of Jack Daniel's Tennessee Rye, their 70% rash mash bill. This is a more affordable version of the Rye from Jack Daniel's than the [Single Barrel Rye](/JackDanielsSingleBarrelRye) released in 2016.   
 

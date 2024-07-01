@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
 title: Tennessee Tasters' Barrel Proof Rye
 date: '2020-08-30T22:32:40+00:00'
-last_modified_at: '2024-06-24T14:44:00+00:00'
+last_modified_at: '2024-07-01T15:55:45+00:00'
 permalink: TennesseeTastersBarrelProofRye
 image: 31/TennesseeTasters4-1.jpg
 description: The Tennessee Tasters' Barrel Proof Rye Bottle

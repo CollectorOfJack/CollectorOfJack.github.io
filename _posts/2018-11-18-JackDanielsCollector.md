@@ -1,11 +1,11 @@
-﻿---
+---
 layout: post
 title: "Welcome to the Jack Daniel's Collector Blog"
 description: Our origin story for collecting Jack Daniel's.
 keywords: "jack, daniel's, jd, whiskey, collection, collector, glasses, bottles, value, jack daniel, jack daniel's"
 type: article
 date: '2018-11-18T13:36:55+00:00'
-last_modified_at: '2024-06-30T23:59:00+00:00'
+last_modified_at: '2024-07-01T15:55:45+00:00'
 permalink: JackDanielsCollector
 image: 1/post-bg1.jpg
 
@@ -34,4 +34,3 @@ I didn't plan to start drinking Jack Daniel's that evening, but I ended up doing
 
 Why CollectorOfJack.com? I've been collecting Jack Daniel's bottles for many years now, and while I am proud of my collection, there are definitely some gaps that I would like to fill. I've managed to acquire some extras over the years, and I'm hopeful that with this blog I'll be able to find other like minded folks, who perhaps have bottles to fill my gaps and possibly need some of the extras that I have in my collection.
 
-This is the first post in what will hopefully be many future posts, stay tuned as I document and acquire additional items to the collection. For additional information about me, be sure to visit me [Chris Hammond](https://www.ChrisHammond.com)

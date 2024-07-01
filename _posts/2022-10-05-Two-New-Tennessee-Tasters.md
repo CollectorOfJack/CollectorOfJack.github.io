@@ -2,7 +2,7 @@
 layout: post
 title: "Two new Tennessee Tasters bottles from Jack Daniel's"
 date: '2022-10-05T09:30:00+00:00'
-last_modified_at: '2024-06-24T14:44:00+00:00'
+last_modified_at: '2024-07-01T15:55:45+00:00'
 permalink: October2022TennesseeTasters
 image: 62/october2022tennesseetasters-1.jpg
 description: "Two new Tennessee Tasters bottles from Jack Daniel's"

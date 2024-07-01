@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Jack Daniel's Single Barrel Rye
 date: '2019-06-18T17:26:34+00:00'
@@ -29,6 +29,7 @@ gallery:
     image-caption: Jack Daniel's Single Barrel Rye bottle 
     image-copyright: © CollectorOfJack.com
 categories: [ Rye, 750ml, Single Barrel ]
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 
 This post continues our series of blog posts about Jack Daniel's Tennessee Rye. As the Rye has matured, we've gone from Unaged to Rested and now on to Single Barrel. In 2016 Jack Daniel's released the Single Barrel Rye, a 94 proof Tennessee Rye Whiskey. Depending on where you acquired it, it may or may not have come with a box. The front of the box is adorned with:

@@ -20,6 +20,7 @@ gallery:
     image-caption: Jack Daniel's Fire and 2 Shot Glasses
     image-copyright: © CollectorOfJack.com
 categories: [ Flavor, Fire, Cinnamon, Gift Set, Shot Glass ]
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 
 One of the things that I've thought about, and am not 100% on yet, is collecting the "Gift Sets" that you can find from Jack Daniel's. They are typically a bottle of Old No. 7, or Fire, or Honey and come with some form of glassware. There seems to be a new set every season, if not more frequent than that. Do I need/want to have boxes of shot glasses and rocks glasses around?

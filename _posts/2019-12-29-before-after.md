@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Jack Daniel's Before and After Release
 date: '2019-12-29T05:11:58+00:00'
@@ -50,6 +50,7 @@ gallery:
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
 categories: [ Before & After, 375ml, Lynchburg ]
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 In the fall of 2019 rumors started swirling online of a new release available at the White Rabbit Bottleshop in Lynchburg, of a Before and After set. Two bottles of unmatured Old No. 7, one BEFORE Charcoal Mellowing and one AFTER Charcoal Mellowing, along with a small bottle of Hard Sugar Maple Charcoal in between the two bottles. The BEFORE bottle on the left, the AFTER on the right.
 

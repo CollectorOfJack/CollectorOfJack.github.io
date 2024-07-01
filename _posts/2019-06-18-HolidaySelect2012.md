@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Jack Daniel's Holiday Select 2012
 date: '2019-06-18T15:28:40+00:00'
@@ -35,6 +35,7 @@ gallery:
     image-caption: Jack Daniel's Holiday Select Release from 2012
     image-copyright: © CollectorOfJack.com
 categories: [ Special Release, Single Barrel, 750ml, Holiday Select, "2012" ]
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 
 In our [last blog post we covered the first in the Holiday Select series](/HolidaySelect2011), in this one, we cover the second, the Holiday Select 2012 Limited Edition bottle from Jack Daniel's. 
@@ -51,4 +52,3 @@ The 2012 bottle is 45.2% Alcohol, or 90.4 Proof, down from 100 the year before. 
 **Release:** December 2012  
 **Proof:** 90.4  
 **Size:** 750ml  
-**Price:** $89  

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Jack Daniel's Heritage Barrel 2019
 date: '2019-11-11T03:51:06+00:00'
@@ -29,6 +29,7 @@ gallery:
     image-caption: Jack Daniel's Heritage Barrel 2019 Release
     image-copyright: © CollectorOfJack.com
 categories: [ Special Release, Heritage, Heritage Barrel, "2019", Single Barrel ]
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 Back again for 2019 is the Jack Daniel's Single Barrel Heritage Barrel. In [2018 JD had a special release for this limited bottling, consisting of a rumored two hundred barrels, bottled in September 2018](/HeritageBarrel).
 

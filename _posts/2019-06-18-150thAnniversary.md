@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Jack Daniel's 150th Anniversary Tennessee Whiskey Bottle + Box "
 date: '2019-06-18T17:32:40+00:00'
@@ -35,6 +35,7 @@ gallery:
     image-caption: Jack Daniel's 150th Anniversary Tennessee Whiskey Bottle and the Black Box 
     image-copyright: © CollectorOfJack.com
 categories: [ 150th, Box ]
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 In 2016, The Jack Daniel Distillery celebrated 150 years, in celebration of that milestone they released both a bottle that was easy to find, and a more collectible bottle, a 1 Liter bottle with a decorative black case. This post covers the more collectible bottle and box, and a future post will document the 750mL bottle.
 

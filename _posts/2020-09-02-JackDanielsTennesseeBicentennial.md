@@ -2,7 +2,7 @@
 layout: post
 title: Jack Daniel's Tennessee Bicentennial whiskey bottle
 date: '2020-09-02T23:40:40+00:00'
-last_modified_at: '2024-06-25T12:51:00+00:00'
+last_modified_at: '2024-07-01T15:55:45+00:00'
 permalink: JackDanielsTennesseeBicentennial
 image: 33/JackDanielsBicentennial-1.jpg
 description: "1796-1996 A special release bottle from Jack Daniel's honoring the state of Tennessee's Bicentennial in 1996"

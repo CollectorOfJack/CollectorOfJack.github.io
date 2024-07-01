@@ -37,6 +37,7 @@ gallery:
     image-caption: Jack Daniel's / McLaren Racing Formula 1 2023 Bottle Side
     image-copyright: CollectorOfJack.com
 categories: [ McLaren, "2023", Box, 1L ]
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 
 ## Celebrating Five Years of CollectorOfJack.com
@@ -116,4 +117,3 @@ I picked these bottles up in Florida on our family vacation this summer. Big sho
 If you can find it in one of the states that it is sold, definitely don't pay more than retail. If you're shopping elsewhere be prepared to pay a little more.
  
 ### Collector Of Jack's Value Assessment
-While the packaging for these bottles is special, the juice is regular Jack Daniel's. 

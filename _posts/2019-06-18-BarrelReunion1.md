@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
 title: "Tennessee Tasters' Barrel Reunion #1"
 date: '2019-06-18T17:33:56+00:00'
-last_modified_at: '2024-06-24T14:44:00+00:00'
+last_modified_at: '2024-07-01T15:55:45+00:00'
 permalink: BarrelReunion1
 image: 19/CollectorOfJack-7.jpg
 description: A collector's guide to the Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle.
@@ -29,4 +29,3 @@ I picked up a few of these bottles at the Distillery in March 2019 and then pick
 **Release:** 2019  
 **Proof:** 90  
 **Size:** 375ml  
-**Price:** $49  

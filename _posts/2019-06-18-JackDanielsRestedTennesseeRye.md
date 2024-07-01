@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Jack Daniel's Rested Tennessee Rye
 date: '2019-06-18T17:24:44+00:00'
@@ -24,6 +24,7 @@ gallery:
     image-copyright: © CollectorOfJack.com
 
 categories: [ Rye, Rested Rye, 750ml ]
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 Following up the December 2012 release of the Unaged Rye, in April 2014 Jack Daniel's released their Rested Tennessee Rye. This bottle was the second in what has become 3 releases of their Rye product. Jack Daniel's Tennessee Rye is Master Distiller Jeff Arnett's attempt at a new mash bill, this one consisting of 70 percent rye, 18 percent corn and 12 percent malted barley. 
 

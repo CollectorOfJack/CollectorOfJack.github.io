@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Jack Daniel's Holiday Select 2013
 date: '2019-06-18T15:56:40+00:00'
@@ -35,6 +35,7 @@ gallery:
     image-caption: Jack Daniel's Holiday Select Release from 2013
     image-copyright: © CollectorOfJack.com
 categories: [ Special Release, Single Barrel, 750ml, Holiday Select, "2013" ]
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 
 In our [last blog post we covered the second in the Holiday Select series](/HolidaySelect2012), in this one, we cover the third, the Holiday Select 2013 Limited Edition bottle from Jack Daniel's. 

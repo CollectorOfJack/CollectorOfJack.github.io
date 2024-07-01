@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
 title: Tennessee Tasters' Hickory Smoked (2018)
 date: '2019-06-18T15:11:50+00:00'
-last_modified_at: '2024-06-24T14:44:00+00:00'
+last_modified_at: '2024-07-01T15:55:45+00:00'
 permalink: HickorySmoked
 image: 4/HickorySmoked-1.jpg
 description: A collector's guide to the Jack Daniel's Tennessee Tasters' Series Hickory Smoked release "Tennessee Whiskey Finish with Charred Hickory Staves"

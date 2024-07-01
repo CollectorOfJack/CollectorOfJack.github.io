@@ -20,6 +20,7 @@ gallery:
     image-caption: 2018 Red Sox World Champions Jim Beam Bourbon
     image-copyright: © CollectorOfJack.com
 categories: [ Other, Jim Beam, Red Sox, World Series ]
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 
 In 2018 the Boston Red Sox won the MLB World Series. Jim Beam released a bottle celebrating this and I was fortunate enough to have a family member in massachusetts pick one up for me. I'm a HUGE Red Sox fan, always have been, even went to Game 4 of the 2004 World Series to see them win their first Championship in 86 years, so getting my hands on this bottle was exciting. For some reason I never got around to posting about it though, even though I took the pictures for it back in 2019!

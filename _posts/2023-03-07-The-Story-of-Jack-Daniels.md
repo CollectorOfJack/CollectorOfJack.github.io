@@ -13,6 +13,7 @@ gallery:
     image-caption: Jack Daniel Photo at the Distillery taken in 2005
     image-copyright: CollectorOfJack.com
 categories: [ History, ChatGPT ]
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 Over the past few months I've been playing with ChatGPT. I figured I should give it a shot at writing the life story of Jack Daniel's. I'm not sure if it's 100% accurate, but it certainly hits most of the points.
 

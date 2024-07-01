@@ -26,6 +26,7 @@ gallery:
     image-caption: Metallica S&M2 Whiskey
     image-copyright: © CollectorOfJack.com
 categories: [ Other, Metallica, Blackened ]
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 
 In getting ready for this post I realized this is the first time I've actually blogged about Blackened. I've had a few bottles over the past couple of years, and will document some of those later on, but for now, here's batch 106.

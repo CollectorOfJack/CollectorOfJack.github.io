@@ -2,7 +2,7 @@
 layout: post
 title: Jack Daniel's Tennessee Tasters' Series Barrel Reunion 2
 date: '2021-06-24T22:20:00+00:00'
-last_modified_at: '2024-06-24T14:44:00+00:00'
+last_modified_at: '2024-07-01T15:55:45+00:00'
 permalink: BarrelReunion2
 image: 48/BarrelReunion2-1.jpg
 description: Tennessee Tasters' Barrel Reunion 2 Finished in Oatmeal Sout Barrels

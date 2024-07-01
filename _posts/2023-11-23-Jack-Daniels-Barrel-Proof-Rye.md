@@ -22,6 +22,7 @@ gallery:
     image-caption: Jack Daniel's Single Barrel Barrel Proof Rye
     image-copyright: CollectorOfJack.com
 categories: [ Rye, 750ml, Barrel Proof Rye, Barrel Proof, 750ml, Single Barrel ]
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 Jack Daniel's ventured into Rye over 10 years ago and has regularly been adding to their line since. 
 

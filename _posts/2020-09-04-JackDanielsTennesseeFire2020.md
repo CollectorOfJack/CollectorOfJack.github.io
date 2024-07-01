@@ -20,6 +20,7 @@ gallery:
     image-caption: Jack Daniel's Tennessee Fire a red hot cinnamon liqueur mixed with Old No. 7 Whiskey.
     image-copyright: © CollectorOfJack.com
 categories: [ Flavor, Fire, Cinnamon ]
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 
 Somehow I haven't blogged about the Jack Daniel's Tennessee Fire, and here we are with a second iteration of the bottle already! Maybe soon we'll get some pictures of the original bottle, for now we'll cover the newly designed bottle that was released in 2019 and most markets in 2020.

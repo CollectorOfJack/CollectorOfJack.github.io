@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Jack Daniel's Single Barrel Eric Church (2019)
 date: '2019-11-07T17:28:17+00:00'
@@ -39,6 +39,7 @@ gallery:
     image-copyright: © CollectorOfJack.com
 categories: [ 750ml, Single Barrel, Music ]
 
+last_modified_at: '2024-07-01T15:55:45+00:00'
 ---
 *This post is for the 2019 version of the Eric Church bottle!*
 

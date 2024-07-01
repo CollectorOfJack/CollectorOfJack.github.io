@@ -2,7 +2,7 @@
 layout: post
 title: "How Much Is My Jack Daniels Collection Worth?"
 date: '2022-12-20T21:30:00+00:00'
-last_modified_at: '2024-06-25T10:44:00+00:00'
+last_modified_at: '2024-07-01T15:55:45+00:00'
 permalink: HowMuchIsMyJackDanielsCollectionWorth
 type: article
 keywords: "Jack Daniel's, Collection, Value, Estimate, Tracker, Worth"
