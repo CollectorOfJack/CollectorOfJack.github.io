@@ -1,5 +1,5 @@
 <!-- Navigation -->
-<nav class="navbar navbar-dark navbar-custom fixed-top navbar-expand-md mediumnavigation nav-down"
+<nav class="navbar navbar-dark fixed-top navbar-expand-md mediumnavigation nav-down"
 style="margin-right:1em; z-index: 1;">
     <!-- Brand and toggle get grouped for better mobile display -->
     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <i class="fa fa-bars fa-lg"></i>
@@ -14,6 +14,8 @@ style="margin-right:1em; z-index: 1;">
             </li>{% else %}
             <li class="nav-item"><a href="{{ nav_item[1] }}" class="nav-link">{{ nav_item[0] }}</a>
             </li>{% endif %} {% endfor %} {% endfor %}</ul>
+
+            {% include search-lunr.html %}
     </div>
     <!-- /.navbar-collapse -->
     <!-- /.container -->

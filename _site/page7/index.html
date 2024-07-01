@@ -22,12 +22,12 @@
     
     <meta property="og:title" content="Collector Of Jack" />
     
-    <meta property="og:description" content="A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find documentation around the Jack Daniel's collection and various other rarities in the whiskey world." />
-    <meta name="description" content="A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find documentation around the Jack Daniel's collection and various other rarities in the whiskey world.">
+    <meta property="og:description" content="A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find a library of documentation around Jack Daniel's bottles and various other rarities in the whiskey world." />
+    <meta name="description" content="A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find a library of documentation around Jack Daniel's bottles and various other rarities in the whiskey world.">
            
     
     
-    <meta name="keywords" content="jack, daniel's, collector, blog, jd, whiskey, tennessee, jack daniel's tennessee whiskey">
+    <meta name="keywords" content="jack, daniel's, collector, blog, jd, whiskey, tennessee, jack daniel's tennessee whiskey, library">
     <link rel="canonical" href="http://localhost:4000/page7/">
 
     <link rel="shortcut icon" href="/favicon.ico?" type="image/x-icon">
@@ -40,13 +40,13 @@
 
 
     <!-- Custom CSS -->   
-    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1719246211" media="screen">
-    <link rel="stylesheet" href="/css/main.css?v=1719246211">
-    <link rel="stylesheet" href="/css/galleries.css?v=1719246211">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1719246211">
+    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1719811052" media="screen">
+    <link rel="stylesheet" href="/css/main.css?v=1719811052">
+    <link rel="stylesheet" href="/css/galleries.css?v=1719811052">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1719811052">
     
-    <link rel="stylesheet" href="/css/tags-wrap.css?v=1719246211" media="screen">
-    <link rel="stylesheet" href="/css/journal.css?v=1719246211" media="screen">
+    <link rel="stylesheet" href="/css/tags-wrap.css?v=1719811052" media="screen">
+    <link rel="stylesheet" href="/css/journal.css?v=1719811052" media="screen">
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
         type="text/css">
@@ -103,9 +103,9 @@
           "url": "http://localhost:4000/page7/",
           "name": "Collector Of Jack",
           "headline": "Collector Of Jack",
-          "keywords": "jack, daniel's, collector, blog, jd, whiskey, tennessee, jack daniel's tennessee whiskey",
-          "description": "A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find documentation around the Jack Daniel's collection and various other rarities in the whiskey world.",
-          "articleBody": "\n  \n  \n    \n\n    {% for post in paginator.posts %}\n\n    {% assign post = site.posts.first %}\n    {% assign content = post.content %}\n\n    \n      \n\n      \n\n        \n        {% if post.image %}\n        {% picture blogcrop {{ post.image }} --alt {{ post.title }} %}\n        {% endif %}\n        \n          {{ post.title }}\n        \n        \n        {% if post.subtitle %}\n        \n        {{ post.subtitle }}\n        {% endif %}\n\n        \n        Posted on {{ post.date | date: \"%B %-d, %Y\" }}\n      \n\n      \n    \n    {% endfor %}\n    &nbsp;\n    \n  \n  \n\n\n\n\n{% if paginator.total_pages > 1 %}\n\n  {% if paginator.previous_page %}\n  \n  &larr; Newer Posts\n  \n  {% endif %}\n\n   Page {{paginator.page}} of {{paginator.total_pages}}\n\n  {% if paginator.next_page %}\n  \n  Older Posts &rarr;\n  \n  {% endif %}\n\n{% endif %}\n\n\n",
+          "keywords": "jack, daniel's, collector, blog, jd, whiskey, tennessee, jack daniel's tennessee whiskey, library",
+          "description": "A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find a library of documentation around Jack Daniel's bottles and various other rarities in the whiskey world.",
+          "articleBody": "\r\n  \r\n  \r\n    \r\n\r\n    {% for post in paginator.posts %}\r\n\r\n    {% assign post = site.posts.first %}\r\n    {% assign content = post.content %}\r\n\r\n    \r\n      \r\n\r\n      \r\n\r\n        \r\n        {% if post.image %}\r\n        {% picture blogcrop {{ post.image }} --alt {{ post.title }} %}\r\n        {% endif %}\r\n        \r\n          {{ post.title }}\r\n        \r\n        \r\n        {% if post.subtitle %}\r\n        \r\n        {{ post.subtitle }}\r\n        {% endif %}\r\n\r\n        \r\n        Posted on {{ post.date | date: \"%B %-d, %Y\" }}\r\n      \r\n\r\n      \r\n    \r\n    {% endfor %}\r\n    &nbsp;\r\n    \r\n  \r\n  \r\n\r\n\r\n\r\n\r\n{% if paginator.total_pages > 1 %}\r\n\r\n  {% if paginator.previous_page %}\r\n  \r\n  &larr; Newer Posts\r\n  \r\n  {% endif %}\r\n\r\n   Page {{paginator.page}} of {{paginator.total_pages}}\r\n\r\n  {% if paginator.next_page %}\r\n  \r\n  Older Posts &rarr;\r\n  \r\n  {% endif %}\r\n\r\n{% endif %}\r\n\r\n\r\n",
           "datePublished": null,
           "dateModified": null,
           
@@ -139,7 +139,7 @@
     
 
   <!-- Navigation -->
-<nav class="navbar navbar-dark navbar-custom fixed-top navbar-expand-md mediumnavigation nav-down"
+<nav class="navbar navbar-dark fixed-top navbar-expand-md mediumnavigation nav-down"
 style="margin-right:1em; z-index: 1;">
     <!-- Brand and toggle get grouped for better mobile display -->
     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <i class="fa fa-bars fa-lg"></i>
@@ -156,6 +156,29 @@ style="margin-right:1em; z-index: 1;">
             </li>     
             <li class="nav-item"><a href="/contact" class="nav-link">CONTACT</a>
             </li>  </ul>
+
+            <script src="/js/lunr.js"></script>
+
+
+<style>
+    .lunrsearchresult .title {color: #523615;}
+    .lunrsearchresult .url {color: silver; word-break: break-all;}
+    .lunrsearchresult .body {display:none;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search: Type and then hit enter..."/>
+</form>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<script src="/js/lunrsearchengine.js"></script>
     </div>
     <!-- /.navbar-collapse -->
     <!-- /.container -->
@@ -169,7 +192,7 @@ style="margin-right:1em; z-index: 1;">
         <div class="site-heading">
           <h1>Collector Of Jack</h1>
           <hr class="small">
-          <span class="subheading">A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find documentation around the Jack Daniel's collection and various other rarities in the whiskey world.</span>
+          <span class="subheading">A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find a library of documentation around Jack Daniel's bottles and various other rarities in the whiskey world.</span>
         </div>
       </div>
     </div>

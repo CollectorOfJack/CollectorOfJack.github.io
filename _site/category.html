@@ -40,13 +40,13 @@
 
 
     <!-- Custom CSS -->   
-    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1719246211" media="screen">
-    <link rel="stylesheet" href="/css/main.css?v=1719246211">
-    <link rel="stylesheet" href="/css/galleries.css?v=1719246211">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1719246211">
+    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1719811052" media="screen">
+    <link rel="stylesheet" href="/css/main.css?v=1719811052">
+    <link rel="stylesheet" href="/css/galleries.css?v=1719811052">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1719811052">
     
-    <link rel="stylesheet" href="/css/tags-wrap.css?v=1719246211" media="screen">
-    <link rel="stylesheet" href="/css/journal.css?v=1719246211" media="screen">
+    <link rel="stylesheet" href="/css/tags-wrap.css?v=1719811052" media="screen">
+    <link rel="stylesheet" href="/css/journal.css?v=1719811052" media="screen">
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
         type="text/css">
@@ -105,7 +105,7 @@
           "headline": "Categories",
           "keywords": "jack, daniel's, daniels, categories",
           "description": "A listing of categories used on CollectorOfJack.com",
-          "articleBody": "{{ site.title }} - Categories\n\n\n  \n    Choose from the category list below to find all posts associated with the category.\n  \n\n\n\n  \n  {% assign sortedCategories = site.categories | sort %}\n  {% for category in sortedCategories %}\n    {{ category[0] }}\n  {% endfor %}\n  \n",
+          "articleBody": "{{ site.title }} - Categories\r\n\r\n\r\n  \r\n    Choose from the category list below to find all posts associated with the category.\r\n  \r\n\r\n\r\n\r\n  \r\n  {% assign sortedCategories = site.categories | sort %}\r\n  {% for category in sortedCategories %}\r\n    {{ category[0] }}\r\n  {% endfor %}\r\n  \r\n",
           "datePublished": null,
           "dateModified": null,
           
@@ -139,7 +139,7 @@
     
 
   <!-- Navigation -->
-<nav class="navbar navbar-dark navbar-custom fixed-top navbar-expand-md mediumnavigation nav-down"
+<nav class="navbar navbar-dark fixed-top navbar-expand-md mediumnavigation nav-down"
 style="margin-right:1em; z-index: 1;">
     <!-- Brand and toggle get grouped for better mobile display -->
     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <i class="fa fa-bars fa-lg"></i>
@@ -156,6 +156,29 @@ style="margin-right:1em; z-index: 1;">
             </li>     
             <li class="nav-item"><a href="/contact" class="nav-link">CONTACT</a>
             </li>  </ul>
+
+            <script src="/js/lunr.js"></script>
+
+
+<style>
+    .lunrsearchresult .title {color: #523615;}
+    .lunrsearchresult .url {color: silver; word-break: break-all;}
+    .lunrsearchresult .body {display:none;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search: Type and then hit enter..."/>
+</form>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<script src="/js/lunrsearchengine.js"></script>
     </div>
     <!-- /.navbar-collapse -->
     <!-- /.container -->
@@ -191,6 +214,8 @@ style="margin-right:1em; z-index: 1;">
 <div class="row listrecent">
   <div class="section-title col-md-12 mt-4">
   
+  
+    <a href="/category/1-75l/" id="1.75L" class="btn-primary btn-category">1.75L</a>
   
     <a href="/category/10-years/" id="10-Years" class="btn-primary btn-category">10 Years</a>
   
@@ -236,6 +261,8 @@ style="margin-right:1em; z-index: 1;">
   
     <a href="/category/apple/" id="Apple" class="btn-primary btn-category">Apple</a>
   
+    <a href="/category/appraisal/" id="Appraisal" class="btn-primary btn-category">Appraisal</a>
+  
     <a href="/category/barrel-proof/" id="Barrel-Proof" class="btn-primary btn-category">Barrel Proof</a>
   
     <a href="/category/barrel-proof-rye/" id="Barrel-Proof-Rye" class="btn-primary btn-category">Barrel Proof Rye</a>
@@ -268,11 +295,11 @@ style="margin-right:1em; z-index: 1;">
   
     <a href="/category/coy-hill/" id="Coy-Hill" class="btn-primary btn-category">Coy Hill</a>
   
-    <a href="/category/distiller-series/" id="Distiller-Series" class="btn-primary btn-category">Distiller Series</a>
-  
     <a href="/category/distillers-series/" id="Distillers-Series" class="btn-primary btn-category">Distillers Series</a>
   
     <a href="/category/distillery/" id="Distillery" class="btn-primary btn-category">Distillery</a>
+  
+    <a href="/category/distillery-series/" id="Distillery-Series" class="btn-primary btn-category">Distillery Series</a>
   
     <a href="/category/duty-free/" id="Duty-Free" class="btn-primary btn-category">Duty Free</a>
   
@@ -401,6 +428,8 @@ style="margin-right:1em; z-index: 1;">
     <a href="/category/unaged-rye/" id="Unaged-Rye" class="btn-primary btn-category">Unaged Rye</a>
   
     <a href="/category/uncle-nearest/" id="Uncle-Nearest" class="btn-primary btn-category">Uncle Nearest</a>
+  
+    <a href="/category/value/" id="Value" class="btn-primary btn-category">Value</a>
   
     <a href="/category/whiskey-still/" id="Whiskey-Still" class="btn-primary btn-category">Whiskey Still</a>
   

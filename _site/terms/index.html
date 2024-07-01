@@ -40,13 +40,13 @@
 
 
     <!-- Custom CSS -->   
-    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1719246211" media="screen">
-    <link rel="stylesheet" href="/css/main.css?v=1719246211">
-    <link rel="stylesheet" href="/css/galleries.css?v=1719246211">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1719246211">
+    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1719811052" media="screen">
+    <link rel="stylesheet" href="/css/main.css?v=1719811052">
+    <link rel="stylesheet" href="/css/galleries.css?v=1719811052">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1719811052">
     
-    <link rel="stylesheet" href="/css/tags-wrap.css?v=1719246211" media="screen">
-    <link rel="stylesheet" href="/css/journal.css?v=1719246211" media="screen">
+    <link rel="stylesheet" href="/css/tags-wrap.css?v=1719811052" media="screen">
+    <link rel="stylesheet" href="/css/journal.css?v=1719811052" media="screen">
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
         type="text/css">
@@ -105,7 +105,7 @@
           "headline": "Terms",
           "keywords": "",
           "description": "Privacy Policy and Terms of Service",
-          "articleBody": "Terms of Service for CollectorOfJack.com\n\n1. Introduction: This website (“Blog”) is a platform that provides information and opinions on various topics related to alcohol. By accessing or using the Blog, you agree to be bound by the terms and conditions set forth in these Terms of Service. If you do not agree to these terms, you may not access or use the Blog.\n\n2. Age Restriction: Access to the Blog is restricted to individuals who are 21 years of age or older. By accessing the Blog, you represent and warrant that you are 21 years of age or older.\n\n3. Content Disclaimer: The information provided on the Blog is for educational and entertainment purposes only and is not intended as a substitute for professional advice. The Blog does not endorse or guarantee the accuracy of any information, opinions, or recommendations provided. The Blog is not responsible for any errors or omissions in the content.\n\n4. Proprietary Rights: The content on the Blog, including text, images, and trademarks, is protected by intellectual property laws and is the property of the Blog or its licensors. You may not reproduce, distribute, or otherwise use the content without the express written consent of the Blog.\n\n5. User Conduct: When accessing or using the Blog, you agree not to:  \n - Post or transmit any illegal, threatening, defamatory, obscene, pornographic, or profane material.  \n - Use the Blog for any commercial purpose without the express written consent of the Blog.  \n - Infringe any intellectual property rights of the Blog or any third party.  \n\n6. Limitation of Liability: The Blog is not responsible for any loss or damage arising from your access or use of the Blog. The Blog does not guarantee that the Blog will be available at all times or that access to the Blog will be uninterrupted.\n\n7. Governing Law: These Terms of Service will be governed by and construed in accordance with the laws of the State of Missouri, United States.\n\n8. Changes to Terms of Service: The Blog reserves the right to modify these Terms of Service at any time without prior notice. Your continued use of the Blog following any changes to these terms constitutes your acceptance of the revised terms.\n\nBy accessing or using the Blog, you agree to be bound by these Terms of Service. If you do not agree to these terms, you may not access or use the Blog.",
+          "articleBody": "Terms of Service for CollectorOfJack.com\r\n\r\n1. Introduction: This website (“Blog”) is a platform that provides information and opinions on various topics related to alcohol. By accessing or using the Blog, you agree to be bound by the terms and conditions set forth in these Terms of Service. If you do not agree to these terms, you may not access or use the Blog.\r\n\r\n2. Age Restriction: Access to the Blog is restricted to individuals who are 21 years of age or older. By accessing the Blog, you represent and warrant that you are 21 years of age or older.\r\n\r\n3. Content Disclaimer: The information provided on the Blog is for educational and entertainment purposes only and is not intended as a substitute for professional advice. The Blog does not endorse or guarantee the accuracy of any information, opinions, or recommendations provided. The Blog is not responsible for any errors or omissions in the content.\r\n\r\n4. Proprietary Rights: The content on the Blog, including text, images, and trademarks, is protected by intellectual property laws and is the property of the Blog or its licensors. You may not reproduce, distribute, or otherwise use the content without the express written consent of the Blog.\r\n\r\n5. User Conduct: When accessing or using the Blog, you agree not to:  \r\n - Post or transmit any illegal, threatening, defamatory, obscene, pornographic, or profane material.  \r\n - Use the Blog for any commercial purpose without the express written consent of the Blog.  \r\n - Infringe any intellectual property rights of the Blog or any third party.  \r\n\r\n6. Limitation of Liability: The Blog is not responsible for any loss or damage arising from your access or use of the Blog. The Blog does not guarantee that the Blog will be available at all times or that access to the Blog will be uninterrupted.\r\n\r\n7. Governing Law: These Terms of Service will be governed by and construed in accordance with the laws of the State of Missouri, United States.\r\n\r\n8. Changes to Terms of Service: The Blog reserves the right to modify these Terms of Service at any time without prior notice. Your continued use of the Blog following any changes to these terms constitutes your acceptance of the revised terms.\r\n\r\nBy accessing or using the Blog, you agree to be bound by these Terms of Service. If you do not agree to these terms, you may not access or use the Blog.",
           "datePublished": null,
           "dateModified": null,
           
@@ -139,7 +139,7 @@
     
 
   <!-- Navigation -->
-<nav class="navbar navbar-dark navbar-custom fixed-top navbar-expand-md mediumnavigation nav-down"
+<nav class="navbar navbar-dark fixed-top navbar-expand-md mediumnavigation nav-down"
 style="margin-right:1em; z-index: 1;">
     <!-- Brand and toggle get grouped for better mobile display -->
     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <i class="fa fa-bars fa-lg"></i>
@@ -156,6 +156,29 @@ style="margin-right:1em; z-index: 1;">
             </li>     
             <li class="nav-item"><a href="/contact" class="nav-link">CONTACT</a>
             </li>  </ul>
+
+            <script src="/js/lunr.js"></script>
+
+
+<style>
+    .lunrsearchresult .title {color: #523615;}
+    .lunrsearchresult .url {color: silver; word-break: break-all;}
+    .lunrsearchresult .body {display:none;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search: Type and then hit enter..."/>
+</form>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<script src="/js/lunrsearchengine.js"></script>
     </div>
     <!-- /.navbar-collapse -->
     <!-- /.container -->

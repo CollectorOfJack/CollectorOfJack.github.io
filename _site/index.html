@@ -22,12 +22,12 @@
     
     <meta property="og:title" content="Collector Of Jack" />
     
-    <meta property="og:description" content="A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find documentation around the Jack Daniel's collection and various other rarities in the whiskey world." />
-    <meta name="description" content="A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find documentation around the Jack Daniel's collection and various other rarities in the whiskey world.">
+    <meta property="og:description" content="A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find a library of documentation around Jack Daniel's bottles and various other rarities in the whiskey world." />
+    <meta name="description" content="A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find a library of documentation around Jack Daniel's bottles and various other rarities in the whiskey world.">
            
     
     
-    <meta name="keywords" content="jack, daniel's, collector, blog, jd, whiskey, tennessee, jack daniel's tennessee whiskey">
+    <meta name="keywords" content="jack, daniel's, collector, blog, jd, whiskey, tennessee, jack daniel's tennessee whiskey, library">
     <link rel="canonical" href="http://localhost:4000/">
 
     <link rel="shortcut icon" href="/favicon.ico?" type="image/x-icon">
@@ -40,13 +40,13 @@
 
 
     <!-- Custom CSS -->   
-    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1719246211" media="screen">
-    <link rel="stylesheet" href="/css/main.css?v=1719246211">
-    <link rel="stylesheet" href="/css/galleries.css?v=1719246211">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1719246211">
+    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1719811052" media="screen">
+    <link rel="stylesheet" href="/css/main.css?v=1719811052">
+    <link rel="stylesheet" href="/css/galleries.css?v=1719811052">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1719811052">
     
-    <link rel="stylesheet" href="/css/tags-wrap.css?v=1719246211" media="screen">
-    <link rel="stylesheet" href="/css/journal.css?v=1719246211" media="screen">
+    <link rel="stylesheet" href="/css/tags-wrap.css?v=1719811052" media="screen">
+    <link rel="stylesheet" href="/css/journal.css?v=1719811052" media="screen">
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
         type="text/css">
@@ -105,7 +105,7 @@
     
 
   <!-- Navigation -->
-<nav class="navbar navbar-dark navbar-custom fixed-top navbar-expand-md mediumnavigation nav-down"
+<nav class="navbar navbar-dark fixed-top navbar-expand-md mediumnavigation nav-down"
 style="margin-right:1em; z-index: 1;">
     <!-- Brand and toggle get grouped for better mobile display -->
     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <i class="fa fa-bars fa-lg"></i>
@@ -122,6 +122,29 @@ style="margin-right:1em; z-index: 1;">
             </li>     
             <li class="nav-item"><a href="/contact" class="nav-link">CONTACT</a>
             </li>  </ul>
+
+            <script src="/js/lunr.js"></script>
+
+
+<style>
+    .lunrsearchresult .title {color: #523615;}
+    .lunrsearchresult .url {color: silver; word-break: break-all;}
+    .lunrsearchresult .body {display:none;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search: Type and then hit enter..."/>
+</form>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<script src="/js/lunrsearchengine.js"></script>
     </div>
     <!-- /.navbar-collapse -->
     <!-- /.container -->
@@ -135,7 +158,7 @@ style="margin-right:1em; z-index: 1;">
         <div class="site-heading">
           <h1>Collector Of Jack</h1>
           <hr class="small">
-          <span class="subheading">A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find documentation around the Jack Daniel's collection and various other rarities in the whiskey world.</span>
+          <span class="subheading">A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find a library of documentation around Jack Daniel's bottles and various other rarities in the whiskey world.</span>
         </div>
       </div>
     </div>
