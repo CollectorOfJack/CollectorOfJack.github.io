@@ -2,9 +2,10 @@
 layout: post
 title: "Welcome to the Jack Daniel's Collector Blog"
 description: Our origin story for collecting Jack Daniel's.
-keywords: "jack, daniel's, jd, whiskey, collection, collector, glasses, bottles, value"
+keywords: "jack, daniel's, jd, whiskey, collection, collector, glasses, bottles, value, jack daniel, jack daniel's"
 type: article
 date: '2018-11-18T13:36:55+00:00'
+last_modified_at: '2024-06-30T23:59:00+00:00'
 permalink: JackDanielsCollector
 image: 1/post-bg1.jpg
 
@@ -25,8 +26,7 @@ redirect_from:
 
 categories: [ About ] 
 ---
-
-I started out my journey with Jack Daniel's at a young age. My father would have a Jack and Coke, every night, after work. One and done, but as well as I can remember, it was, and still is, a nightly ritual. I might have snuck a taste as a kid, but I wasn't a kid who drank in high school, it wasn't until college until I really had my first drink.
+I started out my journey with Jack Daniel's at a young age. My father would have a Jack and Coke, every night after work. One and done, but as well as I can remember, it was a nightly ritual. I might have snuck a taste as a kid, but I wasn't a kid who drank in high school, it wasn't until college until I really had my first drink.
 
 I was in a fraternity at a small engineering school in Missouri, it was in a small town, with a very skewed guy to girl ratio, so even though joining a fraternity had never crossed my mind prior to college, it made sense to me and built me into who I am today. While you might think there is a lot of drinking in a fraternity in college, it isn't required, and it was never forced upon me. So when I did sit down to have my first drink, it was to a great surprise to my fraternity brothers. There was a group of guys, I can still remember the room, that were partaking in a 1/5th of Old No. 7, I sat down one evening and asked for my own glass, they were floored.
 
@@ -34,4 +34,4 @@ I didn't plan to start drinking Jack Daniel's that evening, but I ended up doing
 
 Why CollectorOfJack.com? I've been collecting Jack Daniel's bottles for many years now, and while I am proud of my collection, there are definitely some gaps that I would like to fill. I've managed to acquire some extras over the years, and I'm hopeful that with this blog I'll be able to find other like minded folks, who perhaps have bottles to fill my gaps and possibly need some of the extras that I have in my collection.
 
-This is the first post in what will hopefully be many future posts, stay tuned as I document and acquire additional items to the collection. For additional information about me, be sure to visit [Chris Hammond](https://www.ChrisHammond.com)
+This is the first post in what will hopefully be many future posts, stay tuned as I document and acquire additional items to the collection. For additional information about me, be sure to visit me [Chris Hammond](https://www.ChrisHammond.com)

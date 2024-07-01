@@ -13,7 +13,6 @@ redirect_from:
 #  - "HuntList"
 categories: [ hunt ]
 ---
-
 This site is where I document my Jack Daniel's collection. I am always looking to grow that collection! This page is intended to be a list of Jack Daniel's bottles and memorabilia that I am actively searching for, as well as a list of things I might have available for trading.
 
 This is not an all inclusive list, I am definitely looking for more than this, so if you've got something you're interested in parting with, let me know. 
