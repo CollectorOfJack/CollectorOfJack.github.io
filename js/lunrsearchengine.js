@@ -2443,7 +2443,7 @@ var documents = [{
     "id": 488,
     "url": "https://collectorofjack.com/FourthOfJuly2021",
     "title": "Happy Fourth of July 2021",
-    "body": "2021/07/03 - Happy Fourth Of July 2021"
+    "body": "2021/07/03 - Have a great 4th of July! "
     }, {
     "id": 489,
     "url": "https://collectorofjack.com/JamaicanAllSpice",
