@@ -120,8 +120,13 @@
           "keywords": {{ page.keywords | join: ',' | jsonify }},
           "description": {{ page.description | strip_html | strip_newlines | strip | jsonify }},
           "articleBody": {{ page.content | strip_html | jsonify }},
+
+          {% if page.date  %}
           "datePublished": {{ page.date | jsonify }},
+          {% endif %}
+          {% if page.last_modified_at  %}
           "dateModified": {{ page.last_modified_at | default: page.date | jsonify }},
+          {% endif %}
           {% if page.author %}
           "author": {
             "@type": "Person",
@@ -147,9 +152,11 @@
             "@type": "WebPage",
             "@id": "{{ site.url }}/{{ page.url }}"
           },
+          {% if page.image or site.header-img %}
           "image": [
             "{{ site.url }}{% if page.image %}{% picture direct {{ page.image }} %}{% else %}{{ site.header-img }}{% endif %}"
           ]
+          {% endif %}
         }
     </script>
     {% endif %}
