@@ -2,12 +2,10 @@
 layout: page
 title: Categories
 subtitle: Categories of Jack Daniel's posts
-description: A listing of all categories or blog content
+description: "A listing of all categories that are used on CollectorOfJack.com"
 keywords: "jack, daniel's, daniels, categories"
 type: website
-
 image: 
-description: A listing of categories used on CollectorOfJack.com
 permalink: /category
 redirect_from:
   - /category/
