@@ -36,6 +36,7 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 * Jack Daniel's 10 Year Batch 3
 * Jack Daniel's 12 Year Batch 1
 * Jack Daniel's 12 Year Batch 2
+* Jack Daniel's 1895 Replica Bottle Whiskey
 
 ## Items Available For Trade
 * [Gentleman Jack Limited Edition Time Piece Bottle](https://collectorofjack.com/GentlemanJackTimePiece)
@@ -46,7 +47,11 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 * [Tennessee Tasters' Barrel Reunion 2 (2019)](https://collectorofjack.com/BarrelReunion2)
 * [Tennessee Tasters' Jamaican Allspice (2020)](https://collectorofjack.com/JamaicanAllSpice)
 * [Tennessee Tasters' Twin Blend (2020)](https://collectorofjack.com/TwinBlend)
+* Master Distiller Series No. 1 (750mL)
+* Master Distiller Series No. 2 (750mL)
 * Master Distiller Series No. 3 (750mL)
+* Master Distiller Series No. 4 (750mL)
+* Master Distiller Series No. 5 (750mL)
 * Master Distiller Series No. 6 (750mL)
 * Scenes of Lynchburg #6 (750mL)
 * Scenes of Lynchburg #7 (750mL)
