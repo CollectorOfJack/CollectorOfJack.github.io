@@ -5,7 +5,7 @@ subtitle: A list of the bottles in this ongoing series
 description: A list of bottles that are included in the combination of the Tennessee Tasters' and Distillery series releases from Jack Daniel's
 keywords: "Jack, Daniel, Tasters, Series, Distillery, 375ml"
 type: website
-image: DistillerySeries-1.jpg
+image: TastersSeriesGroup-1.jpg
 permalink: series/tasters-distillery
 redirect_from: 
 categories: [ series, tasters, distillery, collections, "375ml" ]
