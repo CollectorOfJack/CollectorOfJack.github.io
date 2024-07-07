@@ -5,7 +5,7 @@ date: '2024-07-07T15:00:00+00:00'
 permalink: DistillerySeries008
 image: 75/DistillerySeries008-1.jpg
 description: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release #008, Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels"
-keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey"
+keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Rye, Maple"
 author: ChrisHammond
 gallery:
   DistillerySeries008:
@@ -18,7 +18,7 @@ gallery:
   - image_path: 75/DistillerySeries008-3.jpg
     image-caption: Jack Daniel's Distillery Series 008 Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels Front from Angle
     image-copyright: CollectorOfJack.com
-categories: [ Distillery Series, Tasters, "2024", Box, 375ml, Rye, Maple ]
+categories: [ Distillery Series, Tasters, Box, 375ml, Rye, Maple ]
 # last_modified_at: '2024-07-07T15:55:45+00:00'
 ---
 With the July 2022 release of the Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels Jack Daniel's has changed from the Tennessee Tasters Series to the Distillery series. With the series change comes a few additional things that change with the releases going forward. 
@@ -36,7 +36,7 @@ In spring of 2023 my son had a hockey tournament in Louisville Kentucky. After w
 > Straight Tennessee Rye Whiskey  
 > Finished In High Toast Maple Barrels  
 > DSP-TN-1  
-> Aged in charred, white oak barrels then finished in our proprietary hight toast, no-chat, maple barrels.  
+> Aged in charred, white oak barrels then finished in our proprietary hight toast, no-char, maple barrels.  
 > Limited Edition
 
 ## The Bottom Label Reads
