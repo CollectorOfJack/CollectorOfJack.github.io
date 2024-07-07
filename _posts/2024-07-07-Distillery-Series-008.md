@@ -3,7 +3,7 @@ layout: post
 title: "Jack Daniel's Distillery Series 008 Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels"
 date: '2024-07-07T15:00:00+00:00'
 permalink: DistillerySeries008
-image: 75/DistillerySeries-1.jpg
+image: 75/DistillerySeries008-1.jpg
 description: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release #008, Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels"
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey"
 author: ChrisHammond
