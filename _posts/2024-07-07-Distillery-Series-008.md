@@ -9,13 +9,13 @@ keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey"
 author: ChrisHammond
 gallery:
   DistillerySeries008:
-  - image_path: 75/DistillerySeries-1.jpg
+  - image_path: 75/DistillerySeries008-1.jpg
     image-caption: Jack Daniel's Distillery Series 008 Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: 75/DistillerySeries-2.jpg
+  - image_path: 75/DistillerySeries008-2.jpg
     image-caption: Jack Daniel's Distillery Series 008 Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels Side/Rear of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: 75/DistillerySeries-3.jpg
+  - image_path: 75/DistillerySeries008-3.jpg
     image-caption: Jack Daniel's Distillery Series 008 Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels Front from Angle
     image-copyright: CollectorOfJack.com
 categories: [ Distillery Series, Tasters, "2024", Box, 375mL, Rye, Maple ]
