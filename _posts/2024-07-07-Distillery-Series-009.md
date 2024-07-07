@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jack Daniel's Distillery Series 009 Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels"
-date: '2024-07-07T15:00:00+00:00'
+date: '2024-07-07T16:00:00+00:00'
 permalink: DistillerySeries009
 image: 76/DistillerySeries009-1.jpg
 description: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release #008, Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels"
