@@ -18,7 +18,7 @@ gallery:
   - image_path: 75/DistillerySeries008-3.jpg
     image-caption: Jack Daniel's Distillery Series 008 Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels Front from Angle
     image-copyright: CollectorOfJack.com
-categories: [ Distillery Series, Tasters, "2024", Box, 375mL, Rye, Maple ]
+categories: [ Distillery Series, Tasters, "2024", Box, 375ml, Rye, Maple ]
 # last_modified_at: '2024-07-07T15:55:45+00:00'
 ---
 With the July 2022 release of the Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels Jack Daniel's has changed from the Tennessee Tasters Series to the Distillery series. With the series change comes a few additional things that change with the releases going forward. 
@@ -26,6 +26,9 @@ With the July 2022 release of the Straight Tennessee Rye Whiskey Finished In Hig
 While still released in a 375ml bottle, the new Distillery Series bottles are slightly bigger than the old Tennessee Tasters Series bottles. The labels on the bottles have changed as well, now wrapping around the right side of the bottles as the bottom label does on both series now. The label is a little more formal now, a little more official, a little less "just for the tasters feel". 
 
 Release 008 is another release of a Rye Whiskey from Jack Daniel's this time finished in a maple barrel, if you've tried any of Jack Daniel's Distillery's other Maple releases you know you will want to try this out! 
+
+### How did I get a bottle?
+In spring of 2023 my son had a hockey tournament in Louisville Kentucky. After we finished up the tournament I decided we would take a drive down to Tennessee on the way home back to St. Louis. Not exactly on the way, but I was fortunate enough to come across a store who had bottles of releases 008, 009 and 010 that I picked up for retail! I stopped at 3 or 4 more stores on the way around Nashville back to Highway 24 and didn't find any more along the way. 
 
 ## Front Label Reads
 > Jack Daniel's  
