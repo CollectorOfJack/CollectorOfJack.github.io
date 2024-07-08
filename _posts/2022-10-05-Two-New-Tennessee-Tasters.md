@@ -18,7 +18,7 @@ gallery:
   - image_path: 62/october2022tennesseetasters-3.jpg
     image-caption: From LiquorPlanet's Facebook page
     image-copyright: Liquor Planet
-categories: [ Tasters Series, Tennessee Tasters, TN Tasters, Toasted Barrel, Rye, Maple ]
+categories: [ Tasters Series, Tennessee Tasters, TN Tasters, Toasted Barrel, Rye, Maple, Tasters ]
 ---
 Hot off the presses Jack Daniel's has just announced two new bottles in the Tennessee Taster's series, and is now calling them [Jack Daniel's Distillery Series](/series/tasters-distillery).
 

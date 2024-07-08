@@ -9,15 +9,15 @@ description: A collector's guide to the Jack Daniel's Tennessee Tasters' Series 
 gallery:
   BarrelReunion1:
   - image_path: 19/CollectorOfJack-7.jpg
-    image-caption: Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle.
+    image-caption: "Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle."
     image-copyright: © CollectorOfJack.com
   - image_path: 19/CollectorOfJack-8.jpg
-    image-caption: Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle.
+    image-caption: "Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle."
     image-copyright: © CollectorOfJack.com
   - image_path: 19/CollectorOfJack-9.jpg
-    image-caption: Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle.
+    image-caption: "Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle."
     image-copyright: © CollectorOfJack.com
-categories: [ TN Tasters, Tennessee Tasters, Distillers Series, 375ml, Reunion, Tasters Series ]
+categories: [ TN Tasters, Tennessee Tasters, Distillers Series, 375ml, Reunion, Tasters Series, Tasters ]
 ---
 In March of 2019 Jack Daniel's released the third bottle in their [Tennessee Tasters' series](/series/tasters-distillery), Barrel Reunion #1, Straight Tennessee Whiskey Finished in Red Wine Barrels. 
 
