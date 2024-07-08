@@ -159,9 +159,7 @@
         }
     </script>
 
-    {% assign product_defined = page.product | default: true %}
-
-    {% if product_defined %}
+    {% if page.product != false %}
     <!-- Product Schema -->
     <script type="application/ld+json">
       {
