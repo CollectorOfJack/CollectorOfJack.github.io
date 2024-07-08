@@ -9,6 +9,7 @@ image: TastersSeriesGroup-1.jpg
 permalink: series/tasters-distillery
 redirect_from: 
 categories: [ series, tasters, distillery, collections, "375ml" ]
+last_modified_at: '2024-07-08T11:36:45+00:00'
 ---
 The Jack Daniel's Tennessee Tasters' Series is a special line of limited-edition whiskeys from the iconic Jack Daniel's Distillery. This series is designed to offer whiskey enthusiasts unique and innovative whiskey selections. Each release in the series is selected by Jack Daniel's Master Tasters and showcases different methods of crafting whiskey, including varied grains, barrels, and maturation processes.
 
