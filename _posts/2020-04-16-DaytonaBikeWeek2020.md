@@ -51,6 +51,8 @@ gallery:
     image-copyright: © CollectorOfJack.com
 categories: [ Single Barrel, Florida, Sunshine State Squires ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 125.99
+brand: "Jack Daniel's"
 ---
 
 Last fall I discovered that there are Facebook groups dedicated to Jack Daniel's. I started following <a href="https://www.facebook.com/groups/1715814138658931/" target="_blank">The Jack Cave, with Sue Scheel Clark</a>. One a post there one day she mentioned the <a href="https://www.facebook.com/groups/300956420510408/" target="_blank">Sunshine State Squires and Collectors Facebook Group</a> out of Florida, and that they were putting together some special edition bottles, and had previously done a few bottles as well. The first bottle that I learned about is one I hope to write about in the next week or two, as I don't have it yet, but today I received my first bottle from the group.

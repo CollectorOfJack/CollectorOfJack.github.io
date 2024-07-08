@@ -67,6 +67,8 @@ gallery:
     image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 rear of hang tag 
     image-copyright: © CollectorOfJack.com
 categories: [ Riverboat Captain, Box, 1.75L ]
+price: 349.99
+brand: "Jack Daniel's"
 ---
 
 In September 2020, I received an email via my website asking if I might be interested in a bottle for sale. 

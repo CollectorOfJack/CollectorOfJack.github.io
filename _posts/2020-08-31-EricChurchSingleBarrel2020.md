@@ -30,6 +30,8 @@ gallery:
     image-copyright: © CollectorOfJack.com
 categories: [ 750ml, Single Barrel, Music ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 249.99
+brand: "Jack Daniel's"
 ---
 
 In July/August 2020 Jack Daniel's released the 2020 version of the Eric Church Single Barrel Select bottle, a follow on release after their [2019 Eric Church Double Down Tour Single Barrel](https://collectorofjack.com/JackDanielsEricChurch). This year's bottle is a beautiful opaque black with a black and gold label. It came with a paper hang tag, also in black and gold.

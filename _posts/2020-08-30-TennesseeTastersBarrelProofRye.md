@@ -21,6 +21,8 @@ gallery:
     image-caption: The Tennessee Tasters' Barrel Proof Rye Bottle
     image-copyright: © CollectorOfJack.com
 categories: [ Tasters Series, Tennessee Tasters, TN Tasters, Barrel Proof, Rye, Barrel Proof Rye, Distillery Series, Tasters ]
+price: 149.99
+brand: "Jack Daniel's"
 ---
 In July of 2019 Jack Daniel's released the fourth bottle in their [Tennessee Tasters' series](/series/tasters-distillery), Barrel Proof Rye, Straight Tennessee Rye Whiskey.
 
