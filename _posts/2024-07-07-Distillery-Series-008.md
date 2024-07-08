@@ -19,6 +19,8 @@ gallery:
     image-caption: Jack Daniel's Distillery Series 008 Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels Front from Angle
     image-copyright: CollectorOfJack.com
 categories: [ Distillery Series, Tasters, Box, 375ml, Rye, Maple ]
+price: 69.99
+brand: "Jack Daniel's"
 # last_modified_at: '2024-07-07T15:55:45+00:00'
 ---
 With the July 2022 release of the Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels Jack Daniel's has changed from the Tennessee Tasters Series to the [Jack Daniel's Distillery Series](/series/tasters-distillery). With the series change comes a few additional things that change with the releases going forward. 

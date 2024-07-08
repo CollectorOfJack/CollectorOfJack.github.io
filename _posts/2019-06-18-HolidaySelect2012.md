@@ -36,6 +36,8 @@ gallery:
     image-copyright: © CollectorOfJack.com
 categories: [ Special Release, Single Barrel, 750ml, Holiday Select, "2012" ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 299.99
+brand: "Jack Daniel's"
 ---
 
 In our [last blog post we covered the first in the Holiday Select series](/HolidaySelect2011), in this one, we cover the second, the Holiday Select 2012 Limited Edition bottle from Jack Daniel's. 
@@ -52,3 +54,9 @@ The 2012 bottle is 45.2% Alcohol, or 90.4 Proof, down from 100 the year before. 
 **Release:** December 2012  
 **Proof:** 90.4  
 **Size:** 750ml  
+
+## How Much Is Jack Daniel's Holiday Select Release from 2012
+Originally priced around $89, you'll be hard pressed to find it for anything less than $300
+ 
+### Collector Of Jack's Value Assessment
+If you can find it for under $250 you should pick it up!

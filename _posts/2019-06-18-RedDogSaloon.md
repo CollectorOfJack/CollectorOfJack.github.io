@@ -21,6 +21,8 @@ gallery:
     image-copyright: © CollectorOfJack.com
 categories: [ Red Dog Saloon, 750ml, Saloon, Lynchburg ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 149.99
+brand: "Jack Daniel's"
 ---
   
 in 1892 Jack Daniel opened the Red Dog Saloon on the Lynchburg town square. While nothing remains of it but legend, the distillery decided to release a 125th anniversary bottle in 2017 to celebrate the occasion.    

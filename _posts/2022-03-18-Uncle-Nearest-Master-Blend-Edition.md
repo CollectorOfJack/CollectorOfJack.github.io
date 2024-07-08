@@ -21,6 +21,8 @@ gallery:
     image-copyright: CollectorOfJack.com
 categories: [ Uncle Nearest, Tennessee, Other, Nearest Green ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+brand: "Uncle Nearest"
+price: 199
 ---
 In a previous post I covered the [Uncle Nearest 1820](https://collectorofjack.com/UncleNearest1820). On previous trips to Lynchburg Tennessee I had  tried to stop at the Uncle Nearest Distillery in Shelbyville, but the first time I stopped they were still under construction. The second time I stopped was their opening weekend, but it was still closed for a Green family event. Finally on March 4th of 2022 I was able to make a quick stop into the distillery.
 

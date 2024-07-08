@@ -28,6 +28,8 @@ gallery:
     image-caption: Jack Daniel's Distillery Series 009 Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels Front from Angle
     image-copyright: CollectorOfJack.com
 categories: [ Distillery Series, Tasters, Box, 375ml, Rye, Oak ]
+price: 69.99
+brand: "Jack Daniel's"
 # last_modified_at: '2024-07-07T15:55:45+00:00'
 ---
 Also released in July 2022, this second rye released in the Distillery Series, the Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels, part of the [Jack Daniel's Distillery Series](/series/tasters-distillery).

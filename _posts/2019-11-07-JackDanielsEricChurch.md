@@ -40,6 +40,8 @@ gallery:
 categories: [ 750ml, Single Barrel, Music ]
 
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 249.99
+brand: "Jack Daniel's"
 ---
 *This post is for the 2019 version of the Eric Church bottle!*
 

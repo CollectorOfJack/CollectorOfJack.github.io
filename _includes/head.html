@@ -38,7 +38,6 @@
 
     <meta name="keywords" content="{{ page.keywords }}">
 
-
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html' }}">
 
     <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico?" type="image/x-icon">
@@ -119,7 +118,7 @@
           "headline": {{ page.title | jsonify }},
           "keywords": {{ page.keywords | join: ',' | jsonify }},
           "description": {{ page.description | strip_html | strip_newlines | strip | jsonify }},
-          "articleBody": {{ page.content | strip_html | jsonify }},
+          "articleBody": {{ page.content | strip_html | strip_newlines | strip | jsonify  }},
 
           {% if page.date  %}
           "datePublished": {{ page.date | jsonify }},
@@ -159,6 +158,50 @@
           {% endif %}
         }
     </script>
+
+    {% assign product_defined = page.product | default: true %}
+
+    {% if product_defined %}
+    <!-- Product Schema -->
+    <script type="application/ld+json">
+      {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": {{ page.title | jsonify }},
+          "image": "{{ site.url }}{% if page.image %}{% picture direct {{ page.image }} %}{% else %}{{ site.header-img }}{% endif %}", 
+          "description": {{ page.description | strip_html | strip_newlines | strip | jsonify }},
+          "sku": "{{ page.url }}",
+          {% if page.brand %}
+          "brand": {
+              "@type": "Brand",
+              "name": "{{ page.brand }}"
+          },
+          {% else %}
+          "brand": {
+              "@type": "Brand",
+              "name": "Collector Of Jack"
+          },
+
+          {% endif %}
+
+        "offers": {
+            "@type": "Offer",
+            "url": "{{ site.url }}{{ page.url }}",
+            "priceCurrency": "USD",
+
+            {% if page.price %}
+            "price": "{{ page.price }}",
+            {% else %}
+            "price": "999.99",
+            {% endif %}
+
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "https://schema.org/LimitedAvailability"
+        }
+      }
+      </script>
+
+      {% endif %}
     {% endif %}
     
 

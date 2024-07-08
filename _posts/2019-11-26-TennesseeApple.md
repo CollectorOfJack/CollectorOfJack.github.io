@@ -21,6 +21,8 @@ gallery:
     image-copyright: © CollectorOfJack.com
 categories: [ Apple, 750ml, Flavor ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 39.99
+brand: "Jack Daniel's"
 ---
 With the release of Jack Honey and Fire over the past 10 years, it was time for Jack Daniel's to catch the apple train and release their own Tennessee Apple Liqueur. I was able to get some here in Missouri earlier this fall from lukasliquorstl.com (no longer active).
 

@@ -33,6 +33,8 @@ gallery:
 
 categories: [ High Roller, "2024", Friends, Truck ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 79.99
+brand: "High Roller"
 ---
 When hobbies collide my world is at peak. I love taking photos, motorsports, and I love collecting whiskey. A good friend of mine from my auto racing hobby got into Monster Trucks a number of years ago. I've had the pleasure of seeing his monster truck crush cars at the BIGFOOT Open House a few times now and this year they released a bottle of whiskey featuring Jeff's truck, High Roller II. I won't get into all the details about the truck itself, [you can follow them on social media for more about that](https://www.facebook.com/HighRollerMonsterTruck).
 

@@ -21,6 +21,8 @@ gallery:
       image-copyright: © CollectorOfJack.com
 categories: [ Distillery, 750ml, 150th, Lynchburg ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 249.99
+brand: "Jack Daniel's"
 ---
 In 2016 Jack Daniel's celebrated the 150th anniversary of the Jack Daniel's Distillery in Lynchburg, TN. They commemorated this with a special edition bottle in a black and gold label.
 The front of the bottle reads:

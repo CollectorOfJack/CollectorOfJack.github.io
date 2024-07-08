@@ -40,6 +40,8 @@ gallery:
 
 categories: [ Rye, Tennessee Rye, 750ml ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 99.99
+brand: "Jack Daniel's"
 ---
 In September of 2017 Jack Daniel's released their standard bottle of Jack Daniel's Tennessee Rye, their 70% rash mash bill. This is a more affordable version of the Rye from Jack Daniel's than the [Single Barrel Rye](/JackDanielsSingleBarrelRye) released in 2016.   
 
@@ -98,5 +100,9 @@ Pictured in the photos here are both a 750ml and 1L bottle, only really differin
 **Size:** 750ml/1L  
 **Price:** $23/$33  
 
-
+## How Much Is Jack Daniel's Tennessee Rye
+Originally priced around the same price as Old No. 7, Jack Daniel's Tennessee Rye is no longer being produced, grab what you can for your collection! 
+ 
+### Collector Of Jack's Value Assessment
+If you can find it for under $60 you should pick it up.
 

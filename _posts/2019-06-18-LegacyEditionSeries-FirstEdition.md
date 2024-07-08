@@ -24,6 +24,8 @@ gallery:
     image-copyright: © CollectorOfJack.com
 categories: [ Legacy, 750ml ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 149.99
+brand: "Jack Daniel's"
 ---
    
 The Jack Daniel's Legacy Edition Series is a new line of bottles, with the First Edition, being released in fall 2018. The bottle sells for about the same price as your average 1/5th (750ml) of Old No. 7, and can be found in markets all over the United States (from our own experience we have found it in Nebraska and Missouri so far).   

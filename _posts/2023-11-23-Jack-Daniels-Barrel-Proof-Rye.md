@@ -23,6 +23,8 @@ gallery:
     image-copyright: CollectorOfJack.com
 categories: [ Rye, 750ml, Barrel Proof Rye, Barrel Proof, 750ml, Single Barrel ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 75.99
+brand: "Jack Daniel's"
 ---
 Jack Daniel's ventured into Rye over 10 years ago and has regularly been adding to their line since. 
 

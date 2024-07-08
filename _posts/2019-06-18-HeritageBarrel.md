@@ -25,6 +25,8 @@ gallery:
 
 categories: [ 750ml, Heritage Barrel, Special Release, Box ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 99.99
+brand: "Jack Daniel's"
 ---
 
 In late September 2018 Jack Daniel's announced a new Special Release Tennessee Whiskey, Single Barrel Heritage Barrel.

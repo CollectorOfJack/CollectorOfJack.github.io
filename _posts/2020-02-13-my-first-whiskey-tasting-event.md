@@ -44,6 +44,7 @@ gallery:
     image-copyright: © CollectorOfJack.com
 categories: [ Friends, Tasting ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+product: false
 ---
 
 I've been threatening for months that I was going to have a whiskey tasting event, this past Friday I finally did it. This post contains an overview of how I planned, how the event went and what lessons learned for future events.

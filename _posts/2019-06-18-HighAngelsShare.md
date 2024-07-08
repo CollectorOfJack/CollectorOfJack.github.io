@@ -24,6 +24,8 @@ gallery:
     image-caption: Jack Daniel's Tennessee Tasters' Series High Angel's Share
     image-copyright: © CollectorOfJack.com
 categories: [ Distillery Series, Tasters Series, 375ml, High Proof, "Angel's", Tasters, TN Tasters ]
+price: 249.99
+brand: "Jack Daniel's"
 ---
 
 In October 2018 Jack Daniel's put out a press release announcing a new [Tasters' Series](/series/tasters-distillery) of bottles/releases. I won't go into the full details of the press release, [you can read it here](http://pressroom.jackdaniels.com/jack-daniels-launches-limited-edition-tennessee-tasters-selection/), but I do want to document the releases as I acquire them! 

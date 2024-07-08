@@ -38,6 +38,8 @@ gallery:
     image-copyright: CollectorOfJack.com
 categories: [ McLaren, "2023", Box, 1L ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 75.99
+brand: "Jack Daniel's"
 ---
 
 ## Celebrating Five Years of CollectorOfJack.com

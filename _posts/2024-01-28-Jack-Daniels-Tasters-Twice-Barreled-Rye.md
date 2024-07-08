@@ -14,6 +14,8 @@ gallery:
     image-caption: Jack Daniel's Distillery Series Twice Barreled Tennessee Straight Rye Whiskey  
     image-copyright: CollectorOfJack.com
 categories: [ Distillery Series, Tasters Series, 375ml, Rye, Twice Barreled ]
+price: 0
+brand: "Jack Daniel's"
 ---
 **Update June 2024:** This hasn't been released yet.
 

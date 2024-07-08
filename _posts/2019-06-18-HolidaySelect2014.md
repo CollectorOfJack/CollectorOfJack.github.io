@@ -58,6 +58,8 @@ gallery:
 
 categories: [ Special Release, Single Barrel, 750ml, Holiday Select, "2014" ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 299.99
+brand: "Jack Daniel's"
 ---
 
 In our [last blog post we covered the third in the Holiday Select series](/HolidaySelect2013), in this one, we cover the fourth and final (as of 2018) release, the Holiday Select 2014 Limited Edition bottle from Jack Daniel's. 
@@ -76,3 +78,10 @@ The 2014 bottle is 48% Alcohol, or 96 Proof, down from 98 the year before. You c
 **Proof:** 96  
 **Size:** 750ml  
 **Price:** $89  
+
+## How Much Is Jack Daniel's Holiday Select Release from 2014
+Originally priced around $89, you'll be hard pressed to find it for anything less than $300
+ 
+### Collector Of Jack's Value Assessment
+If you can find it for under $250 you should pick it up!
+

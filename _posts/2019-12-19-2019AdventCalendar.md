@@ -24,6 +24,8 @@ gallery:
     image-copyright: © CollectorOfJack.com
 categories: [ Holiday, Calendar, Mini Bottles ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 299.99
+brand: "Jack Daniel's"
 ---
 
 For 2019 Jack Daniel's has brought their holiday (advent) calendar across the pond to the United States! They've also made it available elsewhere around the globe this year as well, where I believe primarily over the past couple of years it was only available in the UK (I could be wrong on that fact).

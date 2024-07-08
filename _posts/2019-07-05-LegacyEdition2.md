@@ -36,6 +36,8 @@ gallery:
     image-copyright: © CollectorOfJack.com
 categories: [ Legacy, 750ml ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 199.99
+brand: "Jack Daniel's"
 ---
 In May of 2019 Jack Daniel's released the second in their Legacy Edition line. TotalWine.com has the bottled described as
 

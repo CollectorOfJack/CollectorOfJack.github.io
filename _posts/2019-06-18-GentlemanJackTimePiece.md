@@ -28,6 +28,8 @@ gallery:
 
 categories: [ Limited Edition, Gentleman Jack, 1L ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 299.99
+brand: "Jack Daniel's"
 ---
 One of the things I want to do here on this blog is document the various Jack Daniel's collectables, primarily bottles, that I've managed to acquire over time. This is the first post in that series.
 

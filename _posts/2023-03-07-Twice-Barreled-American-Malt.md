@@ -27,6 +27,8 @@ gallery:
 categories: [ Heritage Barrel, Heritage, Twice Barreled, Single Malt, Special Release, 700ml, "2022" ]
 
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 269.99
+brand: "Jack Daniel's"
 ---
 It's been a while since I've blogged about a real bottle, that doesn't mean I haven't been collecting. I simply got it in my head that I needed the perfect backdrop for my photos.
 

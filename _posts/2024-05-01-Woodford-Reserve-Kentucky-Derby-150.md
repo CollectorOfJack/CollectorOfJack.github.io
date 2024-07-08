@@ -20,6 +20,8 @@ gallery:
     image-caption: Woodford Reserve Kentucky Derby 150th Bourbon along with 3 other years
     image-copyright: CollectorOfJack.com
 categories: [ Woodford Reserve, Bourbon, Kentucky Derby, 150th, "2024" ]
+price: 80.00
+brand: "Woodford Reserve"
 ---
 Woodford Reserve's Kentucky Derby series of bottles is a special annual release that celebrates one of America's most storied horse races, the Kentucky Derby. Each year, Woodford Reserve, a major sponsor of the Derby, issues a limited-edition bottle featuring artwork that pays tribute to the famous race. 
 

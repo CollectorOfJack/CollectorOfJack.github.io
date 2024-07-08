@@ -36,6 +36,8 @@ gallery:
     image-copyright: © CollectorOfJack.com
 categories: [ Special Release, Single Barrel, 750ml, Holiday Select, "2013" ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 299.99
+brand: "Jack Daniel's"
 ---
 
 In our [last blog post we covered the second in the Holiday Select series](/HolidaySelect2012), in this one, we cover the third, the Holiday Select 2013 Limited Edition bottle from Jack Daniel's. 
@@ -53,3 +55,9 @@ The 2013 bottle is 49% Alcohol, or 98 Proof, up from 90.4 the year before. Findi
 **Proof:** 98  
 **Size:** 750ml  
 **Price:** $89  
+
+## How Much Is Jack Daniel's Holiday Select Release from 2013
+Originally priced around $89, you'll be hard pressed to find it for anything less than $300
+ 
+### Collector Of Jack's Value Assessment
+If you can find it for under $250 you should pick it up!

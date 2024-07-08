@@ -21,6 +21,8 @@ gallery:
     image-copyright: © CollectorOfJack.com
 categories: [ Winter, 750ml ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 49.99
+brand: "Jack Daniel's"
 ---
 In the last blog post I covered the [Jack Daniel's Tennessee Cider, Winter Jack, released in 2013](/WinterJack2013). Today's blog covers the same product, but this time with a new label. The front has the same text, Jack Daniel's Winter Jack, Original Recipe Tennessee Cider. Along with:   
 
