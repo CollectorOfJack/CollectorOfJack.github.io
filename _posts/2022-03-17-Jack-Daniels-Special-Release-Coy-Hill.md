@@ -22,6 +22,8 @@ gallery:
     image-caption: Jack Daniels Special Release Coy Hill High Proof
     image-copyright: CollectorOfJack.com
 categories: [ Coy Hill, Special Release, High Proof ]
+price: 899.99
+brand: "Jack Daniel's"
  
 ---
 For 2021 the Special Release from Jack Daniel's is known as the Coy Hill High Proof. It can come from one of two barrel houses up on Coy Hill near Lynchburg, #08 or #13.

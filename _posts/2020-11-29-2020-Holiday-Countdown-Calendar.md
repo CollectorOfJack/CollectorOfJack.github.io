@@ -30,6 +30,8 @@ gallery:
     image-copyright: © CollectorOfJack.com
 categories: [ Holiday, Calendar, Mini Bottles ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 149.99
+brand: "Jack Daniel's"
 ---
 
 [Last year, Jack Daniel's brought their Holiday Countdown Calendar]({% post_url 2019-12-19-2019AdventCalendar %}) to the states, this year they bring it again and supposedly make it easier to find!

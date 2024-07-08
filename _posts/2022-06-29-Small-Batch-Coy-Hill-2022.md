@@ -12,6 +12,8 @@ gallery:
     image-copyright: CollectorOfJack.com
 categories: [ Coy Hill, Special Release, High Proof, 375ml ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 899.99
+brand: "Jack Daniel's"
 ---
 Hot off the presses and hot to the tongue, Jack Daniel's has announced that this Friday starting at 8am at the White Rabbit Bottle Shop you can get the new Small Batch Coy Hill 375ml bottle! 
 

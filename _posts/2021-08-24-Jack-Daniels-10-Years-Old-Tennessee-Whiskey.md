@@ -13,6 +13,8 @@ gallery:
 categories: [ 10 Years, 10 Years Old, Aged ]
  
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 299.99
+brand: "Jack Daniel's"
 ---
 Earlier this summer we blogged about the Coy Hill High Proof coming out this fall, well we've got another new release from the Jack Daniel's Distillery coming in early September! 
 

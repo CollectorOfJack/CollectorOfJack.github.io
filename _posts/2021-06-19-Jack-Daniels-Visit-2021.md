@@ -85,6 +85,7 @@ gallery:
     image-copyright: © CollectorOfJack.com 
 categories: [ Travel, Tennesseee, Nearest Green, Uncle Nearest ] 
 last_modified_at: '2024-07-01T15:55:45+00:00'
+product: false
 ---
 
 This week I got out on my first work trip, since probably August 2019. I started a new job last year, about a week after the world shut down for the pandemic, so work trips have been on hold for quite some time, that and the last employer stopped my travelling, so I hadn't been on the road for work in quite some time. It was great to get out and meet some fellow employees and customers face to face.

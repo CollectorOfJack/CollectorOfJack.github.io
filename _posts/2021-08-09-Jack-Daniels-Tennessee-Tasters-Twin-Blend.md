@@ -21,6 +21,8 @@ gallery:
     image-caption: Jack Daniel's Tennessee Tasters' 14E19 'Twin' Blend | Whiskey
     image-copyright: © CollectorOfJack.com
 categories: [ TN Tasters, Tennessee Tasters, Distillery Series, 375ml, Reunion, Tasters Series Tasters, Tasters ]
+price: 89.99
+brand: "Jack Daniel's"
 ---
 The latest release in the [Tennessee Tasters' series](/series/tasters-distillery) is the 14E19 "Twin" Blend Whiskey. This particular release is from Fall 2020, and contains Straight Tennessee Whiskey blended with Straight Tennessee Rye Whiskey.
 

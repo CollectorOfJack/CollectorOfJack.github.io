@@ -19,6 +19,7 @@ gallery:
 categories: [ Coy Hill, Special Release, High Proof ]
   
 last_modified_at: '2024-07-01T15:55:45+00:00'
+product: false
 ---
 
 It appears as though the next "special release" bottle from Jack Daniel's will be available this fall as Jack Daniel's Coy Hill High Proof.

@@ -27,6 +27,8 @@ gallery:
     image-copyright: © CollectorOfJack.com
 categories: [ Other, Metallica, Blackened ]
 last_modified_at: '2024-07-01T15:55:45+00:00'
+price: 149.99
+brand: "Blackened American Whiskey"
 ---
 
 In getting ready for this post I realized this is the first time I've actually blogged about Blackened. I've had a few bottles over the past couple of years, and will document some of those later on, but for now, here's batch 106.
@@ -89,3 +91,5 @@ If you're looking for Blackened American Whiskey Batch 106, it can still be foun
 **Proof:** 90
 **Size:** 750ml  
 **Price:** $49
+
+

@@ -21,6 +21,8 @@ gallery:
     image-caption: Tennessee Tasters' Jamaican Allspice Finished with toasted Jamaican Allspice Wood left side
     image-copyright: © CollectorOfJack.com
 categories: [ TN Tasters, Tennessee Tasters, Distillery Series, 375ml, Reunion, Tasters Series, Tasters ]
+price: 79.99
+brand: "Jack Daniel's"
 ---
 
 In the spring of 2020 Jack Daniel's released the sixth bottle in their [Tennessee Tasters' series](/series/tasters-distillery), Jamaican Allspice, Straight Tennessee Whiskey Finished with Toasted Jamaican Allspice Wood.
