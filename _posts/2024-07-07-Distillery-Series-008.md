@@ -21,7 +21,7 @@ gallery:
 categories: [ Distillery Series, Tasters, Box, 375ml, Rye, Maple ]
 # last_modified_at: '2024-07-07T15:55:45+00:00'
 ---
-With the July 2022 release of the Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels Jack Daniel's has changed from the Tennessee Tasters Series to the Distillery series. With the series change comes a few additional things that change with the releases going forward. 
+With the July 2022 release of the Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels Jack Daniel's has changed from the Tennessee Tasters Series to the [Jack Daniel's Distillery Series](/series/tasters-distillery). With the series change comes a few additional things that change with the releases going forward. 
 
 While still released in a 375ml bottle, the new Distillery Series bottles are slightly bigger than the old Tennessee Tasters Series bottles. The labels on the bottles have changed as well, now wrapping around the right side of the bottles as the bottom label does on both series now. The label is a little more formal now, a little more official, a little less "just for the tasters feel". 
 
