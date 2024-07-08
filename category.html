@@ -68,21 +68,21 @@
 		<!-- Custom CSS -->
 		<link
 			rel="stylesheet"
-			href="/css/WYSIWYG.css?v=1720456656"
+			href="/css/WYSIWYG.css?v=1720467671"
 			media="screen"
 		/>
-		<link rel="stylesheet" href="/css/main.css?v=1720456656" />
-		<link rel="stylesheet" href="/css/galleries.css?v=1720456656" />
-		<link rel="stylesheet" href="/css/magnificpopup.css?v=1720456656" />
+		<link rel="stylesheet" href="/css/main.css?v=1720467671" />
+		<link rel="stylesheet" href="/css/galleries.css?v=1720467671" />
+		<link rel="stylesheet" href="/css/magnificpopup.css?v=1720467671" />
 
 		<link
 			rel="stylesheet"
-			href="/css/tags-wrap.css?v=1720456656"
+			href="/css/tags-wrap.css?v=1720467671"
 			media="screen"
 		/>
 		<link
 			rel="stylesheet"
-			href="/css/journal.css?v=1720456656"
+			href="/css/journal.css?v=1720467671"
 			media="screen"
 		/>
 		<!-- Custom Fonts -->
@@ -179,7 +179,7 @@
 				"headline": "Categories",
 				"keywords": "jack, daniel's, daniels, categories",
 				"description": "A listing of all categories that are used on CollectorOfJack.com",
-				"articleBody": "{{ site.title }} - Categories\n\n\n  \n    Choose from the category list below to find all posts associated with the category.\n  \n\n\n\n  \n  {% assign sortedCategories = site.categories | sort %}\n  {% for category in sortedCategories %}\n    {{ category[0] }}\n  {% endfor %}\n  \n",
+				"articleBody": "{{ site.title }} - Categories      Choose from the category list below to find all posts associated with the category.      {% assign sortedCategories = site.categories | sort %}  {% for category in sortedCategories %}    {{ category[0] }}  {% endfor %}",
 
 				"datePublished": "2018-11-18T13:36:55+00:00",
 
@@ -199,6 +199,34 @@
 				"mainEntityOfPage": {
 					"@type": "WebPage",
 					"@id": "https://collectorofjack.com//category"
+				}
+			}
+		</script>
+
+		<!-- Product Schema -->
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "Product",
+				"name": "Categories",
+				"image": "https://collectorofjack.com",
+				"description": "A listing of all categories that are used on CollectorOfJack.com",
+				"sku": "/category",
+
+				"brand": {
+					"@type": "Brand",
+					"name": "Collector Of Jack"
+				},
+
+				"offers": {
+					"@type": "Offer",
+					"url": "https://collectorofjack.com/category",
+					"priceCurrency": "USD",
+
+					"price": "999.99",
+
+					"itemCondition": "https://schema.org/NewCondition",
+					"availability": "https://schema.org/LimitedAvailability"
 				}
 			}
 		</script>

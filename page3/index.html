@@ -80,21 +80,21 @@
 		<!-- Custom CSS -->
 		<link
 			rel="stylesheet"
-			href="/css/WYSIWYG.css?v=1720456656"
+			href="/css/WYSIWYG.css?v=1720467671"
 			media="screen"
 		/>
-		<link rel="stylesheet" href="/css/main.css?v=1720456656" />
-		<link rel="stylesheet" href="/css/galleries.css?v=1720456656" />
-		<link rel="stylesheet" href="/css/magnificpopup.css?v=1720456656" />
+		<link rel="stylesheet" href="/css/main.css?v=1720467671" />
+		<link rel="stylesheet" href="/css/galleries.css?v=1720467671" />
+		<link rel="stylesheet" href="/css/magnificpopup.css?v=1720467671" />
 
 		<link
 			rel="stylesheet"
-			href="/css/tags-wrap.css?v=1720456656"
+			href="/css/tags-wrap.css?v=1720467671"
 			media="screen"
 		/>
 		<link
 			rel="stylesheet"
-			href="/css/journal.css?v=1720456656"
+			href="/css/journal.css?v=1720467671"
 			media="screen"
 		/>
 		<!-- Custom Fonts -->
@@ -191,7 +191,7 @@
 				"headline": "Collector Of Jack",
 				"keywords": "jack, daniel's, collector, blog, jd, whiskey, tennessee, jack daniel's tennessee whiskey, library",
 				"description": "A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find a library of documentation around Jack Daniel's bottles and various other rarities in the whiskey world.",
-				"articleBody": "\n  \n  \n    \n\n    {% for post in paginator.posts %}\n\n    {% assign post = site.posts.first %}\n    {% assign content = post.content %}\n\n    \n      \n\n      \n\n        \n        {% if post.image %}\n        {% picture blogcrop {{ post.image }} --alt {{ post.title }} %}\n        {% endif %}\n        \n          {{ post.title }}\n        \n        \n        {% if post.subtitle %}\n        \n        {{ post.subtitle }}\n        {% endif %}\n\n        \n        Posted on {{ post.date | date: \"%B %-d, %Y\" }}\n      \n\n      \n    \n    {% endfor %}\n    &nbsp;\n    \n  \n  \n\n\n\n\n{% if paginator.total_pages > 1 %}\n\n  {% if paginator.previous_page %}\n  \n  &larr; Newer Posts\n  \n  {% endif %}\n\n   Page {{paginator.page}} of {{paginator.total_pages}}\n\n  {% if paginator.next_page %}\n  \n  Older Posts &rarr;\n  \n  {% endif %}\n\n{% endif %}\n\n\n",
+				"articleBody": "{% for post in paginator.posts %}    {% assign post = site.posts.first %}    {% assign content = post.content %}                                {% if post.image %}        {% picture blogcrop {{ post.image }} --alt {{ post.title }} %}        {% endif %}                  {{ post.title }}                        {% if post.subtitle %}                {{ post.subtitle }}        {% endif %}                Posted on {{ post.date | date: \"%B %-d, %Y\" }}                    {% endfor %}    &nbsp;        {% if paginator.total_pages > 1 %}  {% if paginator.previous_page %}    &larr; Newer Posts    {% endif %}   Page {{paginator.page}} of {{paginator.total_pages}}  {% if paginator.next_page %}    Older Posts &rarr;    {% endif %}{% endif %}",
 
 				"publisher": {
 					"@type": "Organization",
@@ -212,6 +212,34 @@
 				"image": [
 					"https://collectorofjack.com/images/generated/FireBottleMark-1-1600-7f990f4fe.jpg"
 				]
+			}
+		</script>
+
+		<!-- Product Schema -->
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "Product",
+				"name": "Collector Of Jack",
+				"image": "https://collectorofjack.com/images/generated/FireBottleMark-1-1600-7f990f4fe.jpg",
+				"description": "A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find a library of documentation around Jack Daniel's bottles and various other rarities in the whiskey world.",
+				"sku": "/page3/",
+
+				"brand": {
+					"@type": "Brand",
+					"name": "Collector Of Jack"
+				},
+
+				"offers": {
+					"@type": "Offer",
+					"url": "https://collectorofjack.com/page3/",
+					"priceCurrency": "USD",
+
+					"price": "999.99",
+
+					"itemCondition": "https://schema.org/NewCondition",
+					"availability": "https://schema.org/LimitedAvailability"
+				}
 			}
 		</script>
 	</head>
