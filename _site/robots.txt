@@ -1,0 +1,3 @@
+Sitemap: https://collectorofjack.com/sitemap.xml
+User-agent: *
+Disallow:
