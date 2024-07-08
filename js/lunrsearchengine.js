@@ -702,17 +702,17 @@ var documents = [{
     }, {
     "id": 140,
     "url": "https://collectorofjack.com/galleries/BarrelReunion1/CollectorOfJack-7/",
-    "title": "Jack Daniel's Tennessee Tasters' Series Barrel Reunion",
+    "title": "Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle.",
     "body": ""
     }, {
     "id": 141,
     "url": "https://collectorofjack.com/galleries/BarrelReunion1/CollectorOfJack-8/",
-    "title": "Jack Daniel's Tennessee Tasters' Series Barrel Reunion",
+    "title": "Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle.",
     "body": ""
     }, {
     "id": 142,
     "url": "https://collectorofjack.com/galleries/BarrelReunion1/CollectorOfJack-9/",
-    "title": "Jack Daniel's Tennessee Tasters' Series Barrel Reunion",
+    "title": "Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle.",
     "body": ""
     }, {
     "id": 143,
