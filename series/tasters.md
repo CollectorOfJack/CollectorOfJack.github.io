@@ -24,10 +24,10 @@ Both of these series have been released in simple 375ml bottles.
 3. [Tennessee Tasters' Series Barrel Reunion 1 (2019)](/BarrelReunion1)
 4. [Tennessee Tasters' Barrel Proof Rye (2019)](/TennesseeTastersBarrelProofRye)
 5. [Tennessee Tasters' Series Barrel Reunion 2 (2020)](/BarrelReunion2)
-6. [Tennessee Tasters' Series Jamaican Allspice](/JamaicanAllSpice)
-7. [Tennessee Tasters' 14E19 'Twin' Blend Whiskey](/TwinBlend)
-8. [Distillery Series Maple Barrel Rye](/DistillerySeries008)
-9. [Distillery Series Toasted Oak Barrel Rye](/DistillerySeries009)
+6. [Tennessee Tasters' Series Jamaican Allspice (2020)](/JamaicanAllSpice)
+7. [Tennessee Tasters' 14E19 'Twin' Blend Whiskey (2020)](/TwinBlend)
+8. [Distillery Series Maple Barrel Rye (2022)](/DistillerySeries008)
+9. [Distillery Series Toasted Oak Barrel Rye (2022)](/DistillerySeries009)
 10. Distillery Series Pecan Wood
 11. Distillery Series Anejo Tequila Barrels
 12. Distillery Series Oloroso Sherry Casks
