@@ -2,10 +2,10 @@
 layout: post
 title: Jack Daniel's Riverboat Captain's Bottle
 date: '2020-09-13T22:00:00+00:00'
-last_modified_at: '2024-07-01T15:55:45+00:00'
+last_modified_at: '2024-07-09T15:55:45+00:00'
 permalink: JackDanielsRiverboatCaptainBottle
 image: 36/RiverboatCaptain-1.jpg
-description: "Jack Daniel's Riverboat Captain's Bottle from 1987"
+description: "Jack Daniel's Riverboat Captain's Bottle and box from 1987"
 keywords: "jack daniel's, riverboat captain, riverboat, captain, bottle, 1.75L, box, collectible, value, price"
 gallery:
   JackDanielsRiverboatCaptainBottle:
@@ -67,7 +67,7 @@ gallery:
     image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 rear of hang tag 
     image-copyright: © CollectorOfJack.com
 categories: [ Riverboat Captain, Box, 1.75L ]
-price: 349.99
+price: 799.99
 brand: "Jack Daniel's"
 ---
 
@@ -142,4 +142,4 @@ I am super stoked about this bottle myself. I can't wait to build my shelving/st
 You'll find values for this bottle all over the place on the web. Most of the "ads" you see for liquor stores who still have a bottle, if they do, are nearly $1800, but you can find the bottle for way cheaper than that.
 
 ### Collector Of Jack's Value Assessment
-Don't spend more then $400 for a bottle, maybe $500 if the box is in GREAT shape. 
+Don't spend more then $500 for a bottle, maybe $600 if the box is in GREAT shape. 
