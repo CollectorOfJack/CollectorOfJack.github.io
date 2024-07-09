@@ -4,7 +4,7 @@ title: "Jack Daniel's Distillery Series 009 Straight Tennessee Rye Whiskey Finis
 date: '2024-07-07T16:00:00+00:00'
 permalink: DistillerySeries009
 image: 76/DistillerySeries009-1.jpg
-description: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release #008, Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels"
+description: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 009, Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels"
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Rye, Oak"
 author: ChrisHammond
 gallery:
@@ -30,7 +30,7 @@ gallery:
 categories: [ Distillery Series, Tasters, Box, 375ml, Rye, Oak ]
 price: 69.99
 brand: "Jack Daniel's"
-# last_modified_at: '2024-07-07T15:55:45+00:00'
+last_modified_at: '2024-07-08T23:43:45+00:00'
 ---
 Also released in July 2022, this second rye released in the Distillery Series, the Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels, part of the [Jack Daniel's Distillery Series](/series/tasters-distillery).
 
@@ -52,7 +52,7 @@ As with the 008 release, I picked this bottle up after a hockey tournament in Lo
 > Proof 101  
 > ALC/VOL 50.5%  
 > SIZE 375ml  
-> SELECTION# 008  
+> SELECTION# 009  
 > RELEASED July 2022  
 > SELECTED BY MASTER TASTER, LEXIE A. PHILLIPS
 
@@ -70,7 +70,7 @@ As with the Tasters and Distillery series, these bottles can only be found in th
 
 
 ## How Much Is Jack Daniel's Distillery Series Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels
-Originally priced around $43, you will have a hard time finding release 008 still on any shelves. If you do, you'll likely see it for $75 or higher.
+Originally priced around $43, you will have a hard time finding release 009 still on any shelves. If you do, you'll likely see it for $75 or higher.
  
 ### Collector Of Jack's Value Assessment
 If you can find it for under $60 you should pick it up.
