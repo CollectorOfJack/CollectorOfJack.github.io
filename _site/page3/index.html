@@ -49,13 +49,13 @@
 
 
     <!-- Custom CSS -->   
-    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1720467503" media="screen">
-    <link rel="stylesheet" href="/css/main.css?v=1720467503">
-    <link rel="stylesheet" href="/css/galleries.css?v=1720467503">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1720467503">
+    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1720558336" media="screen">
+    <link rel="stylesheet" href="/css/main.css?v=1720558336">
+    <link rel="stylesheet" href="/css/galleries.css?v=1720558336">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1720558336">
     
-    <link rel="stylesheet" href="/css/tags-wrap.css?v=1720467503" media="screen">
-    <link rel="stylesheet" href="/css/journal.css?v=1720467503" media="screen">
+    <link rel="stylesheet" href="/css/tags-wrap.css?v=1720558336" media="screen">
+    <link rel="stylesheet" href="/css/journal.css?v=1720558336" media="screen">
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
         type="text/css">
@@ -114,7 +114,7 @@
           "headline": "Collector Of Jack",
           "keywords": "jack, daniel's, collector, blog, jd, whiskey, tennessee, jack daniel's tennessee whiskey, library",
           "description": "A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find a library of documentation around Jack Daniel's bottles and various other rarities in the whiskey world.",
-          "articleBody": "{% for post in paginator.posts %}    {% assign post = site.posts.first %}    {% assign content = post.content %}                                {% if post.image %}        {% picture blogcrop {{ post.image }} --alt {{ post.title }} %}        {% endif %}                  {{ post.title }}                        {% if post.subtitle %}                {{ post.subtitle }}        {% endif %}                Posted on {{ post.date | date: \"%B %-d, %Y\" }}                    {% endfor %}    &nbsp;        {% if paginator.total_pages > 1 %}  {% if paginator.previous_page %}    &larr; Newer Posts    {% endif %}   Page {{paginator.page}} of {{paginator.total_pages}}  {% if paginator.next_page %}    Older Posts &rarr;    {% endif %}{% endif %}",
+          "articleBody": "{% for post in paginator.posts %}    {% assign post = site.posts.first %}    {% assign content = post.content %}                                      {% if post.image %}          {% picture blogcrop {{ post.image }} --alt {{ post.title }} %}          {% endif %}                      {{ post.title }}                              {% if post.subtitle %}                    {{ post.subtitle }}          {% endif %}                    Posted on {{ post.date | date: \"%B %-d, %Y\" }}                      {% endfor %}    &nbsp;        {% if paginator.total_pages > 1 %}  {% if paginator.previous_page %}    &larr; Newer Posts    {% endif %}   Page {{paginator.page}} of {{paginator.total_pages}}  {% if paginator.next_page %}    Older Posts &rarr;    {% endif %}{% endif %}",
 
           
           
@@ -170,9 +170,39 @@
             
 
             "itemCondition": "https://schema.org/NewCondition",
-            "availability": "https://schema.org/LimitedAvailability"
+            "availability": "https://schema.org/LimitedAvailability",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 15,
+              "returnMethod": "https://schema.org/ReturnInStore",
+              "returnFees": 50.00
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.00,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 0,
+                  "unitCode": "DAY"
+                }
+              },
+              "shippingLabel": "No shipping offered"
+            }
+          }
         }
-      }
       </script>
 
       
@@ -262,27 +292,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/UncleNearestMasterBlendEdition">
+          
+          <img src="/images/generated/57/UncleNearestMasterBlend-1-800-b59e65d75.jpg" alt="Uncle Nearest Master Blend Edition" srcset="/images/generated/57/UncleNearestMasterBlend-1-200-b59e65d75.jpg 200w, /images/generated/57/UncleNearestMasterBlend-1-400-b59e65d75.jpg 400w, /images/generated/57/UncleNearestMasterBlend-1-800-b59e65d75.jpg 800w, /images/generated/57/UncleNearestMasterBlend-1-1600-b59e65d75.jpg 1600w, /images/generated/57/UncleNearestMasterBlend-1-2000-b59e65d75.jpg 2000w">
 
-        <a href="/JackDanielsSpecialReleaseCoyHillHighProof">
-        
-        <img src="/images/generated/56/CoyHill-1-800-8ac95a1e5.jpg" alt="Jack Daniels Special Release Coy Hill High Proof" srcset="/images/generated/56/CoyHill-1-200-8ac95a1e5.jpg 200w, /images/generated/56/CoyHill-1-400-8ac95a1e5.jpg 400w, /images/generated/56/CoyHill-1-800-8ac95a1e5.jpg 800w, /images/generated/56/CoyHill-1-1600-8ac95a1e5.jpg 1600w, /images/generated/56/CoyHill-1-2000-8ac95a1e5.jpg 2000w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Uncle Nearest Master Blend Edition
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniels Special Release Coy Hill High Proof
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on March 16, 2022</p>
-      </div>
-
+          Posted on March 17, 2022</p>
+        </div>
       </div>
     </li>
     
@@ -292,27 +320,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/JackDanielsSpecialReleaseCoyHillHighProof">
+          
+          <img src="/images/generated/56/CoyHill-1-800-8ac95a1e5.jpg" alt="Jack Daniels Special Release Coy Hill High Proof" srcset="/images/generated/56/CoyHill-1-200-8ac95a1e5.jpg 200w, /images/generated/56/CoyHill-1-400-8ac95a1e5.jpg 400w, /images/generated/56/CoyHill-1-800-8ac95a1e5.jpg 800w, /images/generated/56/CoyHill-1-1600-8ac95a1e5.jpg 1600w, /images/generated/56/CoyHill-1-2000-8ac95a1e5.jpg 2000w">
 
-        <a href="/JackDaniels10Year">
-        
-        <img src="/images/generated/55/10Year-1-800-cc5c4ba5a.jpg" alt="Jack Daniels 10-Years Tennessee Whiskey" srcset="/images/generated/55/10Year-1-200-cc5c4ba5a.jpg 200w, /images/generated/55/10Year-1-400-cc5c4ba5a.jpg 400w, /images/generated/55/10Year-1-800-cc5c4ba5a.jpg 800w, /images/generated/55/10Year-1-1600-cc5c4ba5a.jpg 1600w, /images/generated/55/10Year-1-2000-cc5c4ba5a.jpg 2000w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniels Special Release Coy Hill High Proof
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniels 10-Years Tennessee Whiskey
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on March 7, 2022</p>
-      </div>
-
+          Posted on March 16, 2022</p>
+        </div>
       </div>
     </li>
     
@@ -322,27 +348,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/JackDaniels10Year">
+          
+          <img src="/images/generated/55/10Year-1-800-cc5c4ba5a.jpg" alt="Jack Daniels 10-Years Tennessee Whiskey" srcset="/images/generated/55/10Year-1-200-cc5c4ba5a.jpg 200w, /images/generated/55/10Year-1-400-cc5c4ba5a.jpg 400w, /images/generated/55/10Year-1-800-cc5c4ba5a.jpg 800w, /images/generated/55/10Year-1-1600-cc5c4ba5a.jpg 1600w, /images/generated/55/10Year-1-2000-cc5c4ba5a.jpg 2000w">
 
-        <a href="/2yearSquireversary">
-        
-        <img src="/images/generated/54/SquireLogo-1-800-5ae3cda06.jpg" alt="Jack Daniel's Tennessee Squire Anniversary" srcset="/images/generated/54/SquireLogo-1-200-5ae3cda06.jpg 200w, /images/generated/54/SquireLogo-1-400-5ae3cda06.jpg 400w, /images/generated/54/SquireLogo-1-800-5ae3cda06.jpg 800w, /images/generated/54/SquireLogo-1-1600-5ae3cda06.jpg 1600w, /images/generated/54/SquireLogo-1-2000-5ae3cda06.jpg 2000w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniels 10-Years Tennessee Whiskey
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Tennessee Squire Anniversary
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on February 2, 2022</p>
-      </div>
-
+          Posted on March 7, 2022</p>
+        </div>
       </div>
     </li>
     
@@ -352,27 +376,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/2yearSquireversary">
+          
+          <img src="/images/generated/54/SquireLogo-1-800-5ae3cda06.jpg" alt="Jack Daniel's Tennessee Squire Anniversary" srcset="/images/generated/54/SquireLogo-1-200-5ae3cda06.jpg 200w, /images/generated/54/SquireLogo-1-400-5ae3cda06.jpg 400w, /images/generated/54/SquireLogo-1-800-5ae3cda06.jpg 800w, /images/generated/54/SquireLogo-1-1600-5ae3cda06.jpg 1600w, /images/generated/54/SquireLogo-1-2000-5ae3cda06.jpg 2000w">
 
-        <a href="/10YearsOldTennesseeWhiskey">
-        
-        <img src="/images/generated/53/10YearsOldTennesseeWhiskey-1-600-3dac6c628.jpg" alt="Jack Daniels 10-Years Old Tennessee Whiskey" srcset="/images/generated/53/10YearsOldTennesseeWhiskey-1-200-3dac6c628.jpg 200w, /images/generated/53/10YearsOldTennesseeWhiskey-1-400-3dac6c628.jpg 400w, /images/generated/53/10YearsOldTennesseeWhiskey-1-600-3dac6c628.jpg 600w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Tennessee Squire Anniversary
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniels 10-Years Old Tennessee Whiskey
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on August 23, 2021</p>
-      </div>
-
+          Posted on February 2, 2022</p>
+        </div>
       </div>
     </li>
     
@@ -382,27 +404,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/10YearsOldTennesseeWhiskey">
+          
+          <img src="/images/generated/53/10YearsOldTennesseeWhiskey-1-600-3dac6c628.jpg" alt="Jack Daniels 10-Years Old Tennessee Whiskey" srcset="/images/generated/53/10YearsOldTennesseeWhiskey-1-200-3dac6c628.jpg 200w, /images/generated/53/10YearsOldTennesseeWhiskey-1-400-3dac6c628.jpg 400w, /images/generated/53/10YearsOldTennesseeWhiskey-1-600-3dac6c628.jpg 600w">
 
-        <a href="/TwinBlend">
-        
-        <img src="/images/generated/52/TwinBlend-1-800-0d1ea0651.jpg" alt="Jack Daniels Tennessee Tasters' 14E19 'Twin' Blend | Whiskey" srcset="/images/generated/52/TwinBlend-1-200-0d1ea0651.jpg 200w, /images/generated/52/TwinBlend-1-400-0d1ea0651.jpg 400w, /images/generated/52/TwinBlend-1-800-0d1ea0651.jpg 800w, /images/generated/52/TwinBlend-1-1600-0d1ea0651.jpg 1600w, /images/generated/52/TwinBlend-1-2000-0d1ea0651.jpg 2000w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniels 10-Years Old Tennessee Whiskey
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniels Tennessee Tasters' 14E19 'Twin' Blend | Whiskey
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on August 8, 2021</p>
-      </div>
-
+          Posted on August 23, 2021</p>
+        </div>
       </div>
     </li>
     
@@ -412,27 +432,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/TwinBlend">
+          
+          <img src="/images/generated/52/TwinBlend-1-800-0d1ea0651.jpg" alt="Jack Daniels Tennessee Tasters' 14E19 'Twin' Blend | Whiskey" srcset="/images/generated/52/TwinBlend-1-200-0d1ea0651.jpg 200w, /images/generated/52/TwinBlend-1-400-0d1ea0651.jpg 400w, /images/generated/52/TwinBlend-1-800-0d1ea0651.jpg 800w, /images/generated/52/TwinBlend-1-1600-0d1ea0651.jpg 1600w, /images/generated/52/TwinBlend-1-2000-0d1ea0651.jpg 2000w">
 
-        <a href="/JackDanielsCoyHillHighProof">
-        
-        <img src="/images/generated/51/JackDanielsCoyHillHighProof-1-798-aaddf3c30.jpg" alt="Jack Daniels Coy Hill High Proof" srcset="/images/generated/51/JackDanielsCoyHillHighProof-1-200-aaddf3c30.jpg 200w, /images/generated/51/JackDanielsCoyHillHighProof-1-400-aaddf3c30.jpg 400w, /images/generated/51/JackDanielsCoyHillHighProof-1-798-aaddf3c30.jpg 798w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniels Tennessee Tasters' 14E19 'Twin' Blend | Whiskey
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniels Coy Hill High Proof
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on July 13, 2021</p>
-      </div>
-
+          Posted on August 8, 2021</p>
+        </div>
       </div>
     </li>
     
@@ -442,27 +460,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/JackDanielsCoyHillHighProof">
+          
+          <img src="/images/generated/51/JackDanielsCoyHillHighProof-1-798-aaddf3c30.jpg" alt="Jack Daniels Coy Hill High Proof" srcset="/images/generated/51/JackDanielsCoyHillHighProof-1-200-aaddf3c30.jpg 200w, /images/generated/51/JackDanielsCoyHillHighProof-1-400-aaddf3c30.jpg 400w, /images/generated/51/JackDanielsCoyHillHighProof-1-798-aaddf3c30.jpg 798w">
 
-        <a href="/FourthOfJuly2021">
-        
-        <img src="/images/generated/50/4thOfJuly-1-800-af32d5bc4.jpg" alt="Happy Fourth of July 2021" srcset="/images/generated/50/4thOfJuly-1-200-af32d5bc4.jpg 200w, /images/generated/50/4thOfJuly-1-400-af32d5bc4.jpg 400w, /images/generated/50/4thOfJuly-1-800-af32d5bc4.jpg 800w, /images/generated/50/4thOfJuly-1-1600-af32d5bc4.jpg 1600w, /images/generated/50/4thOfJuly-1-2000-af32d5bc4.jpg 2000w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniels Coy Hill High Proof
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Happy Fourth of July 2021
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on July 3, 2021</p>
-      </div>
-
+          Posted on July 13, 2021</p>
+        </div>
       </div>
     </li>
     
@@ -472,27 +488,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/FourthOfJuly2021">
+          
+          <img src="/images/generated/50/4thOfJuly-1-800-af32d5bc4.jpg" alt="Happy Fourth of July 2021" srcset="/images/generated/50/4thOfJuly-1-200-af32d5bc4.jpg 200w, /images/generated/50/4thOfJuly-1-400-af32d5bc4.jpg 400w, /images/generated/50/4thOfJuly-1-800-af32d5bc4.jpg 800w, /images/generated/50/4thOfJuly-1-1600-af32d5bc4.jpg 1600w, /images/generated/50/4thOfJuly-1-2000-af32d5bc4.jpg 2000w">
 
-        <a href="/JamaicanAllSpice">
-        
-        <img src="/images/generated/49/JamaicanAllSpice-1-800-1c2cb681a.jpg" alt="Jack Daniel's Tennessee Tasters' Series Jamaican Allspice" srcset="/images/generated/49/JamaicanAllSpice-1-200-1c2cb681a.jpg 200w, /images/generated/49/JamaicanAllSpice-1-400-1c2cb681a.jpg 400w, /images/generated/49/JamaicanAllSpice-1-800-1c2cb681a.jpg 800w, /images/generated/49/JamaicanAllSpice-1-1600-1c2cb681a.jpg 1600w, /images/generated/49/JamaicanAllSpice-1-2000-1c2cb681a.jpg 2000w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Happy Fourth of July 2021
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Tennessee Tasters' Series Jamaican Allspice
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 30, 2021</p>
-      </div>
-
+          Posted on July 3, 2021</p>
+        </div>
       </div>
     </li>
     
@@ -502,27 +516,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/JamaicanAllSpice">
+          
+          <img src="/images/generated/49/JamaicanAllSpice-1-800-1c2cb681a.jpg" alt="Jack Daniel's Tennessee Tasters' Series Jamaican Allspice" srcset="/images/generated/49/JamaicanAllSpice-1-200-1c2cb681a.jpg 200w, /images/generated/49/JamaicanAllSpice-1-400-1c2cb681a.jpg 400w, /images/generated/49/JamaicanAllSpice-1-800-1c2cb681a.jpg 800w, /images/generated/49/JamaicanAllSpice-1-1600-1c2cb681a.jpg 1600w, /images/generated/49/JamaicanAllSpice-1-2000-1c2cb681a.jpg 2000w">
 
-        <a href="/BarrelReunion2">
-        
-        <img src="/images/generated/48/BarrelReunion2-1-800-379a80a6d.jpg" alt="Jack Daniel's Tennessee Tasters' Series Barrel Reunion 2" srcset="/images/generated/48/BarrelReunion2-1-200-379a80a6d.jpg 200w, /images/generated/48/BarrelReunion2-1-400-379a80a6d.jpg 400w, /images/generated/48/BarrelReunion2-1-800-379a80a6d.jpg 800w, /images/generated/48/BarrelReunion2-1-1600-379a80a6d.jpg 1600w, /images/generated/48/BarrelReunion2-1-2000-379a80a6d.jpg 2000w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Tennessee Tasters' Series Jamaican Allspice
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Tennessee Tasters' Series Barrel Reunion 2
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 24, 2021</p>
-      </div>
-
+          Posted on June 30, 2021</p>
+        </div>
       </div>
     </li>
     
@@ -532,27 +544,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/BarrelReunion2">
+          
+          <img src="/images/generated/48/BarrelReunion2-1-800-379a80a6d.jpg" alt="Jack Daniel's Tennessee Tasters' Series Barrel Reunion 2" srcset="/images/generated/48/BarrelReunion2-1-200-379a80a6d.jpg 200w, /images/generated/48/BarrelReunion2-1-400-379a80a6d.jpg 400w, /images/generated/48/BarrelReunion2-1-800-379a80a6d.jpg 800w, /images/generated/48/BarrelReunion2-1-1600-379a80a6d.jpg 1600w, /images/generated/48/BarrelReunion2-1-2000-379a80a6d.jpg 2000w">
 
-        <a href="/JackDanielsDistilleryVisit2021">
-        
-        <img src="/images/generated/47/Trip20216-16-2021-4-800-7dfe5abad.jpg" alt="Jack Daniel's Visit June 2021" srcset="/images/generated/47/Trip20216-16-2021-4-200-7dfe5abad.jpg 200w, /images/generated/47/Trip20216-16-2021-4-400-7dfe5abad.jpg 400w, /images/generated/47/Trip20216-16-2021-4-800-7dfe5abad.jpg 800w, /images/generated/47/Trip20216-16-2021-4-1600-7dfe5abad.jpg 1600w, /images/generated/47/Trip20216-16-2021-4-2000-7dfe5abad.jpg 2000w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Tennessee Tasters' Series Barrel Reunion 2
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Visit June 2021
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 19, 2021</p>
-      </div>
-
+          Posted on June 24, 2021</p>
+        </div>
       </div>
     </li>
     

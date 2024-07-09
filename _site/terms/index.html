@@ -49,13 +49,13 @@
 
 
     <!-- Custom CSS -->   
-    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1720467503" media="screen">
-    <link rel="stylesheet" href="/css/main.css?v=1720467503">
-    <link rel="stylesheet" href="/css/galleries.css?v=1720467503">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1720467503">
+    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1720558336" media="screen">
+    <link rel="stylesheet" href="/css/main.css?v=1720558336">
+    <link rel="stylesheet" href="/css/galleries.css?v=1720558336">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1720558336">
     
-    <link rel="stylesheet" href="/css/tags-wrap.css?v=1720467503" media="screen">
-    <link rel="stylesheet" href="/css/journal.css?v=1720467503" media="screen">
+    <link rel="stylesheet" href="/css/tags-wrap.css?v=1720558336" media="screen">
+    <link rel="stylesheet" href="/css/journal.css?v=1720558336" media="screen">
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
         type="text/css">
@@ -170,9 +170,39 @@
             
 
             "itemCondition": "https://schema.org/NewCondition",
-            "availability": "https://schema.org/LimitedAvailability"
+            "availability": "https://schema.org/LimitedAvailability",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 15,
+              "returnMethod": "https://schema.org/ReturnInStore",
+              "returnFees": 50.00
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.00,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 0,
+                  "unitCode": "DAY"
+                }
+              },
+              "shippingLabel": "No shipping offered"
+            }
+          }
         }
-      }
       </script>
 
       

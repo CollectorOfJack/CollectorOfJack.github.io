@@ -49,13 +49,13 @@
 
 
     <!-- Custom CSS -->   
-    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1720467503" media="screen">
-    <link rel="stylesheet" href="/css/main.css?v=1720467503">
-    <link rel="stylesheet" href="/css/galleries.css?v=1720467503">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1720467503">
+    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1720558336" media="screen">
+    <link rel="stylesheet" href="/css/main.css?v=1720558336">
+    <link rel="stylesheet" href="/css/galleries.css?v=1720558336">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1720558336">
     
-    <link rel="stylesheet" href="/css/tags-wrap.css?v=1720467503" media="screen">
-    <link rel="stylesheet" href="/css/journal.css?v=1720467503" media="screen">
+    <link rel="stylesheet" href="/css/tags-wrap.css?v=1720558336" media="screen">
+    <link rel="stylesheet" href="/css/journal.css?v=1720558336" media="screen">
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
         type="text/css">
@@ -114,7 +114,7 @@
           "headline": "Collector Of Jack",
           "keywords": "jack, daniel's, collector, blog, jd, whiskey, tennessee, jack daniel's tennessee whiskey, library",
           "description": "A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find a library of documentation around Jack Daniel's bottles and various other rarities in the whiskey world.",
-          "articleBody": "{% for post in paginator.posts %}    {% assign post = site.posts.first %}    {% assign content = post.content %}                                {% if post.image %}        {% picture blogcrop {{ post.image }} --alt {{ post.title }} %}        {% endif %}                  {{ post.title }}                        {% if post.subtitle %}                {{ post.subtitle }}        {% endif %}                Posted on {{ post.date | date: \"%B %-d, %Y\" }}                    {% endfor %}    &nbsp;        {% if paginator.total_pages > 1 %}  {% if paginator.previous_page %}    &larr; Newer Posts    {% endif %}   Page {{paginator.page}} of {{paginator.total_pages}}  {% if paginator.next_page %}    Older Posts &rarr;    {% endif %}{% endif %}",
+          "articleBody": "{% for post in paginator.posts %}    {% assign post = site.posts.first %}    {% assign content = post.content %}                                      {% if post.image %}          {% picture blogcrop {{ post.image }} --alt {{ post.title }} %}          {% endif %}                      {{ post.title }}                              {% if post.subtitle %}                    {{ post.subtitle }}          {% endif %}                    Posted on {{ post.date | date: \"%B %-d, %Y\" }}                      {% endfor %}    &nbsp;        {% if paginator.total_pages > 1 %}  {% if paginator.previous_page %}    &larr; Newer Posts    {% endif %}   Page {{paginator.page}} of {{paginator.total_pages}}  {% if paginator.next_page %}    Older Posts &rarr;    {% endif %}{% endif %}",
 
           
           
@@ -170,9 +170,39 @@
             
 
             "itemCondition": "https://schema.org/NewCondition",
-            "availability": "https://schema.org/LimitedAvailability"
+            "availability": "https://schema.org/LimitedAvailability",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 15,
+              "returnMethod": "https://schema.org/ReturnInStore",
+              "returnFees": 50.00
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.00,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 0,
+                  "unitCode": "DAY"
+                }
+              },
+              "shippingLabel": "No shipping offered"
+            }
+          }
         }
-      }
       </script>
 
       
@@ -262,27 +292,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/JackDanielsTennesseeRye">
+          
+          <img src="/images/generated/17/JackDanielsRye1L-1-800-abef47777.jpg" alt="Jack Daniel's Tennessee Rye" srcset="/images/generated/17/JackDanielsRye1L-1-200-abef47777.jpg 200w, /images/generated/17/JackDanielsRye1L-1-400-abef47777.jpg 400w, /images/generated/17/JackDanielsRye1L-1-800-abef47777.jpg 800w, /images/generated/17/JackDanielsRye1L-1-1600-abef47777.jpg 1600w, /images/generated/17/JackDanielsRye1L-1-1900-abef47777.jpg 1900w">
 
-        <a href="/JackDanielsSingleBarrelRye">
-        
-        <img src="/images/generated/16/JackDanielsSingleBarrelRye-1-800-fbfe61fad.jpg" alt="Jack Daniel's Single Barrel Rye" srcset="/images/generated/16/JackDanielsSingleBarrelRye-1-200-fbfe61fad.jpg 200w, /images/generated/16/JackDanielsSingleBarrelRye-1-400-fbfe61fad.jpg 400w, /images/generated/16/JackDanielsSingleBarrelRye-1-800-fbfe61fad.jpg 800w, /images/generated/16/JackDanielsSingleBarrelRye-1-1600-fbfe61fad.jpg 1600w, /images/generated/16/JackDanielsSingleBarrelRye-1-1900-fbfe61fad.jpg 1900w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Tennessee Rye
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Single Barrel Rye
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 18, 2019</p>
-      </div>
-
+          Posted on June 18, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -292,27 +320,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/JackDanielsSingleBarrelRye">
+          
+          <img src="/images/generated/16/JackDanielsSingleBarrelRye-1-800-fbfe61fad.jpg" alt="Jack Daniel's Single Barrel Rye" srcset="/images/generated/16/JackDanielsSingleBarrelRye-1-200-fbfe61fad.jpg 200w, /images/generated/16/JackDanielsSingleBarrelRye-1-400-fbfe61fad.jpg 400w, /images/generated/16/JackDanielsSingleBarrelRye-1-800-fbfe61fad.jpg 800w, /images/generated/16/JackDanielsSingleBarrelRye-1-1600-fbfe61fad.jpg 1600w, /images/generated/16/JackDanielsSingleBarrelRye-1-1900-fbfe61fad.jpg 1900w">
 
-        <a href="/JackDanielsRestedTennesseeRye">
-        
-        <img src="/images/generated/15/JackDanielsRestedRye-1-800-5f27fce8c.jpg" alt="Jack Daniel's Rested Tennessee Rye" srcset="/images/generated/15/JackDanielsRestedRye-1-200-5f27fce8c.jpg 200w, /images/generated/15/JackDanielsRestedRye-1-400-5f27fce8c.jpg 400w, /images/generated/15/JackDanielsRestedRye-1-800-5f27fce8c.jpg 800w, /images/generated/15/JackDanielsRestedRye-1-1600-5f27fce8c.jpg 1600w, /images/generated/15/JackDanielsRestedRye-1-1900-5f27fce8c.jpg 1900w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Single Barrel Rye
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Rested Tennessee Rye
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 18, 2019</p>
-      </div>
-
+          Posted on June 18, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -322,27 +348,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/JackDanielsRestedTennesseeRye">
+          
+          <img src="/images/generated/15/JackDanielsRestedRye-1-800-5f27fce8c.jpg" alt="Jack Daniel's Rested Tennessee Rye" srcset="/images/generated/15/JackDanielsRestedRye-1-200-5f27fce8c.jpg 200w, /images/generated/15/JackDanielsRestedRye-1-400-5f27fce8c.jpg 400w, /images/generated/15/JackDanielsRestedRye-1-800-5f27fce8c.jpg 800w, /images/generated/15/JackDanielsRestedRye-1-1600-5f27fce8c.jpg 1600w, /images/generated/15/JackDanielsRestedRye-1-1900-5f27fce8c.jpg 1900w">
 
-        <a href="/JackDanielsUnagedTennesseeRye">
-        
-        <img src="/images/generated/14/JackDanielsRye1-1-800-d84a3e3f8.jpg" alt="Jack Daniel's Unaged Tennessee Rye" srcset="/images/generated/14/JackDanielsRye1-1-200-d84a3e3f8.jpg 200w, /images/generated/14/JackDanielsRye1-1-400-d84a3e3f8.jpg 400w, /images/generated/14/JackDanielsRye1-1-800-d84a3e3f8.jpg 800w, /images/generated/14/JackDanielsRye1-1-1600-d84a3e3f8.jpg 1600w, /images/generated/14/JackDanielsRye1-1-1900-d84a3e3f8.jpg 1900w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Rested Tennessee Rye
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Unaged Tennessee Rye
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 18, 2019</p>
-      </div>
-
+          Posted on June 18, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -352,27 +376,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/JackDanielsUnagedTennesseeRye">
+          
+          <img src="/images/generated/14/JackDanielsRye1-1-800-d84a3e3f8.jpg" alt="Jack Daniel's Unaged Tennessee Rye" srcset="/images/generated/14/JackDanielsRye1-1-200-d84a3e3f8.jpg 200w, /images/generated/14/JackDanielsRye1-1-400-d84a3e3f8.jpg 400w, /images/generated/14/JackDanielsRye1-1-800-d84a3e3f8.jpg 800w, /images/generated/14/JackDanielsRye1-1-1600-d84a3e3f8.jpg 1600w, /images/generated/14/JackDanielsRye1-1-1900-d84a3e3f8.jpg 1900w">
 
-        <a href="/WinterJack">
-        
-        <img src="/images/generated/12/WinterJack-1-800-7042e184a.jpg" alt="Jack Daniel's Winter Jack" srcset="/images/generated/12/WinterJack-1-200-7042e184a.jpg 200w, /images/generated/12/WinterJack-1-400-7042e184a.jpg 400w, /images/generated/12/WinterJack-1-800-7042e184a.jpg 800w, /images/generated/12/WinterJack-1-1600-7042e184a.jpg 1600w, /images/generated/12/WinterJack-1-1900-7042e184a.jpg 1900w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Unaged Tennessee Rye
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Winter Jack
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 18, 2019</p>
-      </div>
-
+          Posted on June 18, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -382,27 +404,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/WinterJack">
+          
+          <img src="/images/generated/12/WinterJack-1-800-7042e184a.jpg" alt="Jack Daniel's Winter Jack" srcset="/images/generated/12/WinterJack-1-200-7042e184a.jpg 200w, /images/generated/12/WinterJack-1-400-7042e184a.jpg 400w, /images/generated/12/WinterJack-1-800-7042e184a.jpg 800w, /images/generated/12/WinterJack-1-1600-7042e184a.jpg 1600w, /images/generated/12/WinterJack-1-1900-7042e184a.jpg 1900w">
 
-        <a href="/RedDogSaloon">
-        
-        <img src="/images/generated/13/RedDogSaloon-1-800-03cf407e4.jpg" alt="Jack Daniel's 125th Anniversary Red Dog Saloon" srcset="/images/generated/13/RedDogSaloon-1-200-03cf407e4.jpg 200w, /images/generated/13/RedDogSaloon-1-400-03cf407e4.jpg 400w, /images/generated/13/RedDogSaloon-1-800-03cf407e4.jpg 800w, /images/generated/13/RedDogSaloon-1-1600-03cf407e4.jpg 1600w, /images/generated/13/RedDogSaloon-1-1900-03cf407e4.jpg 1900w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Winter Jack
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's 125th Anniversary Red Dog Saloon
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 18, 2019</p>
-      </div>
-
+          Posted on June 18, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -412,27 +432,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/RedDogSaloon">
+          
+          <img src="/images/generated/13/RedDogSaloon-1-800-03cf407e4.jpg" alt="Jack Daniel's 125th Anniversary Red Dog Saloon" srcset="/images/generated/13/RedDogSaloon-1-200-03cf407e4.jpg 200w, /images/generated/13/RedDogSaloon-1-400-03cf407e4.jpg 400w, /images/generated/13/RedDogSaloon-1-800-03cf407e4.jpg 800w, /images/generated/13/RedDogSaloon-1-1600-03cf407e4.jpg 1600w, /images/generated/13/RedDogSaloon-1-1900-03cf407e4.jpg 1900w">
 
-        <a href="/WinterJack2013">
-        
-        <img src="/images/generated/11/WinterJackV1-1-800-d320e6e99.jpg" alt="Jack Daniel's Winter Jack 2013" srcset="/images/generated/11/WinterJackV1-1-200-d320e6e99.jpg 200w, /images/generated/11/WinterJackV1-1-400-d320e6e99.jpg 400w, /images/generated/11/WinterJackV1-1-800-d320e6e99.jpg 800w, /images/generated/11/WinterJackV1-1-1600-d320e6e99.jpg 1600w, /images/generated/11/WinterJackV1-1-1900-d320e6e99.jpg 1900w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's 125th Anniversary Red Dog Saloon
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Winter Jack 2013
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 18, 2019</p>
-      </div>
-
+          Posted on June 18, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -442,27 +460,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/WinterJack2013">
+          
+          <img src="/images/generated/11/WinterJackV1-1-800-d320e6e99.jpg" alt="Jack Daniel's Winter Jack 2013" srcset="/images/generated/11/WinterJackV1-1-200-d320e6e99.jpg 200w, /images/generated/11/WinterJackV1-1-400-d320e6e99.jpg 400w, /images/generated/11/WinterJackV1-1-800-d320e6e99.jpg 800w, /images/generated/11/WinterJackV1-1-1600-d320e6e99.jpg 1600w, /images/generated/11/WinterJackV1-1-1900-d320e6e99.jpg 1900w">
 
-        <a href="/HolidaySelect2014">
-        
-        <img src="/images/generated/10/HolidaySelect2014-1-800-141550ad3.jpg" alt="Jack Daniel's Holiday Select 2014" srcset="/images/generated/10/HolidaySelect2014-1-200-141550ad3.jpg 200w, /images/generated/10/HolidaySelect2014-1-400-141550ad3.jpg 400w, /images/generated/10/HolidaySelect2014-1-800-141550ad3.jpg 800w, /images/generated/10/HolidaySelect2014-1-1600-141550ad3.jpg 1600w, /images/generated/10/HolidaySelect2014-1-1900-141550ad3.jpg 1900w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Winter Jack 2013
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Holiday Select 2014
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 18, 2019</p>
-      </div>
-
+          Posted on June 18, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -472,27 +488,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/HolidaySelect2014">
+          
+          <img src="/images/generated/10/HolidaySelect2014-1-800-141550ad3.jpg" alt="Jack Daniel's Holiday Select 2014" srcset="/images/generated/10/HolidaySelect2014-1-200-141550ad3.jpg 200w, /images/generated/10/HolidaySelect2014-1-400-141550ad3.jpg 400w, /images/generated/10/HolidaySelect2014-1-800-141550ad3.jpg 800w, /images/generated/10/HolidaySelect2014-1-1600-141550ad3.jpg 1600w, /images/generated/10/HolidaySelect2014-1-1900-141550ad3.jpg 1900w">
 
-        <a href="/HolidaySelect2013">
-        
-        <img src="/images/generated/9/HolidaySelect2013-1-800-00a0030c6.jpg" alt="Jack Daniel's Holiday Select 2013" srcset="/images/generated/9/HolidaySelect2013-1-200-00a0030c6.jpg 200w, /images/generated/9/HolidaySelect2013-1-400-00a0030c6.jpg 400w, /images/generated/9/HolidaySelect2013-1-800-00a0030c6.jpg 800w, /images/generated/9/HolidaySelect2013-1-1600-00a0030c6.jpg 1600w, /images/generated/9/HolidaySelect2013-1-1900-00a0030c6.jpg 1900w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Holiday Select 2014
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Holiday Select 2013
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 18, 2019</p>
-      </div>
-
+          Posted on June 18, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -502,27 +516,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/HolidaySelect2013">
+          
+          <img src="/images/generated/9/HolidaySelect2013-1-800-00a0030c6.jpg" alt="Jack Daniel's Holiday Select 2013" srcset="/images/generated/9/HolidaySelect2013-1-200-00a0030c6.jpg 200w, /images/generated/9/HolidaySelect2013-1-400-00a0030c6.jpg 400w, /images/generated/9/HolidaySelect2013-1-800-00a0030c6.jpg 800w, /images/generated/9/HolidaySelect2013-1-1600-00a0030c6.jpg 1600w, /images/generated/9/HolidaySelect2013-1-1900-00a0030c6.jpg 1900w">
 
-        <a href="/HolidaySelect2012">
-        
-        <img src="/images/generated/8/HolidaySelect2012-1-800-c41fe66de.jpg" alt="Jack Daniel's Holiday Select 2012" srcset="/images/generated/8/HolidaySelect2012-1-200-c41fe66de.jpg 200w, /images/generated/8/HolidaySelect2012-1-400-c41fe66de.jpg 400w, /images/generated/8/HolidaySelect2012-1-800-c41fe66de.jpg 800w, /images/generated/8/HolidaySelect2012-1-1600-c41fe66de.jpg 1600w, /images/generated/8/HolidaySelect2012-1-1900-c41fe66de.jpg 1900w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Holiday Select 2013
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Holiday Select 2012
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 18, 2019</p>
-      </div>
-
+          Posted on June 18, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -532,27 +544,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/HolidaySelect2012">
+          
+          <img src="/images/generated/8/HolidaySelect2012-1-800-c41fe66de.jpg" alt="Jack Daniel's Holiday Select 2012" srcset="/images/generated/8/HolidaySelect2012-1-200-c41fe66de.jpg 200w, /images/generated/8/HolidaySelect2012-1-400-c41fe66de.jpg 400w, /images/generated/8/HolidaySelect2012-1-800-c41fe66de.jpg 800w, /images/generated/8/HolidaySelect2012-1-1600-c41fe66de.jpg 1600w, /images/generated/8/HolidaySelect2012-1-1900-c41fe66de.jpg 1900w">
 
-        <a href="/HolidaySelect2011">
-        
-        <img src="/images/generated/7/HolidaySelect2011-1-800-333e7100e.jpg" alt="Jack Daniel's Holiday Select 2011 Whiskey" srcset="/images/generated/7/HolidaySelect2011-1-200-333e7100e.jpg 200w, /images/generated/7/HolidaySelect2011-1-400-333e7100e.jpg 400w, /images/generated/7/HolidaySelect2011-1-800-333e7100e.jpg 800w, /images/generated/7/HolidaySelect2011-1-1600-333e7100e.jpg 1600w, /images/generated/7/HolidaySelect2011-1-1900-333e7100e.jpg 1900w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Holiday Select 2012
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Holiday Select 2011 Whiskey
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 18, 2019</p>
-      </div>
-
+          Posted on June 18, 2019</p>
+        </div>
       </div>
     </li>
     

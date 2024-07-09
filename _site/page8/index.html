@@ -49,13 +49,13 @@
 
 
     <!-- Custom CSS -->   
-    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1720467503" media="screen">
-    <link rel="stylesheet" href="/css/main.css?v=1720467503">
-    <link rel="stylesheet" href="/css/galleries.css?v=1720467503">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1720467503">
+    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1720558336" media="screen">
+    <link rel="stylesheet" href="/css/main.css?v=1720558336">
+    <link rel="stylesheet" href="/css/galleries.css?v=1720558336">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1720558336">
     
-    <link rel="stylesheet" href="/css/tags-wrap.css?v=1720467503" media="screen">
-    <link rel="stylesheet" href="/css/journal.css?v=1720467503" media="screen">
+    <link rel="stylesheet" href="/css/tags-wrap.css?v=1720558336" media="screen">
+    <link rel="stylesheet" href="/css/journal.css?v=1720558336" media="screen">
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
         type="text/css">
@@ -114,7 +114,7 @@
           "headline": "Collector Of Jack",
           "keywords": "jack, daniel's, collector, blog, jd, whiskey, tennessee, jack daniel's tennessee whiskey, library",
           "description": "A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find a library of documentation around Jack Daniel's bottles and various other rarities in the whiskey world.",
-          "articleBody": "{% for post in paginator.posts %}    {% assign post = site.posts.first %}    {% assign content = post.content %}                                {% if post.image %}        {% picture blogcrop {{ post.image }} --alt {{ post.title }} %}        {% endif %}                  {{ post.title }}                        {% if post.subtitle %}                {{ post.subtitle }}        {% endif %}                Posted on {{ post.date | date: \"%B %-d, %Y\" }}                    {% endfor %}    &nbsp;        {% if paginator.total_pages > 1 %}  {% if paginator.previous_page %}    &larr; Newer Posts    {% endif %}   Page {{paginator.page}} of {{paginator.total_pages}}  {% if paginator.next_page %}    Older Posts &rarr;    {% endif %}{% endif %}",
+          "articleBody": "{% for post in paginator.posts %}    {% assign post = site.posts.first %}    {% assign content = post.content %}                                      {% if post.image %}          {% picture blogcrop {{ post.image }} --alt {{ post.title }} %}          {% endif %}                      {{ post.title }}                              {% if post.subtitle %}                    {{ post.subtitle }}          {% endif %}                    Posted on {{ post.date | date: \"%B %-d, %Y\" }}                      {% endfor %}    &nbsp;        {% if paginator.total_pages > 1 %}  {% if paginator.previous_page %}    &larr; Newer Posts    {% endif %}   Page {{paginator.page}} of {{paginator.total_pages}}  {% if paginator.next_page %}    Older Posts &rarr;    {% endif %}{% endif %}",
 
           
           
@@ -170,9 +170,39 @@
             
 
             "itemCondition": "https://schema.org/NewCondition",
-            "availability": "https://schema.org/LimitedAvailability"
+            "availability": "https://schema.org/LimitedAvailability",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 15,
+              "returnMethod": "https://schema.org/ReturnInStore",
+              "returnFees": 50.00
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.00,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 0,
+                  "unitCode": "DAY"
+                }
+              },
+              "shippingLabel": "No shipping offered"
+            }
+          }
         }
-      }
       </script>
 
       
@@ -262,27 +292,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/HolidaySelect2011">
+          
+          <img src="/images/generated/7/HolidaySelect2011-1-800-333e7100e.jpg" alt="Jack Daniel's Holiday Select 2011 Whiskey" srcset="/images/generated/7/HolidaySelect2011-1-200-333e7100e.jpg 200w, /images/generated/7/HolidaySelect2011-1-400-333e7100e.jpg 400w, /images/generated/7/HolidaySelect2011-1-800-333e7100e.jpg 800w, /images/generated/7/HolidaySelect2011-1-1600-333e7100e.jpg 1600w, /images/generated/7/HolidaySelect2011-1-1900-333e7100e.jpg 1900w">
 
-        <a href="/LegacyEditionSeries-FirstEdition">
-        
-        <img src="/images/generated/6/LegacyEditionSeriesFirstEdition-1-800-9e31e2d4f.jpg" alt="Jack Daniel's Legacy Edition Series - First Edition" srcset="/images/generated/6/LegacyEditionSeriesFirstEdition-1-200-9e31e2d4f.jpg 200w, /images/generated/6/LegacyEditionSeriesFirstEdition-1-400-9e31e2d4f.jpg 400w, /images/generated/6/LegacyEditionSeriesFirstEdition-1-800-9e31e2d4f.jpg 800w, /images/generated/6/LegacyEditionSeriesFirstEdition-1-1600-9e31e2d4f.jpg 1600w, /images/generated/6/LegacyEditionSeriesFirstEdition-1-1900-9e31e2d4f.jpg 1900w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Holiday Select 2011 Whiskey
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Legacy Edition Series - First Edition
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 18, 2019</p>
-      </div>
-
+          Posted on June 18, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -292,27 +320,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/LegacyEditionSeries-FirstEdition">
+          
+          <img src="/images/generated/6/LegacyEditionSeriesFirstEdition-1-800-9e31e2d4f.jpg" alt="Jack Daniel's Legacy Edition Series - First Edition" srcset="/images/generated/6/LegacyEditionSeriesFirstEdition-1-200-9e31e2d4f.jpg 200w, /images/generated/6/LegacyEditionSeriesFirstEdition-1-400-9e31e2d4f.jpg 400w, /images/generated/6/LegacyEditionSeriesFirstEdition-1-800-9e31e2d4f.jpg 800w, /images/generated/6/LegacyEditionSeriesFirstEdition-1-1600-9e31e2d4f.jpg 1600w, /images/generated/6/LegacyEditionSeriesFirstEdition-1-1900-9e31e2d4f.jpg 1900w">
 
-        <a href="/HeritageBarrel">
-        
-        <img src="/images/generated/5/HeritageBarrel-1-800-a3d7ad16f.jpg" alt="Jack Daniel's Single Barrel Heritage Barrel (2018)" srcset="/images/generated/5/HeritageBarrel-1-200-a3d7ad16f.jpg 200w, /images/generated/5/HeritageBarrel-1-400-a3d7ad16f.jpg 400w, /images/generated/5/HeritageBarrel-1-800-a3d7ad16f.jpg 800w, /images/generated/5/HeritageBarrel-1-1600-a3d7ad16f.jpg 1600w, /images/generated/5/HeritageBarrel-1-1900-a3d7ad16f.jpg 1900w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Legacy Edition Series - First Edition
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Single Barrel Heritage Barrel (2018)
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 18, 2019</p>
-      </div>
-
+          Posted on June 18, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -322,27 +348,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/HeritageBarrel">
+          
+          <img src="/images/generated/5/HeritageBarrel-1-800-a3d7ad16f.jpg" alt="Jack Daniel's Single Barrel Heritage Barrel (2018)" srcset="/images/generated/5/HeritageBarrel-1-200-a3d7ad16f.jpg 200w, /images/generated/5/HeritageBarrel-1-400-a3d7ad16f.jpg 400w, /images/generated/5/HeritageBarrel-1-800-a3d7ad16f.jpg 800w, /images/generated/5/HeritageBarrel-1-1600-a3d7ad16f.jpg 1600w, /images/generated/5/HeritageBarrel-1-1900-a3d7ad16f.jpg 1900w">
 
-        <a href="/HickorySmoked">
-        
-        <img src="/images/generated/4/HickorySmoked-1-800-321d08db5.jpg" alt="Tennessee Tasters' Hickory Smoked (2018)" srcset="/images/generated/4/HickorySmoked-1-200-321d08db5.jpg 200w, /images/generated/4/HickorySmoked-1-400-321d08db5.jpg 400w, /images/generated/4/HickorySmoked-1-800-321d08db5.jpg 800w, /images/generated/4/HickorySmoked-1-1600-321d08db5.jpg 1600w, /images/generated/4/HickorySmoked-1-1900-321d08db5.jpg 1900w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Single Barrel Heritage Barrel (2018)
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Tennessee Tasters' Hickory Smoked (2018)
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 18, 2019</p>
-      </div>
-
+          Posted on June 18, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -352,27 +376,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/HickorySmoked">
+          
+          <img src="/images/generated/4/HickorySmoked-1-800-321d08db5.jpg" alt="Tennessee Tasters' Hickory Smoked (2018)" srcset="/images/generated/4/HickorySmoked-1-200-321d08db5.jpg 200w, /images/generated/4/HickorySmoked-1-400-321d08db5.jpg 400w, /images/generated/4/HickorySmoked-1-800-321d08db5.jpg 800w, /images/generated/4/HickorySmoked-1-1600-321d08db5.jpg 1600w, /images/generated/4/HickorySmoked-1-1900-321d08db5.jpg 1900w">
 
-        <a href="/HighAngelsShare">
-        
-        <img src="/images/generated/3/AngelsShare-1-800-3a03533cc.jpg" alt="Tennessee Tasters' High Angel's Share Barrels (2018)" srcset="/images/generated/3/AngelsShare-1-200-3a03533cc.jpg 200w, /images/generated/3/AngelsShare-1-400-3a03533cc.jpg 400w, /images/generated/3/AngelsShare-1-800-3a03533cc.jpg 800w, /images/generated/3/AngelsShare-1-1600-3a03533cc.jpg 1600w, /images/generated/3/AngelsShare-1-1900-3a03533cc.jpg 1900w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Tennessee Tasters' Hickory Smoked (2018)
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Tennessee Tasters' High Angel's Share Barrels (2018)
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 18, 2019</p>
-      </div>
-
+          Posted on June 18, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -382,27 +404,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/HighAngelsShare">
+          
+          <img src="/images/generated/3/AngelsShare-1-800-3a03533cc.jpg" alt="Tennessee Tasters' High Angel's Share Barrels (2018)" srcset="/images/generated/3/AngelsShare-1-200-3a03533cc.jpg 200w, /images/generated/3/AngelsShare-1-400-3a03533cc.jpg 400w, /images/generated/3/AngelsShare-1-800-3a03533cc.jpg 800w, /images/generated/3/AngelsShare-1-1600-3a03533cc.jpg 1600w, /images/generated/3/AngelsShare-1-1900-3a03533cc.jpg 1900w">
 
-        <a href="/GentlemanJackTimePiece">
-        
-        <img src="/images/generated/2/Day1-4-800-61c58b701.jpg" alt="Gentleman Jack Limited Edition Time Piece Bottle" srcset="/images/generated/2/Day1-4-200-61c58b701.jpg 200w, /images/generated/2/Day1-4-400-61c58b701.jpg 400w, /images/generated/2/Day1-4-800-61c58b701.jpg 800w, /images/generated/2/Day1-4-1600-61c58b701.jpg 1600w, /images/generated/2/Day1-4-1900-61c58b701.jpg 1900w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Tennessee Tasters' High Angel's Share Barrels (2018)
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Gentleman Jack Limited Edition Time Piece Bottle
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 18, 2019</p>
-      </div>
-
+          Posted on June 18, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -412,27 +432,53 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/GentlemanJackTimePiece">
+          
+          <img src="/images/generated/2/Day1-4-800-61c58b701.jpg" alt="Gentleman Jack Limited Edition Time Piece Bottle" srcset="/images/generated/2/Day1-4-200-61c58b701.jpg 200w, /images/generated/2/Day1-4-400-61c58b701.jpg 400w, /images/generated/2/Day1-4-800-61c58b701.jpg 800w, /images/generated/2/Day1-4-1600-61c58b701.jpg 1600w, /images/generated/2/Day1-4-1900-61c58b701.jpg 1900w">
 
-        <a href="/JackDanielsCollector">
-        
-        <img src="/images/generated/1/post-bg1-800-784429f3f.jpg" alt="Welcome to the Jack Daniel's Collector Blog" srcset="/images/generated/1/post-bg1-200-784429f3f.jpg 200w, /images/generated/1/post-bg1-400-784429f3f.jpg 400w, /images/generated/1/post-bg1-800-784429f3f.jpg 800w, /images/generated/1/post-bg1-1600-784429f3f.jpg 1600w, /images/generated/1/post-bg1-1900-784429f3f.jpg 1900w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Gentleman Jack Limited Edition Time Piece Bottle
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Welcome to the Jack Daniel's Collector Blog
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on November 18, 2018</p>
+          Posted on June 18, 2019</p>
+        </div>
       </div>
+    </li>
+    
 
+    
+    
+
+    <li class="block">
+      <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+
+          <a href="/JackDanielsCollector">
+          
+          <img src="/images/generated/1/post-bg1-800-784429f3f.jpg" alt="Welcome to the Jack Daniel's Collector Blog" srcset="/images/generated/1/post-bg1-200-784429f3f.jpg 200w, /images/generated/1/post-bg1-400-784429f3f.jpg 400w, /images/generated/1/post-bg1-800-784429f3f.jpg 800w, /images/generated/1/post-bg1-1600-784429f3f.jpg 1600w, /images/generated/1/post-bg1-1900-784429f3f.jpg 1900w">
+
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Welcome to the Jack Daniel's Collector Blog
+          </p>
+          </a>
+          
+
+          <p class="post-meta"
+          style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+          Posted on November 18, 2018</p>
+        </div>
       </div>
     </li>
     

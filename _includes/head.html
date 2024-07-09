@@ -201,10 +201,32 @@
               "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
               "merchantReturnDays": 15,
               "returnMethod": "https://schema.org/ReturnInStore",
-              "returnFees": "https://schema.org/RestockingFees"
+              "returnFees": 50.00
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.00,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 0,
+                  "unitCode": "DAY"
+                }
+              },
+              "shippingLabel": "No shipping offered"
             }
+          }
         }
-      }
       </script>
 
       {% endif %}

@@ -49,13 +49,13 @@
 
 
     <!-- Custom CSS -->   
-    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1720467503" media="screen">
-    <link rel="stylesheet" href="/css/main.css?v=1720467503">
-    <link rel="stylesheet" href="/css/galleries.css?v=1720467503">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1720467503">
+    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1720558336" media="screen">
+    <link rel="stylesheet" href="/css/main.css?v=1720558336">
+    <link rel="stylesheet" href="/css/galleries.css?v=1720558336">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1720558336">
     
-    <link rel="stylesheet" href="/css/tags-wrap.css?v=1720467503" media="screen">
-    <link rel="stylesheet" href="/css/journal.css?v=1720467503" media="screen">
+    <link rel="stylesheet" href="/css/tags-wrap.css?v=1720558336" media="screen">
+    <link rel="stylesheet" href="/css/journal.css?v=1720558336" media="screen">
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
         type="text/css">
@@ -114,7 +114,7 @@
           "headline": "Collector Of Jack",
           "keywords": "jack, daniel's, collector, blog, jd, whiskey, tennessee, jack daniel's tennessee whiskey, library",
           "description": "A Jack Daniel's Tennessee Whiskey Collector's Blog from Chris Hammond. Here you will find a library of documentation around Jack Daniel's bottles and various other rarities in the whiskey world.",
-          "articleBody": "{% for post in paginator.posts %}    {% assign post = site.posts.first %}    {% assign content = post.content %}                                {% if post.image %}        {% picture blogcrop {{ post.image }} --alt {{ post.title }} %}        {% endif %}                  {{ post.title }}                        {% if post.subtitle %}                {{ post.subtitle }}        {% endif %}                Posted on {{ post.date | date: \"%B %-d, %Y\" }}                    {% endfor %}    &nbsp;        {% if paginator.total_pages > 1 %}  {% if paginator.previous_page %}    &larr; Newer Posts    {% endif %}   Page {{paginator.page}} of {{paginator.total_pages}}  {% if paginator.next_page %}    Older Posts &rarr;    {% endif %}{% endif %}",
+          "articleBody": "{% for post in paginator.posts %}    {% assign post = site.posts.first %}    {% assign content = post.content %}                                      {% if post.image %}          {% picture blogcrop {{ post.image }} --alt {{ post.title }} %}          {% endif %}                      {{ post.title }}                              {% if post.subtitle %}                    {{ post.subtitle }}          {% endif %}                    Posted on {{ post.date | date: \"%B %-d, %Y\" }}                      {% endfor %}    &nbsp;        {% if paginator.total_pages > 1 %}  {% if paginator.previous_page %}    &larr; Newer Posts    {% endif %}   Page {{paginator.page}} of {{paginator.total_pages}}  {% if paginator.next_page %}    Older Posts &rarr;    {% endif %}{% endif %}",
 
           
           
@@ -170,9 +170,39 @@
             
 
             "itemCondition": "https://schema.org/NewCondition",
-            "availability": "https://schema.org/LimitedAvailability"
+            "availability": "https://schema.org/LimitedAvailability",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 15,
+              "returnMethod": "https://schema.org/ReturnInStore",
+              "returnFees": 50.00
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0.00,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 0,
+                  "unitCode": "DAY"
+                }
+              },
+              "shippingLabel": "No shipping offered"
+            }
+          }
         }
-      }
       </script>
 
       
@@ -262,27 +292,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/2019AdventCalendar">
+          
+          <img src="/images/generated/27/HolidayCalendar2019-1-800-413d622cf.jpg" alt="2019 Jack Daniel's Holiday Countdown Calendar" srcset="/images/generated/27/HolidayCalendar2019-1-200-413d622cf.jpg 200w, /images/generated/27/HolidayCalendar2019-1-400-413d622cf.jpg 400w, /images/generated/27/HolidayCalendar2019-1-800-413d622cf.jpg 800w, /images/generated/27/HolidayCalendar2019-1-1600-413d622cf.jpg 1600w, /images/generated/27/HolidayCalendar2019-1-2000-413d622cf.jpg 2000w">
 
-        <a href="/TennesseeApple">
-        
-        <img src="/images/generated/26/JackDanielsTennesseeApple-1-800-959f742a2.jpg" alt="Jack Daniel's Tennessee Apple" srcset="/images/generated/26/JackDanielsTennesseeApple-1-200-959f742a2.jpg 200w, /images/generated/26/JackDanielsTennesseeApple-1-400-959f742a2.jpg 400w, /images/generated/26/JackDanielsTennesseeApple-1-800-959f742a2.jpg 800w, /images/generated/26/JackDanielsTennesseeApple-1-1600-959f742a2.jpg 1600w, /images/generated/26/JackDanielsTennesseeApple-1-2000-959f742a2.jpg 2000w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            2019 Jack Daniel's Holiday Countdown Calendar
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Tennessee Apple
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on November 26, 2019</p>
-      </div>
-
+          Posted on December 19, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -292,27 +320,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/TennesseeApple">
+          
+          <img src="/images/generated/26/JackDanielsTennesseeApple-1-800-959f742a2.jpg" alt="Jack Daniel's Tennessee Apple" srcset="/images/generated/26/JackDanielsTennesseeApple-1-200-959f742a2.jpg 200w, /images/generated/26/JackDanielsTennesseeApple-1-400-959f742a2.jpg 400w, /images/generated/26/JackDanielsTennesseeApple-1-800-959f742a2.jpg 800w, /images/generated/26/JackDanielsTennesseeApple-1-1600-959f742a2.jpg 1600w, /images/generated/26/JackDanielsTennesseeApple-1-2000-959f742a2.jpg 2000w">
 
-        <a href="/HeritageBarrel2019">
-        
-        <img src="/images/generated/25/JackDanielsHeritageBarrel2019-1-800-c2f75c2ee.jpg" alt="Jack Daniel's Heritage Barrel 2019" srcset="/images/generated/25/JackDanielsHeritageBarrel2019-1-200-c2f75c2ee.jpg 200w, /images/generated/25/JackDanielsHeritageBarrel2019-1-400-c2f75c2ee.jpg 400w, /images/generated/25/JackDanielsHeritageBarrel2019-1-800-c2f75c2ee.jpg 800w, /images/generated/25/JackDanielsHeritageBarrel2019-1-1600-c2f75c2ee.jpg 1600w, /images/generated/25/JackDanielsHeritageBarrel2019-1-2000-c2f75c2ee.jpg 2000w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Tennessee Apple
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Heritage Barrel 2019
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on November 10, 2019</p>
-      </div>
-
+          Posted on November 26, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -322,27 +348,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/HeritageBarrel2019">
+          
+          <img src="/images/generated/25/JackDanielsHeritageBarrel2019-1-800-c2f75c2ee.jpg" alt="Jack Daniel's Heritage Barrel 2019" srcset="/images/generated/25/JackDanielsHeritageBarrel2019-1-200-c2f75c2ee.jpg 200w, /images/generated/25/JackDanielsHeritageBarrel2019-1-400-c2f75c2ee.jpg 400w, /images/generated/25/JackDanielsHeritageBarrel2019-1-800-c2f75c2ee.jpg 800w, /images/generated/25/JackDanielsHeritageBarrel2019-1-1600-c2f75c2ee.jpg 1600w, /images/generated/25/JackDanielsHeritageBarrel2019-1-2000-c2f75c2ee.jpg 2000w">
 
-        <a href="/JackDanielsEricChurch">
-        
-        <img src="/images/generated/24/EricChurch-5-800-ff140f706.jpg" alt="Jack Daniel's Single Barrel Eric Church (2019)" srcset="/images/generated/24/EricChurch-5-200-ff140f706.jpg 200w, /images/generated/24/EricChurch-5-400-ff140f706.jpg 400w, /images/generated/24/EricChurch-5-800-ff140f706.jpg 800w, /images/generated/24/EricChurch-5-1600-ff140f706.jpg 1600w, /images/generated/24/EricChurch-5-2000-ff140f706.jpg 2000w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Heritage Barrel 2019
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Single Barrel Eric Church (2019)
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on November 7, 2019</p>
-      </div>
-
+          Posted on November 10, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -352,27 +376,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/JackDanielsEricChurch">
+          
+          <img src="/images/generated/24/EricChurch-5-800-ff140f706.jpg" alt="Jack Daniel's Single Barrel Eric Church (2019)" srcset="/images/generated/24/EricChurch-5-200-ff140f706.jpg 200w, /images/generated/24/EricChurch-5-400-ff140f706.jpg 400w, /images/generated/24/EricChurch-5-800-ff140f706.jpg 800w, /images/generated/24/EricChurch-5-1600-ff140f706.jpg 1600w, /images/generated/24/EricChurch-5-2000-ff140f706.jpg 2000w">
 
-        <a href="/BottledInBond">
-        
-        <img src="/images/generated/23/BottledInBond-1-800-d694adc46.jpg" alt="Jack Daniel's Bottled in Bond" srcset="/images/generated/23/BottledInBond-1-200-d694adc46.jpg 200w, /images/generated/23/BottledInBond-1-400-d694adc46.jpg 400w, /images/generated/23/BottledInBond-1-800-d694adc46.jpg 800w, /images/generated/23/BottledInBond-1-1600-d694adc46.jpg 1600w, /images/generated/23/BottledInBond-1-2000-d694adc46.jpg 2000w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Single Barrel Eric Church (2019)
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Bottled in Bond
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on October 26, 2019</p>
-      </div>
-
+          Posted on November 7, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -382,27 +404,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/BottledInBond">
+          
+          <img src="/images/generated/23/BottledInBond-1-800-d694adc46.jpg" alt="Jack Daniel's Bottled in Bond" srcset="/images/generated/23/BottledInBond-1-200-d694adc46.jpg 200w, /images/generated/23/BottledInBond-1-400-d694adc46.jpg 400w, /images/generated/23/BottledInBond-1-800-d694adc46.jpg 800w, /images/generated/23/BottledInBond-1-1600-d694adc46.jpg 1600w, /images/generated/23/BottledInBond-1-2000-d694adc46.jpg 2000w">
 
-        <a href="/100Proof">
-        
-        <img src="/images/generated/22/SingleBarrel100Proof-1-800-0e4bbd781.jpg" alt="Jack Daniel's Single Barrel 100 Proof" srcset="/images/generated/22/SingleBarrel100Proof-1-200-0e4bbd781.jpg 200w, /images/generated/22/SingleBarrel100Proof-1-400-0e4bbd781.jpg 400w, /images/generated/22/SingleBarrel100Proof-1-800-0e4bbd781.jpg 800w, /images/generated/22/SingleBarrel100Proof-1-1600-0e4bbd781.jpg 1600w, /images/generated/22/SingleBarrel100Proof-1-2000-0e4bbd781.jpg 2000w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Bottled in Bond
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Single Barrel 100 Proof
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on October 7, 2019</p>
-      </div>
-
+          Posted on October 26, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -412,27 +432,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/100Proof">
+          
+          <img src="/images/generated/22/SingleBarrel100Proof-1-800-0e4bbd781.jpg" alt="Jack Daniel's Single Barrel 100 Proof" srcset="/images/generated/22/SingleBarrel100Proof-1-200-0e4bbd781.jpg 200w, /images/generated/22/SingleBarrel100Proof-1-400-0e4bbd781.jpg 400w, /images/generated/22/SingleBarrel100Proof-1-800-0e4bbd781.jpg 800w, /images/generated/22/SingleBarrel100Proof-1-1600-0e4bbd781.jpg 1600w, /images/generated/22/SingleBarrel100Proof-1-2000-0e4bbd781.jpg 2000w">
 
-        <a href="/Distillery150thAnniversary">
-        
-        <img src="/images/generated/21/JackDaniels150thDistillery-1-800-f7a87726f.jpg" alt="Jack Daniel Distillery 150th Anniversary" srcset="/images/generated/21/JackDaniels150thDistillery-1-200-f7a87726f.jpg 200w, /images/generated/21/JackDaniels150thDistillery-1-400-f7a87726f.jpg 400w, /images/generated/21/JackDaniels150thDistillery-1-800-f7a87726f.jpg 800w, /images/generated/21/JackDaniels150thDistillery-1-1600-f7a87726f.jpg 1600w, /images/generated/21/JackDaniels150thDistillery-1-1900-f7a87726f.jpg 1900w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Single Barrel 100 Proof
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel Distillery 150th Anniversary
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on July 16, 2019</p>
-      </div>
-
+          Posted on October 7, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -442,27 +460,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/Distillery150thAnniversary">
+          
+          <img src="/images/generated/21/JackDaniels150thDistillery-1-800-f7a87726f.jpg" alt="Jack Daniel Distillery 150th Anniversary" srcset="/images/generated/21/JackDaniels150thDistillery-1-200-f7a87726f.jpg 200w, /images/generated/21/JackDaniels150thDistillery-1-400-f7a87726f.jpg 400w, /images/generated/21/JackDaniels150thDistillery-1-800-f7a87726f.jpg 800w, /images/generated/21/JackDaniels150thDistillery-1-1600-f7a87726f.jpg 1600w, /images/generated/21/JackDaniels150thDistillery-1-1900-f7a87726f.jpg 1900w">
 
-        <a href="/LegacyEdition2">
-        
-        <img src="/images/generated/20/JDLegacyEdition2-1-800-0f0d797ba.jpg" alt="Jack Daniel's Legacy Edition 2" srcset="/images/generated/20/JDLegacyEdition2-1-200-0f0d797ba.jpg 200w, /images/generated/20/JDLegacyEdition2-1-400-0f0d797ba.jpg 400w, /images/generated/20/JDLegacyEdition2-1-800-0f0d797ba.jpg 800w, /images/generated/20/JDLegacyEdition2-1-1600-0f0d797ba.jpg 1600w, /images/generated/20/JDLegacyEdition2-1-2000-0f0d797ba.jpg 2000w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel Distillery 150th Anniversary
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Legacy Edition 2
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on July 5, 2019</p>
-      </div>
-
+          Posted on July 16, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -472,27 +488,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/LegacyEdition2">
+          
+          <img src="/images/generated/20/JDLegacyEdition2-1-800-0f0d797ba.jpg" alt="Jack Daniel's Legacy Edition 2" srcset="/images/generated/20/JDLegacyEdition2-1-200-0f0d797ba.jpg 200w, /images/generated/20/JDLegacyEdition2-1-400-0f0d797ba.jpg 400w, /images/generated/20/JDLegacyEdition2-1-800-0f0d797ba.jpg 800w, /images/generated/20/JDLegacyEdition2-1-1600-0f0d797ba.jpg 1600w, /images/generated/20/JDLegacyEdition2-1-2000-0f0d797ba.jpg 2000w">
 
-        <a href="/BarrelReunion1">
-        
-        <img src="/images/generated/19/CollectorOfJack-7-800-152c064d5.jpg" alt="Tennessee Tasters' Barrel Reunion #1" srcset="/images/generated/19/CollectorOfJack-7-200-152c064d5.jpg 200w, /images/generated/19/CollectorOfJack-7-400-152c064d5.jpg 400w, /images/generated/19/CollectorOfJack-7-800-152c064d5.jpg 800w, /images/generated/19/CollectorOfJack-7-1600-152c064d5.jpg 1600w, /images/generated/19/CollectorOfJack-7-2000-152c064d5.jpg 2000w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's Legacy Edition 2
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Tennessee Tasters' Barrel Reunion #1
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 18, 2019</p>
-      </div>
-
+          Posted on July 5, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -502,27 +516,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/BarrelReunion1">
+          
+          <img src="/images/generated/19/CollectorOfJack-7-800-152c064d5.jpg" alt="Tennessee Tasters' Barrel Reunion #1" srcset="/images/generated/19/CollectorOfJack-7-200-152c064d5.jpg 200w, /images/generated/19/CollectorOfJack-7-400-152c064d5.jpg 400w, /images/generated/19/CollectorOfJack-7-800-152c064d5.jpg 800w, /images/generated/19/CollectorOfJack-7-1600-152c064d5.jpg 1600w, /images/generated/19/CollectorOfJack-7-2000-152c064d5.jpg 2000w">
 
-        <a href="/150thAnniversary">
-        
-        <img src="/images/generated/18/Jack150Box-800-c40761bb2.jpg" alt="Jack Daniel's 150th Anniversary Tennessee Whiskey Bottle + Box" srcset="/images/generated/18/Jack150Box-200-c40761bb2.jpg 200w, /images/generated/18/Jack150Box-400-c40761bb2.jpg 400w, /images/generated/18/Jack150Box-800-c40761bb2.jpg 800w, /images/generated/18/Jack150Box-1600-c40761bb2.jpg 1600w, /images/generated/18/Jack150Box-2000-c40761bb2.jpg 2000w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Tennessee Tasters' Barrel Reunion #1
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's 150th Anniversary Tennessee Whiskey Bottle + Box 
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 18, 2019</p>
-      </div>
-
+          Posted on June 18, 2019</p>
+        </div>
       </div>
     </li>
     
@@ -532,27 +544,25 @@ style="margin-right:1em; z-index: 10;">
 
     <li class="block">
       <div class="postArticle-wrapper">
+        <div class="post-preview"
+          style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+          <a href="/150thAnniversary">
+          
+          <img src="/images/generated/18/Jack150Box-800-c40761bb2.jpg" alt="Jack Daniel's 150th Anniversary Tennessee Whiskey Bottle + Box" srcset="/images/generated/18/Jack150Box-200-c40761bb2.jpg 200w, /images/generated/18/Jack150Box-400-c40761bb2.jpg 400w, /images/generated/18/Jack150Box-800-c40761bb2.jpg 800w, /images/generated/18/Jack150Box-1600-c40761bb2.jpg 1600w, /images/generated/18/Jack150Box-2000-c40761bb2.jpg 2000w">
 
-        <a href="/JackDanielsTennesseeRye">
-        
-        <img src="/images/generated/17/JackDanielsRye1L-1-800-abef47777.jpg" alt="Jack Daniel's Tennessee Rye" srcset="/images/generated/17/JackDanielsRye1L-1-200-abef47777.jpg 200w, /images/generated/17/JackDanielsRye1L-1-400-abef47777.jpg 400w, /images/generated/17/JackDanielsRye1L-1-800-abef47777.jpg 800w, /images/generated/17/JackDanielsRye1L-1-1600-abef47777.jpg 1600w, /images/generated/17/JackDanielsRye1L-1-1900-abef47777.jpg 1900w">
+          
+          <p class="post-title"
+            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+            Jack Daniel's 150th Anniversary Tennessee Whiskey Bottle + Box 
+          </p>
+          </a>
+          
 
-        
-        <p class="post-title"
+          <p class="post-meta"
           style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          Jack Daniel's Tennessee Rye
-        </p>
-        </a>
-        
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on June 18, 2019</p>
-      </div>
-
+          Posted on June 18, 2019</p>
+        </div>
       </div>
     </li>
     

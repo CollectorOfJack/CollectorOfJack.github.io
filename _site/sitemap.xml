@@ -86,7 +86,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/100Proof</loc>
-<lastmod>2024-07-01T10:55:45-05:00</lastmod>
+<lastmod>2024-07-08T18:55:45-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/BottledInBond</loc>
@@ -142,7 +142,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/JackDanielsRiverboatCaptainBottle</loc>
-<lastmod>2024-07-01T10:55:45-05:00</lastmod>
+<lastmod>2024-07-09T10:55:45-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/JackDanielBirthday160Bottle</loc>
@@ -290,7 +290,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/mclaren2024</loc>
-<lastmod>2024-07-01T10:55:45-05:00</lastmod>
+<lastmod>2024-07-08T15:55:45-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/highrollerstraightbourbonwhiskey</loc>
@@ -298,11 +298,15 @@
 </url>
 <url>
 <loc>http://localhost:4000/DistillerySeries008</loc>
-<lastmod>2024-07-07T10:00:00-05:00</lastmod>
+<lastmod>2024-07-08T18:23:45-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/DistillerySeries009</loc>
-<lastmod>2024-07-07T11:00:00-05:00</lastmod>
+<lastmod>2024-07-08T18:43:45-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/DistillerySeries010</loc>
+<lastmod>2024-07-08T18:55:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/contact</loc>
@@ -668,6 +672,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/oak/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/toasted/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/pecan/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
