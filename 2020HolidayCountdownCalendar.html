@@ -71,21 +71,21 @@
 		<!-- Custom CSS -->
 		<link
 			rel="stylesheet"
-			href="/css/WYSIWYG.css?v=1720556532"
+			href="/css/WYSIWYG.css?v=1720558570"
 			media="screen"
 		/>
-		<link rel="stylesheet" href="/css/main.css?v=1720556532" />
-		<link rel="stylesheet" href="/css/galleries.css?v=1720556532" />
-		<link rel="stylesheet" href="/css/magnificpopup.css?v=1720556532" />
+		<link rel="stylesheet" href="/css/main.css?v=1720558570" />
+		<link rel="stylesheet" href="/css/galleries.css?v=1720558570" />
+		<link rel="stylesheet" href="/css/magnificpopup.css?v=1720558570" />
 
 		<link
 			rel="stylesheet"
-			href="/css/tags-wrap.css?v=1720556532"
+			href="/css/tags-wrap.css?v=1720558570"
 			media="screen"
 		/>
 		<link
 			rel="stylesheet"
-			href="/css/journal.css?v=1720556532"
+			href="/css/journal.css?v=1720558570"
 			media="screen"
 		/>
 		<!-- Custom Fonts -->
@@ -242,7 +242,37 @@
 					"price": "149.99",
 
 					"itemCondition": "https://schema.org/NewCondition",
-					"availability": "https://schema.org/LimitedAvailability"
+					"availability": "https://schema.org/LimitedAvailability",
+					"hasMerchantReturnPolicy": {
+						"@type": "MerchantReturnPolicy",
+						"applicableCountry": "US",
+						"returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+						"merchantReturnDays": 15,
+						"returnMethod": "https://schema.org/ReturnInStore",
+						"returnFees": 50.0
+					},
+					"shippingDetails": {
+						"@type": "OfferShippingDetails",
+						"shippingRate": {
+							"@type": "MonetaryAmount",
+							"value": 0.0,
+							"currency": "USD"
+						},
+						"shippingDestination": {
+							"@type": "DefinedRegion",
+							"addressCountry": "US"
+						},
+						"deliveryTime": {
+							"@type": "ShippingDeliveryTime",
+							"transitTime": {
+								"@type": "QuantitativeValue",
+								"minValue": 0,
+								"maxValue": 0,
+								"unitCode": "DAY"
+							}
+						},
+						"shippingLabel": "No shipping offered"
+					}
 				}
 			}
 		</script>
