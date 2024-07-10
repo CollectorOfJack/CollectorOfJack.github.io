@@ -57,7 +57,7 @@ As with the 008 and 009 release, I picked this bottle up after a hockey tourname
 > SELECTED BY WHISKEY TASTER, RANDY BAXTER
 
 ## The Rear of the Label Reads
-> Just in time for the Holidays, Tennessee Whiskey finish with toasted pecan wood chips in our handcrafted, charred, white oak barrels.
+> Just in time for the Holidays, Tennessee Whiskey finish with toasted pecan wood chips in our handcrafted, charred, white oak barrels.  
 > Each sip coats the palate with warm brown sugar, light savory nuttiness, and toasted oak with lingering hints of dried fruits and a touch of caramel warmth.
 
 ## Where to find the Jack Daniel's Distillery Series Straight Tennessee Whiskey Finished With Toasted Pecan Wood Chips
