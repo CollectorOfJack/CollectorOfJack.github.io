@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jack Daniel's Distillery Series 010 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels"
+title: "Jack Daniel's Distillery Series 011 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels"
 date: '2024-07-10T10:55:00+00:00'
 permalink: DistillerySeries011
 image: 78/DistillerySeries011-1.jpg
@@ -10,16 +10,16 @@ author: ChrisHammond
 gallery:
   DistillerySeries011:
   - image_path: 78/DistillerySeries011-1.jpg
-    image-caption: Jack Daniel's Distillery Series 010 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels Front of Bottle
+    image-caption: Jack Daniel's Distillery Series 011 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels Front of Bottle
     image-copyright: CollectorOfJack.com
   - image_path: 78/DistillerySeries011-2.jpg
-    image-caption: Jack Daniel's Distillery Series 010 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels Front of Bottle
+    image-caption: Jack Daniel's Distillery Series 011 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels Front of Bottle
     image-copyright: CollectorOfJack.com
   - image_path: 78/DistillerySeries011-3.jpg
-    image-caption: Jack Daniel's Distillery Series 010 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels Side/Rear of Bottle
+    image-caption: Jack Daniel's Distillery Series 011 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels Side/Rear of Bottle
     image-copyright: CollectorOfJack.com
 
-categories: [ Distillery Series, Tasters, Box, 375ml, Toasted, Añejo, Tequila ]
+categories: [ Distillery Series, Tasters, Box, 375ml, Añejo, Tequila ]
 price: 199.99
 brand: "Jack Daniel's"
 # last_modified_at: '2024-07-07T15:55:45+00:00'
