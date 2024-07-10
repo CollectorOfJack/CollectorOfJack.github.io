@@ -26,7 +26,9 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 ## Items for I'm Looking For
 * Jack Daniel's Alabama Bicentennial
 * Jack Daniel's Silver Cornet Decanter
-* 1915 Gold Medal Series Box
+* 1904 [Gold Medal Series](/series/gold-medal) w/ box
+* 1905 [Gold Medal Series](/series/gold-medal) w/ or w/out box
+* 1915 [Gold Medal Series](/series/gold-medal) Box
 * [Jack Daniel's Special Release Coy Hill High Proof](/JackDanielsSpecialReleaseCoyHillHighProof)
 * [Jack Daniel's Small Batch Coy Hill](/SmallBatchCoyHill2022)
 * Sinatra Select Century
