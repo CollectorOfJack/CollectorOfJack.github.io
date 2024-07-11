@@ -20,7 +20,7 @@ gallery:
     image-caption: Jack Daniel's Bonded Tennessee Whiskey
     image-copyright: CollectorOfJack.com
 categories: [ Bonded, Bottled in Bond, 100Proof, 700ml ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+last_modified_at: '2024-07-10T23:55:45+00:00'
 price: 45.99
 brand: "Jack Daniel's"
 ---
