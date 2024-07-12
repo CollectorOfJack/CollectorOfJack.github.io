@@ -2,11 +2,11 @@
 layout: post
 title: Jack Daniel's Riverboat Captain's Bottle
 date: '2020-09-13T22:00:00+00:00'
-last_modified_at: '2024-07-09T15:55:45+00:00'
+last_modified_at: '2024-07-10T23:55:45+00:00'
 permalink: JackDanielsRiverboatCaptainBottle
 image: 36/RiverboatCaptain-1.jpg
 description: "Jack Daniel's Riverboat Captain's Bottle and box from 1987"
-keywords: "jack daniel's, riverboat captain, riverboat, captain, bottle, 1.75L, box, collectible, value, price"
+keywords: "jack daniel's, riverboat captain, riverboat, captain, bottle, 1.75L, box, collectible, value, price, decanter"
 gallery:
   JackDanielsRiverboatCaptainBottle:
   - image_path: 36/RiverboatCaptain-1.jpg
@@ -70,8 +70,7 @@ categories: [ Riverboat Captain, Box, 1.75L ]
 price: 799.99
 brand: "Jack Daniel's"
 ---
-
-In September 2020, I received an email via my website asking if I might be interested in a bottle for sale. 
+In September 2020, I received an email via my website asking if I might be interested in a bottle / decanter for sale. 
 
 > I am in the process of liquidating estate items.  One of the items is a Jack Daniels decanter "Riverboat Captain's Bottle".  I have not found any way to sell on the internet and maybe you have some idea how to sell to a collector.  This is an unsealed full bottle of 90 proof.  It also has the box, and tag (unregistered).  I would be glad to send pictures if I had your email address.  
 
