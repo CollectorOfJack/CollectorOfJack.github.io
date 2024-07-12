@@ -7,6 +7,7 @@ image: "about-bg-1.jpg"
 redirect_from: 
   - "Terms"
   - "Privacy"
+product: false
 ---
 Terms of Service for CollectorOfJack.com
 

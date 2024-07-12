@@ -11,6 +11,7 @@ date: '2018-11-18T13:36:55+00:00'
 last_modified_at: '2024-07-02T15:55:45+00:00'
 redirect_from:
   - /category/
+product: false
 ---
 <h1>{{ site.title }} - Categories</h1>
 
