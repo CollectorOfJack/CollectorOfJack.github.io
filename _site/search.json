@@ -172,7 +172,7 @@
   } ,
   
   {
-    "title"  : "Jack-Daniels-Bonded-Tennessee-Whiskey",
+    "title"  : "Jack Daniel&#39;s Bonded Tennessee Whiskey",
     "category" : "",
     "tags"   : "",
     "url"    : "/JackDanielsBondedTennesseeWhiskey",
@@ -730,7 +730,7 @@
     "tags"   : "",
     "url"    : "/series/gold-medal",
     "date"   : "2024-07-10T11:55:00+00:00",
-    "content"   : "<p>The Jack Daniel’s Gold Medal Series commemorates the distillery’s numerous accolades and awards achieved over its long history. Each bottle in the series marks a specific event where Jack Daniel’s whiskey received a gold medal or similar recognition, showcasing the brand’s commitment to quality and craftsmanship. The series highlights significant milestones and honors that have contributed to the global prestige of Jack Daniel’s whiskey.</p>\n\n<p>Each bottle came with a box and the value of each can go up significantly with a box in great condition.</p>\n\n<h2 id=\"jack-daniels-gold-medal-series-list\">Jack Daniel’s Gold Medal Series List</h2>\n<ol>\n  <li>1904 St. Louis World’s Fair\n    <ul>\n      <li>The first gold medal won by Jack Daniel’s at the 1904 St. Louis World’s Fair, signifying the start of its international acclaim.</li>\n    </ul>\n  </li>\n  <li>1905 Liege, Belgium\n    <blockquote>\n      <p>Recognition at the Liege Exposition Universelle, further solidifying Jack Daniel’s reputation in Europe.</p>\n    </blockquote>\n  </li>\n  <li>1913 Ghent, Belgium\n    <blockquote>\n      <p>Awarded a gold medal at the Exposition Universelle et Internationale in Ghent.</p>\n    </blockquote>\n  </li>\n  <li>1914 London, England\n    <blockquote>\n      <p>Honored at the Anglo-American Exposition in London, marking a significant achievement in the UK.</p>\n    </blockquote>\n  </li>\n  <li>1915 San Francisco, California\n    <blockquote>\n      <p>Gold medal awarded at the Panama-Pacific International Exposition in San Francisco.</p>\n    </blockquote>\n  </li>\n  <li>1954 Brussels, Belgium\n    <blockquote>\n      <p>Recognition at the Brussels Exposition, highlighting the brand’s continuous excellence.</p>\n    </blockquote>\n  </li>\n  <li>1981 Amsterdam, Netherlands\n    <blockquote>\n      <p>Commemoration of the 1981 gold medal awarded at the International Wine and Spirits Competition in Amsterdam.</p>\n    </blockquote>\n  </li>\n</ol>\n"
+    "content"   : "<p>The Jack Daniel’s Gold Medal Series commemorates the distillery’s numerous accolades and awards achieved over its long history. Each bottle in the series marks a specific event where Jack Daniel’s whiskey received a gold medal or similar recognition, showcasing the brand’s commitment to quality and craftsmanship. The series highlights significant milestones and honors that have contributed to the global prestige of Jack Daniel’s whiskey.</p>\n\n<p>Each bottle came with a box and the value of each can go up significantly with a box in great condition.</p>\n\n<h2 id=\"jack-daniels-gold-medal-series-list\">Jack Daniel’s Gold Medal Series List</h2>\n<ol>\n  <li>1904 St. Louis World’s Fair\n    <ul>\n      <li>The first gold medal won by Jack Daniel’s at the 1904 St. Louis World’s Fair, signifying the start of its international acclaim.</li>\n    </ul>\n  </li>\n  <li>1905 Liege, Belgium\n    <ul>\n      <li>Recognition at the Liege Exposition Universelle, further solidifying Jack Daniel’s reputation in Europe.</li>\n    </ul>\n  </li>\n  <li>1913 Ghent, Belgium\n    <ul>\n      <li>Awarded a gold medal at the Exposition Universelle et Internationale in Ghent.</li>\n    </ul>\n  </li>\n  <li>1914 London, England\n    <ul>\n      <li>Honored at the Anglo-American Exposition in London, marking a significant achievement in the UK.</li>\n    </ul>\n  </li>\n  <li>1915 San Francisco, California\n    <ul>\n      <li>Gold medal awarded at the Panama-Pacific International Exposition in San Francisco.</li>\n    </ul>\n  </li>\n  <li>1954 Brussels, Belgium\n    <ul>\n      <li>Recognition at the Brussels Exposition, highlighting the brand’s continuous excellence.</li>\n    </ul>\n  </li>\n  <li>1981 Amsterdam, Netherlands\n    <ul>\n      <li>Commemoration of the 1981 gold medal awarded at the International Wine and Spirits Competition in Amsterdam.</li>\n    </ul>\n  </li>\n</ol>\n"
    
    } ,
   
@@ -783,6 +783,17 @@
    } ,
   
    {
+   
+   } ,
+  
+   {
+   
+    "title"  : "Shipping and Return Policy",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/shipping-return-policy",
+    "date"   : "",
+    "content"   : "## Shipping Policy\r\nWe currently do not offer shipping for any alcohol products. All trades must be picked up in-person. \r\n\r\n## Return Policy\r\nAll trades are final. We do not accept returns or exchanges for any products once they have been received. Please ensure that you are completely satisfied with your transaction before completing the transaction.\r\n"
    
    } ,
   
