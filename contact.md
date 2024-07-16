@@ -7,6 +7,7 @@ type: website
 image: contact-1.jpg
 description: "Looking to connect with CollectorOfJack?"
 permalink: /contact
+product: false
 ---
 Do you have a Jack Daniel's collection that you're looking to find a buyer for? I might be interested, especially if you are in driving distance from St. Louis, Missouri.
 
