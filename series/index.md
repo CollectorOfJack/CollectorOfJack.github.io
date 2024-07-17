@@ -61,7 +61,7 @@ Celebrates the history of Jack Daniel's with retro labels and unique flavors.
 3. **Legacy Edition 3**
 
 
-## Gold Medal Series
+## [Gold Medal Series](/series/gold-medal)
 Commemorates the gold medals won by Jack Daniel's whiskey at various international expositions.
 1. **1904 St. Louis World's Fair**
 2. **1913 Ghent**
