@@ -9,7 +9,7 @@ image: TastersSeriesGroup-1.jpg
 permalink: series/tasters-distillery
 redirect_from: 
 categories: [ series, tasters, distillery, collections, "375ml" ]
-last_modified_at: '2024-07-08T11:36:45+00:00'
+last_modified_at: '2024-07-17T12:36:45+00:00'
 product: false
 ---
 The Jack Daniel's Tennessee Tasters' Series is a special line of limited-edition whiskeys from the iconic Jack Daniel's Distillery. This series is designed to offer whiskey enthusiasts unique and innovative whiskey selections. Each release in the series is selected by Jack Daniel's Master Tasters and showcases different methods of crafting whiskey, including varied grains, barrels, and maturation processes.
@@ -31,6 +31,6 @@ Both of these series have been released in simple 375ml bottles.
 8. [Distillery Series Maple Barrel Rye (2022)](/DistillerySeries008)
 9. [Distillery Series Toasted Oak Barrel Rye (2022)](/DistillerySeries009)
 10. [Distillery Series Pecan Wood (2022)](/DistillerySeries010)
-11. Distillery Series Anejo Tequila Barrels
+11. [Distillery Series Anejo Tequila Barrels (2022)](/DistillerySeries011)
 12. Distillery Series Oloroso Sherry Casks
-13. [Distillery Series Twice Barreled Tennessee Straight Rye Whiskey](/TwiceBarreledStraightRyeDistillerySeries)
+13. [Distillery Series Twice Barreled Tennessee Straight Rye Whiskey (@024)](/TwiceBarreledStraightRyeDistillerySeries)
