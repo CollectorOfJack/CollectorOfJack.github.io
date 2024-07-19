@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jack Daniel's Distillery Series 012 Straight Tennessee Whiskey Finished In Oloroso Sherry Casks"
-date: '2024-07-10T10:55:00+00:00'
+date: '2024-07-18T2-:55:00+00:00'
 permalink: DistillerySeries012
 image: 79/DistillerySeries012-1.jpg
 description: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 010, Straight Tennessee Whiskey Finished In Oloroso Sherry Casks"
