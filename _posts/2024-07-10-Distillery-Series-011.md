@@ -19,7 +19,7 @@ gallery:
     image-caption: Jack Daniel's Distillery Series 011 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels Side/Rear of Bottle
     image-copyright: CollectorOfJack.com
 
-categories: [ Distillery Series, Tasters, Box, 375ml, Añejo, Tequila ]
+categories: [ Distillery Series, Tasters, Box, 375ml, Añejo, Tequila, Reunion ]
 price: 199.99
 brand: "Jack Daniel's"
 # last_modified_at: '2024-07-07T15:55:45+00:00'
