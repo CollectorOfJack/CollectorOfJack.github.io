@@ -32,5 +32,5 @@ Both of these series have been released in simple 375ml bottles.
 9. [Distillery Series Toasted Oak Barrel Rye (2022)](/DistillerySeries009)
 10. [Distillery Series Pecan Wood (2022)](/DistillerySeries010)
 11. [Distillery Series Anejo Tequila Barrels (2022)](/DistillerySeries011)
-12. Distillery Series Oloroso Sherry Casks
+12. [Distillery Series Oloroso Sherry Casks](/DistillerySeries012)
 13. [Distillery Series Twice Barreled Tennessee Straight Rye Whiskey (@024)](/TwiceBarreledStraightRyeDistillerySeries)
