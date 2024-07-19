@@ -8,9 +8,8 @@ keywords: "Jack, Daniel, Series, Release, Whiskey"
 type: website
 image: JackDanielsGoldMedal-1.jpg
 permalink: series
-redirect_from: 
 categories: [ series, collections ]
-last_modified_at: '2024-07-11T11:56:45+00:00'
+last_modified_at: '2024-07-19T23:56:45+00:00'
 product: false
 ---
 Jack Daniel's has produced a variety of special series releases over the years, each with its unique characteristics and appeal. We are currently working out building documentation around all these releases!
@@ -39,7 +38,7 @@ Limited releases hand-selected by Jack Daniel's tasters and employees.
 9. [Distillery Series Toasted Oak Barrel Rye (2022)](/DistillerySeries009)
 10. [Distillery Series Pecan Wood (2022)](/DistillerySeries010)
 11. [Distillery Series Anejo Tequila Barrels (2022)](/DistillerySeries011)
-12. Distillery Series Oloroso Sherry Casks
+12. [Distillery Series Oloroso Sherry Casks](/DistillerySeries012)
 13. [Distillery Series Twice Barreled Tennessee Straight Rye Whiskey (2024)](/TwiceBarreledStraightRyeDistillerySeries)
 
 
