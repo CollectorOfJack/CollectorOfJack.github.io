@@ -69,6 +69,13 @@ Commemorates the gold medals won by Jack Daniel's whiskey at various internation
 5. **1954 Brussels**
 6. **1981 Amsterdam**
 
+## Special Release - Heritage
+1. [2018 Special Release Heritage](/HeritageBarrel)
+2. [2019 Special Release Heritage](/HeritageBarrel2019)
+3. [2020 Special Release Barrel Proof Rye](/2020SpecialRelease)
+4. [2021 Special Release Coy Hill](/JackDanielsSpecialReleaseCoyHillHighProof)
+5. [2022 Special Release Twice Barreled Single Malt](/TwiceBarreledAmericanMalt)
+6. [2023 Special Release Coy Hill](/TwiceBarreledRye)
 
 ## Sinatra Select
 A special edition honoring Frank Sinatra's love for Jack Daniel's.
@@ -78,7 +85,7 @@ A special edition honoring Frank Sinatra's love for Jack Daniel's.
 
 ## Bottled-in-Bond
 Honors the Bottled-in-Bond Act of 1897, ensuring quality and authenticity.
-1. **Bottled-in-Bond**
+1. **[Bottled-in-Bond](/BottledInBond)**
 
 ## Gentleman Jack
 Double mellowed for exceptional smoothness.
