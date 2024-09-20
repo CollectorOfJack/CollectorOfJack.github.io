@@ -180,6 +180,9 @@
             "image": "{{ site.url }}{% if page.image %}{% picture direct {{ page.image }} %}{% else %}{{ site.header-img }}{% endif %}", 
             "description": {{ page.description | strip_html | strip_newlines | strip | jsonify }},
             "sku": "{{ page.url }}",
+            {% if page.gtin %}
+              "gtin12": "{{ page.gtin }}",
+            {% endif %}
             {% if page.brand %}
             "brand": {
                 "@type": "Brand",
