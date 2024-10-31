@@ -1193,6 +1193,28 @@
   
    {
    
+    "title"  : "Winter Jack",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/winter-jack/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
+    "title"  : "Cider",
+    "category" : "",
+    "tags"   : "",
+    "url"    : "/category/cider/",
+    "date"   : "",
+    "content"   : null
+   
+   } ,
+  
+   {
+   
     "title"  : "Red Dog Saloon",
     "category" : "",
     "tags"   : "",
@@ -1219,28 +1241,6 @@
     "category" : "",
     "tags"   : "",
     "url"    : "/category/lynchburg/",
-    "date"   : "",
-    "content"   : null
-   
-   } ,
-  
-   {
-   
-    "title"  : "Winter Jack",
-    "category" : "",
-    "tags"   : "",
-    "url"    : "/category/winter-jack/",
-    "date"   : "",
-    "content"   : null
-   
-   } ,
-  
-   {
-   
-    "title"  : "Cider",
-    "category" : "",
-    "tags"   : "",
-    "url"    : "/category/cider/",
     "date"   : "",
     "content"   : null
    
