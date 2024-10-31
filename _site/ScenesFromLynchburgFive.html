@@ -14,8 +14,12 @@
     
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Jack Daniel's Scenes From Lynchburg Number Five - CollectorOfJack.com</title>
-
+    <title>
+      
+      Jack Daniel's Scenes From Lynchburg Number Five - CollectorOfJack.com
+  
+    </title>
+    
     
     <meta property="og:url" content="http://localhost:4000/ScenesFromLynchburgFive" />
     <meta property="og:image" content="http://localhost:4000/images/generated/46/ScenesOfLynchburg5-1-1600-989ad71d5.jpg" />
@@ -49,13 +53,13 @@
 
 
     <!-- Custom CSS -->   
-    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1721238178" media="screen">
-    <link rel="stylesheet" href="/css/main.css?v=1721238178">
-    <link rel="stylesheet" href="/css/galleries.css?v=1721238178">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1721238178">
+    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1730403987" media="screen">
+    <link rel="stylesheet" href="/css/main.css?v=1730403987">
+    <link rel="stylesheet" href="/css/galleries.css?v=1730403987">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1730403987">
     
-    <link rel="stylesheet" href="/css/tags-wrap.css?v=1721238178" media="screen">
-    <link rel="stylesheet" href="/css/journal.css?v=1721238178" media="screen">
+    <link rel="stylesheet" href="/css/tags-wrap.css?v=1730403987" media="screen">
+    <link rel="stylesheet" href="/css/journal.css?v=1730403987" media="screen">
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
         type="text/css">
@@ -169,6 +173,7 @@
             "description": "Jack Daniel's Scenes From Lynchburg Number Five",
             "sku": "/ScenesFromLynchburgFive",
             
+            
             "brand": {
                 "@type": "Brand",
                 "name": "Jack Daniel's"
@@ -254,19 +259,16 @@ style="margin-right:1em; z-index: 10;">
 
             <script src="/js/lunr.js"></script>
 
-
 <style>
-    .lunrsearchresult .title {color: #523615;}
-    .lunrsearchresult .url {color: silver; word-break: break-all;}
-    .lunrsearchresult .body {display:none;}
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
     .lunrsearchresult a {display: block; color: #777;}
     .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
     .lunrsearchresult a:hover .title {text-decoration: underline;}
 </style>
 
-
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search: Type and then hit enter..."/>
+<form role="search" class="bd-search" onsubmit="return sanitizeAndSearch();">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search: Type and enter..."/>
 </form>
 
 <div id="lunrsearchresults">
@@ -274,6 +276,23 @@ style="margin-right:1em; z-index: 10;">
 </div>
 
 <script src="/js/lunrsearchengine.js"></script>
+
+<script>
+    function sanitizeAndSearch() {
+        const searchBox = document.getElementById('lunrsearch');
+        const originalValue = searchBox.value;
+
+        // Sanitize the search input
+        const sanitizedValue = originalValue.replace(/[<>\/\\{}()$&+%#'"`]/g, '');
+
+        // Set the sanitized value back to the input field (optional)
+        searchBox.value = sanitizedValue;
+
+        // Pass sanitized value to lunr_search function
+        return lunr_search(sanitizedValue);
+    }
+</script>
+
     </div>
     <!-- /.navbar-collapse -->
     <!-- /.container -->

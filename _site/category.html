@@ -14,8 +14,12 @@
     
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Categories - CollectorOfJack.com</title>
-
+    <title>
+      
+      Categories - CollectorOfJack.com
+  
+    </title>
+    
     
     <meta property="og:url" content="http://localhost:4000/category" />
     <meta property="og:image" content="http://localhost:4000" />
@@ -49,13 +53,13 @@
 
 
     <!-- Custom CSS -->   
-    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1721238178" media="screen">
-    <link rel="stylesheet" href="/css/main.css?v=1721238178">
-    <link rel="stylesheet" href="/css/galleries.css?v=1721238178">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1721238178">
+    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1730403987" media="screen">
+    <link rel="stylesheet" href="/css/main.css?v=1730403987">
+    <link rel="stylesheet" href="/css/galleries.css?v=1730403987">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1730403987">
     
-    <link rel="stylesheet" href="/css/tags-wrap.css?v=1721238178" media="screen">
-    <link rel="stylesheet" href="/css/journal.css?v=1721238178" media="screen">
+    <link rel="stylesheet" href="/css/tags-wrap.css?v=1730403987" media="screen">
+    <link rel="stylesheet" href="/css/journal.css?v=1730403987" media="screen">
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
         type="text/css">
@@ -176,19 +180,16 @@ style="margin-right:1em; z-index: 10;">
 
             <script src="/js/lunr.js"></script>
 
-
 <style>
-    .lunrsearchresult .title {color: #523615;}
-    .lunrsearchresult .url {color: silver; word-break: break-all;}
-    .lunrsearchresult .body {display:none;}
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
     .lunrsearchresult a {display: block; color: #777;}
     .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
     .lunrsearchresult a:hover .title {text-decoration: underline;}
 </style>
 
-
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search: Type and then hit enter..."/>
+<form role="search" class="bd-search" onsubmit="return sanitizeAndSearch();">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search: Type and enter..."/>
 </form>
 
 <div id="lunrsearchresults">
@@ -196,6 +197,23 @@ style="margin-right:1em; z-index: 10;">
 </div>
 
 <script src="/js/lunrsearchengine.js"></script>
+
+<script>
+    function sanitizeAndSearch() {
+        const searchBox = document.getElementById('lunrsearch');
+        const originalValue = searchBox.value;
+
+        // Sanitize the search input
+        const sanitizedValue = originalValue.replace(/[<>\/\\{}()$&+%#'"`]/g, '');
+
+        // Set the sanitized value back to the input field (optional)
+        searchBox.value = sanitizedValue;
+
+        // Pass sanitized value to lunr_search function
+        return lunr_search(sanitizedValue);
+    }
+</script>
+
     </div>
     <!-- /.navbar-collapse -->
     <!-- /.container -->
@@ -308,6 +326,8 @@ style="margin-right:1em; z-index: 10;">
   
     <a href="/category/chatgpt/" id="ChatGPT" class="btn-primary btn-category">ChatGPT</a>
   
+    <a href="/category/cider/" id="Cider" class="btn-primary btn-category">Cider</a>
+  
     <a href="/category/cinnamon/" id="Cinnamon" class="btn-primary btn-category">Cinnamon</a>
   
     <a href="/category/collection/" id="Collection" class="btn-primary btn-category">Collection</a>
@@ -386,6 +406,8 @@ style="margin-right:1em; z-index: 10;">
   
     <a href="/category/oatmeal-stout/" id="Oatmeal-Stout" class="btn-primary btn-category">Oatmeal Stout</a>
   
+    <a href="/category/oloroso/" id="Oloroso" class="btn-primary btn-category">Oloroso</a>
+  
     <a href="/category/other/" id="Other" class="btn-primary btn-category">Other</a>
   
     <a href="/category/pecan/" id="Pecan" class="btn-primary btn-category">Pecan</a>
@@ -411,6 +433,8 @@ style="margin-right:1em; z-index: 10;">
     <a href="/category/sedalia/" id="Sedalia" class="btn-primary btn-category">Sedalia</a>
   
     <a href="/category/seized/" id="Seized" class="btn-primary btn-category">Seized</a>
+  
+    <a href="/category/sherry/" id="Sherry" class="btn-primary btn-category">Sherry</a>
   
     <a href="/category/shot-glass/" id="Shot-Glass" class="btn-primary btn-category">Shot Glass</a>
   
@@ -465,6 +489,8 @@ style="margin-right:1em; z-index: 10;">
     <a href="/category/whiskey-still/" id="Whiskey-Still" class="btn-primary btn-category">Whiskey Still</a>
   
     <a href="/category/winter/" id="Winter" class="btn-primary btn-category">Winter</a>
+  
+    <a href="/category/winter-jack/" id="Winter-Jack" class="btn-primary btn-category">Winter Jack</a>
   
     <a href="/category/woodford-reserve/" id="Woodford-Reserve" class="btn-primary btn-category">Woodford Reserve</a>
   

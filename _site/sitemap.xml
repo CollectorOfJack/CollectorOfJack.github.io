@@ -82,7 +82,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/Distillery150thAnniversary</loc>
-<lastmod>2024-07-01T10:55:45-05:00</lastmod>
+<lastmod>2024-09-20T03:55:45-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/100Proof</loc>
@@ -313,6 +313,14 @@
 <lastmod>2024-07-10T05:55:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/DistillerySeries012</loc>
+<lastmod>2024-07-18T17:55:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/WinerJack2024</loc>
+<lastmod>2024-10-31T08:55:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/contact</loc>
 </url>
 <url>
@@ -330,7 +338,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/series</loc>
-<lastmod>2024-07-11T06:56:45-05:00</lastmod>
+<lastmod>2024-07-19T18:56:45-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/terms/</loc>
@@ -340,7 +348,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/series/tasters-distillery</loc>
-<lastmod>2024-07-17T07:36:45-05:00</lastmod>
+<lastmod>2024-07-18T17:36:45-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/category/about/</loc>
@@ -428,6 +436,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/lynchburg/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/winter-jack/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/cider/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/category/rye/</loc>
@@ -698,6 +712,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/tequila/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/oloroso/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/sherry/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
