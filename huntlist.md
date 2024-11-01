@@ -36,10 +36,8 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 * [2023 Special Release Twice Barreled Tennessee Rye](/TwiceBarreledRye)
 * Jack Daniel's American Single Malt (Duty Free or Miltary Purchase)
 * Jack Daniel's Distillery Series #10 (Pecan)
-* Jack Daniel's 10 Year Batch 3
-* Jack Daniel's 12 Year Batch 1
-* Jack Daniel's 12 Year Batch 2
 * Jack Daniel's 1895 Replica Bottle Whiskey
+* Jack Daniel's Special Release 2024 Coy Hill
 
 ## Items Available For Trade
 * [Gentleman Jack Limited Edition Time Piece Bottle](https://collectorofjack.com/GentlemanJackTimePiece)
@@ -69,3 +67,6 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 * [Jack Daniel's Special Release Coy Hill High Proof](/JackDanielsSpecialReleaseCoyHillHighProof)
 * [Jack Daniel's 10 Years Old Tennessee Whiskey Batch 1](/JackDaniels10Year)
 * Jack Daniel's 10 Year Batch 2
+* Jack Daniel's 10 Year Batch 3
+* Jack Daniel's 12 Year Batch 1
+* Jack Daniel's 12 Year Batch 2
