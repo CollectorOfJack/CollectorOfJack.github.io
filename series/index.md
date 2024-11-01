@@ -39,7 +39,7 @@ Limited releases hand-selected by Jack Daniel's tasters and employees.
 10. [Distillery Series Pecan Wood (2022)](/DistillerySeries010)
 11. [Distillery Series Anejo Tequila Barrels (2022)](/DistillerySeries011)
 12. [Distillery Series Oloroso Sherry Casks](/DistillerySeries012)
-13. [Distillery Series Twice Barreled Tennessee Straight Rye Whiskey (2024)](/TwiceBarreledStraightRyeDistillerySeries)
+13. [Distillery Series Twice Barreled Tennessee Straight Rye Whiskey (2024)](/DistillerySeries013)
 
 
 ## Master Distiller Series
