@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jack Daniel's Visit June 2021
+description: "A blog post about my visit to Lynchburg Tennessee in June 2021, which coincided with the Green Family reunion weekend."
 date: '2021-06-19T16:20:00+00:00'
 permalink: JackDanielsDistilleryVisit2021
 image: 47/Trip20216-16-2021-4.jpg
@@ -84,7 +85,7 @@ gallery:
     image-caption: Nearest Green Distillery
     image-copyright: © CollectorOfJack.com 
 categories: [ Travel, Tennesseee, Nearest Green, Uncle Nearest ] 
-last_modified_at: '2024-07-01T15:55:45+00:00'
+last_modified_at: '2024-11-15T10:23:45+00:00'
 product: false
 ---
 

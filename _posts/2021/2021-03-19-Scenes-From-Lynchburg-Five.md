@@ -2,9 +2,10 @@
 layout: post
 title: Jack Daniel's Scenes From Lynchburg Number Five
 date: '2021-03-19T08:20:00+00:00'
+last_modified_at: '2024-11-15T10:23:45+00:00'
 permalink: ScenesFromLynchburgFive
 image: 46/ScenesOfLynchburg5-1.jpg
-description: Jack Daniel's Scenes From Lynchburg Number Five
+description: "Jack Daniel's Scenes From Lynchburg Number Five, a series of bottles released with images from around Lynchburg Tennessee."
 gallery:
   ScenesFromLynchburgFive:
   - image_path: 46/ScenesOfLynchburg5-1.jpg
@@ -58,5 +59,11 @@ In the United States the bottle was released as a 750ml bottle at 86 proof. In E
 **Release:** 2007  
 **Proof:** 86
 **Size:** 750ml  
-**Price:** ???
+**Price:** $45 (not 100% sure on this)
 
+
+## How Much Is Jack Daniel's Scenes From Lynchburg Number Five?
+Originally priced around $45, finding this on the shelf at retail is almost impossible 17 years after release.
+ 
+### Collector Of Jack's Value Assessment
+If you can find one of these for under $200, I recommend you pick it up!
