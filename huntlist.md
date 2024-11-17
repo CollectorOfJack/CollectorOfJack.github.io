@@ -32,7 +32,6 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 * 1915 [Gold Medal Series](/series/gold-medal) Box
 * [Jack Daniel's Special Release Coy Hill High Proof](/JackDanielsSpecialReleaseCoyHillHighProof)
 * [Jack Daniel's Small Batch Coy Hill](/SmallBatchCoyHill2022)
-* Sinatra Select Century
 * [2023 Special Release Twice Barreled Tennessee Rye](/TwiceBarreledRye)
 * Jack Daniel's American Single Malt (Duty Free or Miltary Purchase)
 * Jack Daniel's Distillery Series #10 (Pecan)
