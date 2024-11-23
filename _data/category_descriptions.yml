@@ -4,41 +4,33 @@
   title: "1-75l"
   description: "Explore our collection of Jack Daniel's 1.75L bottles, perfect for enthusiasts seeking larger quantities of their favorite Tennessee whiskey."
   
-
 10-years:
   title: "10 Years"
   description: "Delve into Jack Daniel's 10-year-old expressions, showcasing a decade of meticulous aging and rich, complex flavors."
-  
 
 10-years-old:
   title: "10 Years Old"
   description: "Discover the depth and character of Jack Daniel's 10-year-old whiskey, a testament to time-honored distillation practices."
-  
 
 100proof:
   title: "100 Proof"
   description: "Experience the bold intensity of Jack Daniel's 100 Proof offerings, delivering robust flavors and a higher alcohol content for discerning palates."
-  
 
 150th:
   title: "150th"
   description: "Celebrate the 150th anniversary of Jack Daniel's with special edition releases commemorating this significant milestone in whiskey history."
-  
 
 1996:
   title: "Year 1996"
   description: "Revisit the 1996 Jack Daniel's releases, capturing the essence of that year's unique distillation and aging processes."
-  
 
 1l:
   title: "1L - 1 Litre Bottles"
   description: "Browse our selection of Jack Daniel's 1-liter bottles, offering a generous pour of classic Tennessee whiskey."
-  
 
 2011:
   title: "Year 2011"
   description: "Explore Jack Daniel's 2011 releases, highlighting the brand's innovations and special editions from that year."
-  
 
 2012:
   title: "Year 2012"
@@ -47,7 +39,6 @@
 2013:
   title: "Year 2013"
   description: "Uncover Jack Daniel's 2013 releases, showcasing the distillery's continued commitment to quality and tradition."
-  
 
 2014:
   title: "Year 2014"
@@ -336,10 +327,9 @@ tasters-series:
 travel-exclusive:
   title: "Travel Exclusive"
   description: "Discover Jack Daniel's travel-exclusive bottles, available only at duty-free shops worldwide."
-  title: "Uncle Nearest"
 
 uncle-nearest:
-  title: "uncle-nearest"
+  title: "Uncle Nearest"
   description: "Welcome to our dedicated Uncle Nearest Whiskey collection page, where we celebrate the history, craftsmanship, and cultural significance of this exceptional Tennessee whiskey. Here, you'll find a curated selection of articles, bottle reviews, and insights into the brand's storied past, including its connection to Nathan 'Nearest' Green, the first known African-American master distiller. Whether you're looking to explore rare bottle releases, uncover tasting notes, or dive into the fascinating legacy that helped shape the whiskey industry, this page serves as your gateway to all things Uncle Nearest. Click through to discover more and enrich your whiskey collection with the spirit of history."
 
 vintage:
