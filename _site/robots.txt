@@ -1,4 +1,0 @@
-User-agent: *
-Sitemap: https://collectorofjack.com/sitemap.xml
-Allow: /images/
-Disallow: /Admin/
