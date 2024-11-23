@@ -7,48 +7,49 @@ product: false
 
 <!-- Begin List Posts
 ================================================== -->
-<section  class="section--postsWrapper">
-<div class="section-title">
-    <h2>Archive of posts with <span>{{ page.type }} '{{ page.title }}'</span></h2>
-</div>
-<div class="blockGroup">
+<section class="section--postsWrapper">
+
+  <!-- Dynamic Category Title and Description -->
+  <div class="section-title">
+    {% assign category_name = page.title | downcase | slugify %}
+    {% assign category_data = site.data.category_descriptions[category_name] %}
+    {% if category_data %}
+      <h1>{{ category_data.title }}</h1>
+      <p>{{ category_data.description }}</p>
+    {% else %}
+      <h1>Posts in Category: {{ page.title }}</h1>
+      <p>Explore posts related to {{ page.title }} on CollectorOfJack.com.</p>
+    {% endif %}
+  </div>
+
+  <!-- List of Posts in the Category -->
+  <div class="blockGroup">
     <ul class="blockGroup-list">
-    {% for post in site.categories[page.title] %}
-
-    {% assign post = site.posts.first %}
-    {% assign content = post.content %}
-
-    <li class="block">
-      <div class="postArticle-wrapper">
-
-      <div class="post-preview"
-        style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
-
-        <a href="{{ post.url | prepend: site.baseurl }}">
-        {% if post.image %}
-        {% picture blogcrop {{ post.image }} --alt {{ post.title }} %}
-        {% endif %}
-        <p class="post-title"
-          style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-          {{ post.title }}
-        </p>
-        </a>
-        {% if post.subtitle %}
-        <p class="post-subtitle"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        {{ post.subtitle }}</p>
-        {% endif %}
-
-        <p class="post-meta"
-        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
-        Posted on {{ post.date | date: "%B %-d, %Y" }}</p>
-      </div>
-
-      </div>
-    </li>
-
-    {% endfor %}
+      {% for post in site.categories[page.title] %}
+        <li class="block">
+          <div class="postArticle-wrapper">
+            <div class="post-preview" style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+              <a href="{{ post.url | prepend: site.baseurl }}">
+                {% if post.image %}
+                  {% picture blogcrop {{ post.image }} --alt {{ post.title }} %}
+                {% endif %}
+                <p class="post-title" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;">
+                  {{ post.title }}
+                </p>
+              </a>
+              {% if post.subtitle %}
+                <p class="post-subtitle" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;">
+                  {{ post.subtitle }}
+                </p>
+              {% endif %}
+              <p class="post-meta" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;">
+                Posted on {{ post.date | date: "%B %-d, %Y" }}
+              </p>
+            </div>
+          </div>
+        </li>
+      {% endfor %}
     </ul>
-</div>
+  </div>
 
 </section>
