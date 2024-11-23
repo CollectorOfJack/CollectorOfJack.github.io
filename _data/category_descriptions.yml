@@ -124,7 +124,7 @@ birthday:
 
 blackened:
   title: "Blackened"
-  description: "Blackened American Whiskey is a bold and innovative spirit born from the collaboration between the legendary band Metallica and master distiller Dave Pickerell. This unique whiskey blends traditional craftsmanship with cutting-edge techniques, including the proprietary "Black Noise" sonic-enhancement process, where low-frequency sound waves enhance the whiskey's interaction with the barrel, imparting complex flavors. This category delves into the story, production methods, and tasting notes of Blackened American Whiskey, celebrating its fusion of music and distilling artistry. Explore the rich, smoky profile and discover the perfect blend of tradition and innovation in every bottle."
+  description: "Blackened American Whiskey is a bold and innovative spirit born from the collaboration between the legendary band Metallica and master distiller Dave Pickerell. This unique whiskey blends traditional craftsmanship with cutting-edge techniques, including the proprietary 'Black Noise' sonic-enhancement process, where low-frequency sound waves enhance the whiskey's interaction with the barrel, imparting complex flavors. This category delves into the story, production methods, and tasting notes of Blackened American Whiskey, celebrating its fusion of music and distilling artistry. Explore the rich, smoky profile and discover the perfect blend of tradition and innovation in every bottle."
 
 bonded:
   title: "Bonded"
@@ -177,6 +177,7 @@ distillery-series:
 duty-free:
   title: "Duty Free"
   description: "Discover Jack Daniel's Duty-Free exclusives, available only at international travel retail locations."
+
 
 fire:
   title: "Fire"
