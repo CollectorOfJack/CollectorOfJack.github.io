@@ -1,255 +1,351 @@
-1.75L:
+  title: "1.75L"
+
+1-75l:
+  title: "1-75l"
   description: "Explore our collection of Jack Daniel's 1.75L bottles, perfect for enthusiasts seeking larger quantities of their favorite Tennessee whiskey."
+  
 
-10 Years:
+10-years:
+  title: "10 Years"
   description: "Delve into Jack Daniel's 10-year-old expressions, showcasing a decade of meticulous aging and rich, complex flavors."
+  
 
-10 Years Old:
+10-years-old:
+  title: "10 Years Old"
   description: "Discover the depth and character of Jack Daniel's 10-year-old whiskey, a testament to time-honored distillation practices."
+  
 
-100Proof:
+100proof:
+  title: "100 Proof"
   description: "Experience the bold intensity of Jack Daniel's 100 Proof offerings, delivering robust flavors and a higher alcohol content for discerning palates."
+  
 
 150th:
+  title: "150th"
   description: "Celebrate the 150th anniversary of Jack Daniel's with special edition releases commemorating this significant milestone in whiskey history."
+  
 
 1996:
+  title: "Year 1996"
   description: "Revisit the 1996 Jack Daniel's releases, capturing the essence of that year's unique distillation and aging processes."
+  
 
-1L:
+1l:
+  title: "1L - 1 Litre Bottles"
   description: "Browse our selection of Jack Daniel's 1-liter bottles, offering a generous pour of classic Tennessee whiskey."
+  
 
 2011:
+  title: "Year 2011"
   description: "Explore Jack Daniel's 2011 releases, highlighting the brand's innovations and special editions from that year."
+  
 
 2012:
+  title: "Year 2012"
   description: "Discover the 2012 lineup of Jack Daniel's, featuring limited editions and unique expressions crafted during that year."
-
+  
 2013:
+  title: "Year 2013"
   description: "Uncover Jack Daniel's 2013 releases, showcasing the distillery's continued commitment to quality and tradition."
+  
 
 2014:
+  title: "Year 2014"
   description: "Examine the 2014 Jack Daniel's offerings, reflecting a year of exceptional whiskey production and special releases."
 
 2019:
+  title: "Year 2019"
   description: "Review the 2019 Jack Daniel's collection, featuring new expressions and limited editions that delighted whiskey aficionados."
-
+  
 2020:
+  title: "Year 2020"
   description: "Investigate Jack Daniel's 2020 releases, a year marked by innovative flavors and commemorative bottles."
-
+  
 2022:
+  title: "Year 2022"
   description: "Analyze the 2022 lineup from Jack Daniel's, highlighting the latest additions to their esteemed whiskey portfolio."
 
 2023:
+  title: "Year 2023"
   description: "Stay updated with Jack Daniel's 2023 releases, featuring the newest expressions and limited editions for collectors and enthusiasts."
-
+  
 2024:
+  title: "Year 2024"
   description: "Anticipate Jack Daniel's 2024 offerings, with upcoming releases and special editions on the horizon."
 
 375ml:
+  title: "375ml"
   description: "Explore our range of Jack Daniel's 375ml bottles, ideal for sampling or gifting a taste of Tennessee whiskey."
 
 700ml:
+  title: "700ml"
   description: "Discover Jack Daniel's 700ml bottles, offering a balanced quantity for both enjoyment and collection."
 
 750ml:
+  title: "750ml"
   description: "Browse the classic 750ml Jack Daniel's bottles, a staple size for whiskey lovers worldwide."
 
-About:
+about:
+  title: "About"
   description: "Learn about the mission and passion behind CollectorOfJack.com, your go-to source for all things Jack Daniel's."
 
-Aged:
+aged:
+  title: "Aged"
   description: "Dive into aged Jack Daniel's expressions, where extended maturation brings out deeper, more complex flavors."
 
-Angel's:
+angels:
+  title: "Angel's"
   description: "Explore the 'Angel's Share' phenomenon in Jack Daniel's aging process, where a portion of whiskey evaporates, enriching the remaining spirit."
 
-Apple:
+apple:
+  title: "Apple"
   description: "Savor the crisp and refreshing taste of Jack Daniel's Apple, blending Tennessee whiskey with green apple liqueur."
 
-Appraisal:
+appraisal:
+  title: "Appraisal"
   description: "Get insights into the appraisal and valuation of Jack Daniel's bottles, helping collectors understand their worth."
 
-Añejo:
+aejo:
+  title: "Añejo"
   description: "Discover Jack Daniel's Añejo expressions, showcasing the influence of aging in seasoned barrels."
 
-Barrel Proof:
+barrel-proof:
+  title: "Barrel Proof"
   description: "Experience the uncut and unfiltered strength of Jack Daniel's Barrel Proof whiskeys, delivering full-bodied flavors."
 
-Barrel Proof Rye:
+barrel-proof-rye:
+  title: "Barrel Proof Rye"
   description: "Delve into Jack Daniel's Barrel Proof Rye, combining the spice of rye with the intensity of barrel proof."
 
-Barrel Tree:
+barrel-tree:
+  title: "Barrel Tree"
   description: "Learn about the iconic Jack Daniel's Barrel Tree, a holiday tradition celebrating the distillery's craftsmanship."
 
-Before & After:
+before-after:
+  title: "Before & After"
   description: "Explore the 'Before & After' series, highlighting the transformation of Jack Daniel's whiskey through various finishing processes."
 
-Bicentennial:
+bicentennial:
+  title: "Bicentennial"
   description: "Celebrate Jack Daniel's Bicentennial releases, commemorating 200 years of whiskey-making heritage."
 
-Birthday:
+birthday:
+  title: "Birthday"
   description: "Discover Jack Daniel's Birthday editions, special releases honoring the founder's legacy."
 
-Blackened:
+blackened:
+  title: "Blackened"
   description: "Uncover the collaboration between Jack Daniel's and Metallica, resulting in the unique Blackened whiskey expression."
 
-Bonded:
+bonded:
+  title: "Bonded"
   description: "Explore Jack Daniel's Bonded series, adhering to the Bottled-in-Bond Act standards for quality and authenticity."
 
-Bottled in Bond:
+bottled-in-bond:
+  title: "Bottled in Bond"
   description: "Learn about Jack Daniel's Bottled in Bond offerings, ensuring a higher standard of whiskey production."
 
-Bourbon:
+bourbon:
+  title: "Bourbon"
   description: "Discuss the classification of Jack Daniel's as a bourbon and its unique characteristics that set it apart."
 
-Box:
+box:
+  title: "Box"
   description: "Examine the packaging and presentation of Jack Daniel's bottles, including collectible boxes and gift sets."
 
-Calendar:
+calendar:
+  title: "Calendar"
   description: "Stay informed with the Jack Daniel's release calendar, highlighting upcoming and past whiskey launches."
 
-ChatGPT:
+chatgpt:
+  title: "ChatGPT"
   description: "Explore content generated with the assistance of ChatGPT, providing AI-driven insights into Jack Daniel's."
 
-Cider:
+cider:
+  title: "Cider"
   description: "Savor the seasonal flavors of Jack Daniel's Cider, blending whiskey with the warmth of apple cider."
 
-Cinnamon:
+cinnamon:
+  title: "Cinnamon"
   description: "Experience the spicy kick of Jack Daniel's Cinnamon expressions, adding heat to the classic whiskey profile."
 
-Collection:
+collection:
+  title: "Collection"
   description: "Build and manage your Jack Daniel's collection with tips, guides, and featured bottles."
 
-Coy Hill:
+coy-hill:
+  title: "Coy Hill"
   description: "Discover the Coy Hill series, showcasing Jack Daniel's high-proof offerings from the highest elevation barrels."
 
-Distillers Series:
+distillers-series:
+  title: "Distillers Series"
   description: "Explore the Distillers Series, honoring the master distillers who have shaped Jack Daniel's legacy."
 
-Distillery:
+distillery:
+  title: "Distillery"
   description: "Learn about the Jack Daniel's Distillery in Lynchburg, Tennessee, the heart of their whiskey production."
 
-Distillery Series:
+distillery-series:
+  title: "Distillery Series"
   description: "Delve into the Distillery Series, featuring experimental and limited-run Jack Daniel's expressions."
 
-Duty Free:
+duty-free:
+  title: "Duty Free"
   description: "Discover Jack Daniel's Duty-Free exclusives, available only at international travel retail locations."
 
-Family History:
+family-history:
+  title: "Family History"
   description: "Uncover the rich family history behind Jack Daniel's, from its founder to the present day."
 
-Fire:
+fire:
+  title: "Fire"
   description: "Ignite your senses with Jack Daniel's Tennessee Fire, a blend of cinnamon liqueur and whiskey."
 
-Flavor:
+flavor:
+  title: "Flavor"
   description: "Explore the various flavored expressions of Jack Daniel's, from Honey to Apple and beyond."
 
-Florida:
+florida:
+  title: "Florida"
   description: "Highlight Jack Daniel's events, releases, and news specific to the Florida region."
 
-Friends:
+friends:
+  title: "Friends"
   description: "Celebrate the community of Jack Daniel's friends and fans who share a passion for this iconic whiskey."
 
-Gentleman Jack:
+gentleman-jack:
+  title: "Gentleman Jack"
   description: "Experience the smoothness of Gentleman Jack, double-mellowed for exceptional refinement."
 
-Gift Set:
+gift-set:
+  title: "Gift Set"
   description: "Find the perfect Jack Daniel's gift sets for any occasion, featuring bottles and branded merchandise."
 
-Glassware:
+glassware:
+  title: "Glassware"
   description: "Explore Jack Daniel's glassware, from collectible shot glasses to branded tumblers, perfect for whiskey enthusiasts."
 
-Gold:
+gold:
+  title: "Gold"
   description: "Discover Jack Daniel's Gold Label expressions, including premium and international-exclusive offerings."
 
-Green Label:
+green-label:
+  title: "Green Label"
   description: "Learn about Jack Daniel's Green Label, a lighter, less mature whiskey with a unique flavor profile."
 
-Halloween:
+halloween:
+  title: "Halloween"
   description: "Celebrate Halloween with Jack Daniel's-themed content, from bottle designs to festive cocktails."
 
-Heritage Barrel:
+heritage-barrel:
+  title: "Heritage Barrel"
   description: "Explore the Heritage Barrel series, crafted using a unique toasting and aging process for a rich flavor."
 
-Holiday:
+holiday:
+  title: "Holiday"
   description: "Dive into Jack Daniel's holiday-themed releases, including special edition bottles and festive gift sets."
 
-Honey:
+honey:
+  title: "Honey"
   description: "Savor the sweet and smooth taste of Jack Daniel's Tennessee Honey, a blend of whiskey and honey liqueur."
 
-International:
+international:
+  title: "International"
   description: "Discover Jack Daniel's international exclusives, available only in select global markets."
 
-Jack Daniel's:
+jack-daniels:
+  title: "Jack Daniel's"
   description: "Explore the iconic Jack Daniel's brand, including its history, product lineup, and collectible bottles."
 
-Jack Fire:
+jack-fire:
+  title: "Jack Fire"
   description: "Feel the heat with Jack Daniel's Tennessee Fire, a bold whiskey with a spicy cinnamon kick."
 
-Jack Honey:
+jack-honey:
+  title: "Jack Honey"
   description: "Indulge in the sweet harmony of Jack Daniel's Tennessee Honey, a perfect balance of whiskey and honey."
 
-Japan:
+japan:
+  title: "Japan"
   description: "Learn about Jack Daniel's releases and events specific to Japan, featuring unique bottles and exclusives."
 
-Limited Edition:
+limited-edition:
+  title: "Limited Edition"
   description: "Uncover Jack Daniel's limited edition bottles, rare finds that are highly sought after by collectors."
 
-Lynchburg:
+lynchburg:
+  title: "Lynchburg"
   description: "Discover the charm of Lynchburg, Tennessee, home to the Jack Daniel's distillery and rich whiskey history."
 
-Master Distiller:
+master-distiller:
+  title: "Master Distiller"
   description: "Celebrate the legacy of Jack Daniel's Master Distillers with this series of commemorative bottles."
 
-Miniature:
+miniature:
+  title: "Miniature"
   description: "Browse Jack Daniel's miniature bottles, perfect for sampling or collecting in a smaller format."
 
-NASCAR:
+nascar:
+  title: "NASCAR"
   description: "Explore Jack Daniel's partnership with NASCAR, including themed merchandise and sponsorship history."
 
-Old No. 7:
+old-no-7:
+  title: "Old No. 7"
   description: "Delve into the classic Jack Daniel's Old No. 7, the signature whiskey that started it all."
 
-Photos:
+photos:
+  title: "Photos"
   description: "View stunning photography of Jack Daniel's bottles, distillery, and events from around the world."
 
-Prohibition:
+prohibition:
+  title: "Prohibition"
   description: "Learn about Jack Daniel's during Prohibition, and how the brand navigated this challenging era."
 
-Racing:
+racing:
+  title: "Racing"
   description: "Discover Jack Daniel's involvement in racing, from car sponsorships to motorsport-themed bottles."
 
-Rare:
+rare:
+  title: "Rare"
   description: "Explore rare Jack Daniel's bottles, prized for their limited availability and unique designs."
 
-Rye:
+rye:
+  title: "Rye"
   description: "Experience Jack Daniel's Rye expressions, crafted with a bold and spicy character."
 
-Single Barrel:
+single-barrel:
+  title: "Single Barrel"
   description: "Uncover the unique flavors of Jack Daniel's Single Barrel, with each bottle offering a one-of-a-kind experience."
 
-Special Edition:
+special-edition:
+  title: "Special Edition"
   description: "Explore Jack Daniel's special edition releases, crafted to commemorate milestones and events."
 
-Tennessee Honey:
+tennessee-honey:
+  title: "Tennessee Honey"
   description: "Indulge in the smooth blend of Jack Daniel's Tennessee Honey, a perfect fusion of whiskey and honey."
 
-Tennessee Whiskey:
+tennessee-whiskey:
+  title: "Tennessee Whiskey"
   description: "Learn about Jack Daniel's Tennessee Whiskey, crafted with a time-honored charcoal mellowing process."
 
-Taster's Series:
+tasters-series:
+  title: "Taster's Series"
   description: "Discover Jack Daniel's Taster's Series, a collection of small-batch experimental whiskeys crafted to explore unique flavors and techniques. Each release offers a limited glimpse into the innovation and artistry of the distillery, making it a must-have for collectors and whiskey enthusiasts alike."
 
-Travel Exclusive:
+travel-exclusive:
+  title: "Travel Exclusive"
   description: "Discover Jack Daniel's travel-exclusive bottles, available only at duty-free shops worldwide."
+  title: "Uncle Nearest"
 
 uncle-nearest:
-  title: "Uncle Nearest"
+  title: "uncle-nearest"
   description: "Welcome to our dedicated Uncle Nearest Whiskey collection page, where we celebrate the history, craftsmanship, and cultural significance of this exceptional Tennessee whiskey. Here, you'll find a curated selection of articles, bottle reviews, and insights into the brand's storied past, including its connection to Nathan 'Nearest' Green, the first known African-American master distiller. Whether you're looking to explore rare bottle releases, uncover tasting notes, or dive into the fascinating legacy that helped shape the whiskey industry, this page serves as your gateway to all things Uncle Nearest. Click through to discover more and enrich your whiskey collection with the spirit of history."
 
-Vintage:
+vintage:
+  title: "Vintage"
   description: "Browse vintage Jack Daniel's bottles, a collector's treasure showcasing the brand's storied past."
 
-Whiskey:
+whiskey:
+  title: "Whiskey"
   description: "Dive into the world of Jack Daniel's whiskey, from classic expressions to innovative new releases."
