@@ -124,7 +124,7 @@ birthday:
 
 blackened:
   title: "Blackened"
-  description: "Uncover the collaboration between Jack Daniel's and Metallica, resulting in the unique Blackened whiskey expression."
+  description: "Blackened American Whiskey is a bold and innovative spirit born from the collaboration between the legendary band Metallica and master distiller Dave Pickerell. This unique whiskey blends traditional craftsmanship with cutting-edge techniques, including the proprietary "Black Noise" sonic-enhancement process, where low-frequency sound waves enhance the whiskey's interaction with the barrel, imparting complex flavors. This category delves into the story, production methods, and tasting notes of Blackened American Whiskey, celebrating its fusion of music and distilling artistry. Explore the rich, smoky profile and discover the perfect blend of tradition and innovation in every bottle."
 
 bonded:
   title: "Bonded"
@@ -166,10 +166,6 @@ coy-hill:
   title: "Coy Hill"
   description: "Discover the Coy Hill series, showcasing Jack Daniel's high-proof offerings from the highest elevation barrels."
 
-distillers-series:
-  title: "Distillers Series"
-  description: "Explore the Distillers Series, honoring the master distillers who have shaped Jack Daniel's legacy."
-
 distillery:
   title: "Distillery"
   description: "Learn about the Jack Daniel's Distillery in Lynchburg, Tennessee, the heart of their whiskey production."
@@ -181,10 +177,6 @@ distillery-series:
 duty-free:
   title: "Duty Free"
   description: "Discover Jack Daniel's Duty-Free exclusives, available only at international travel retail locations."
-
-family-history:
-  title: "Family History"
-  description: "Uncover the rich family history behind Jack Daniel's, from its founder to the present day."
 
 fire:
   title: "Fire"
@@ -260,7 +252,7 @@ japan:
 
 jeff-arnett:
   title: "Jeff Arnett bottles and signatures"
-  description: "Our collection of posts that are categorized with content from Jeff Arnett, Master Distiller #7 from Jack Daniel's"
+  description: "The page on Collector of Jack dedicated to Jeff Arnett highlights his significant contributions to Jack Daniel's as the brand's Master Distiller from 2008 to 2020. As the 7th Master Distiller in Jack Daniel's history, Arnett oversaw the production of the iconic Tennessee Whiskey, ensuring quality and innovation in line with the brand's longstanding tradition. During his tenure, he introduced several notable whiskey expressions, expanding Jack Daniel's portfolio and global appeal. This category likely explores his legacy, contributions, and any memorabilia or limited-edition releases associated with his leadership."
 
 limited-edition:
   title: "Limited Edition"

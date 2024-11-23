@@ -2,7 +2,7 @@
 layout: post
 title: "Tennessee Tasters' Barrel Reunion #1"
 date: '2019-06-18T17:33:56+00:00'
-last_modified_at: '2024-07-08T15:55:45+00:00'
+last_modified_at: '2024-11-23T15:55:45+00:00'
 permalink: BarrelReunion1
 image: 19/CollectorOfJack-7.jpg
 description: A collector's guide to the Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle.
@@ -17,7 +17,7 @@ gallery:
   - image_path: 19/CollectorOfJack-9.jpg
     image-caption: "Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle."
     image-copyright: © CollectorOfJack.com
-categories: [ TN Tasters, Tennessee Tasters, Distillers Series, 375ml, Reunion, Tasters Series, Tasters ]
+categories: [ TN Tasters, Tennessee Tasters, 375ml, Reunion, Tasters Series, Tasters ]
 price: 199.99
 brand: "Jack Daniel's"
 ---
