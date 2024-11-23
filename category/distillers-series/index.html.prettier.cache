@@ -21,9 +21,9 @@
 
 		<meta
 			property="og:url"
-			content="https://collectorofjack.com/category/distillers-series/"
+			content="http://localhost:4000/category/distillers-series/"
 		/>
-		<meta property="og:image" content="https://collectorofjack.com" />
+		<meta property="og:image" content="http://localhost:4000" />
 
 		<meta property="og:type" content="category" />
 
@@ -50,13 +50,13 @@
 			name="twitter:description"
 			content="A blog about collecting Jack Daniel's bottles and memorabilia from Chris Hammond."
 		/>
-		<meta name="twitter:image" content="https://collectorofjack.com" />
+		<meta name="twitter:image" content="http://localhost:4000" />
 
 		<meta name="keywords" content="" />
 
 		<link
 			rel="canonical"
-			href="https://collectorofjack.com/category/distillers-series/"
+			href="http://localhost:4000/category/distillers-series/"
 		/>
 
 		<link rel="shortcut icon" href="/favicon.ico?" type="image/x-icon" />
@@ -74,21 +74,21 @@
 		<!-- Custom CSS -->
 		<link
 			rel="stylesheet"
-			href="/css/WYSIWYG.css?v=1732388489"
+			href="/css/WYSIWYG.css?v=1732388335"
 			media="screen"
 		/>
-		<link rel="stylesheet" href="/css/main.css?v=1732388489" />
-		<link rel="stylesheet" href="/css/galleries.css?v=1732388489" />
-		<link rel="stylesheet" href="/css/magnificpopup.css?v=1732388489" />
+		<link rel="stylesheet" href="/css/main.css?v=1732388335" />
+		<link rel="stylesheet" href="/css/galleries.css?v=1732388335" />
+		<link rel="stylesheet" href="/css/magnificpopup.css?v=1732388335" />
 
 		<link
 			rel="stylesheet"
-			href="/css/tags-wrap.css?v=1732388489"
+			href="/css/tags-wrap.css?v=1732388335"
 			media="screen"
 		/>
 		<link
 			rel="stylesheet"
-			href="/css/journal.css?v=1732388489"
+			href="/css/journal.css?v=1732388335"
 			media="screen"
 		/>
 		<!-- Custom Fonts -->
@@ -180,7 +180,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "BlogPosting",
-				"url": "https://collectorofjack.com/category/distillers-series/",
+				"url": "http://localhost:4000/category/distillers-series/",
 				"name": "Distillers Series",
 				"headline": "Distillers Series",
 				"keywords": "",
@@ -190,17 +190,17 @@
 				"publisher": {
 					"@type": "Organization",
 					"name": "Collector Of Jack - A Jack Daniel's Tennessee Whiskey Blog",
-					"url": "https://collectorofjack.com",
+					"url": "http://localhost:4000",
 					"logo": {
 						"@type": "ImageObject",
 						"width": 32,
 						"height": 32,
-						"url": "https://collectorofjack.com/"
+						"url": "http://localhost:4000/"
 					}
 				},
 				"mainEntityOfPage": {
 					"@type": "WebPage",
-					"@id": "https://collectorofjack.com//category/distillers-series/"
+					"@id": "http://localhost:4000//category/distillers-series/"
 				}
 			}
 		</script>
