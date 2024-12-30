@@ -75,7 +75,8 @@ Commemorates the gold medals won by Jack Daniel's whiskey at various internation
 3. [2020 Special Release Barrel Proof Rye](/2020SpecialRelease)
 4. [2021 Special Release Coy Hill](/JackDanielsSpecialReleaseCoyHillHighProof)
 5. [2022 Special Release Twice Barreled Single Malt](/TwiceBarreledAmericanMalt)
-6. [2023 Special Release Coy Hill](/TwiceBarreledRye)
+6. [2023 Special Release Twice Barreled Rye](/TwiceBarreledRye)
+7. 2024 Special Release Coy Hill
 
 ## Sinatra Select
 A special edition honoring Frank Sinatra's love for Jack Daniel's.
